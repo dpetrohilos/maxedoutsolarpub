@@ -1,4 +1,4 @@
-<?php /* Template Name: Eco Rooftop Solar Splash */ get_header(); ?>
+<?php /* Template Name: Savings Community Solar */ get_header(); ?>
 
 
 

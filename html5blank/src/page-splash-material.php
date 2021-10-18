@@ -1,4 +1,4 @@
-<?php /* Template Name: Material Splash */ get_header(); ?>
+<?php /* Template Name: Savings Rooftop Solar Splash */ get_header(); ?>
 
 	<main role="main" aria-label="Content" class="wrapper-full">
 
