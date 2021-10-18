@@ -1,0 +1,99 @@
+/**
+ * partials/header
+ * ---
+ */
+
+
+// Header container
+
+.topbar {
+background: transparent;
+    
+   
+}
+ .scroll {
+    background: #f7f6f1 !important;
+
+    }
+.header {
+    height: auto;
+    padding: 0; 
+    margin: 0; 
+    top: 0;
+    background: #f7f6f1; 
+
+    
+    section {
+        
+        padding: 0;
+        margin: 0 auto;
+
+        
+        .content-header { } 
+        
+        
+        
+    }
+// Logo
+.logo {
+padding: 0;
+    
+}
+.logo-img {
+height: 12rem;
+width: 22.2rem;
+display: block;
+left: 5.5rem;
+position: relative;    
+}
+    } 
+
+
+
+.navbar-bg {
+    
+}
+
+
+
+.header .logo-img {
+    @media screen and (min-width: $lg-max) {
+left: 5.5rem; 
+top: 0; 
+        
+}
+    
+@media screen and (max-width: $lg-max) {
+left: 5.5rem; 
+top: 0;
+    
+}
+  
+
+@media screen and (max-width: $md-max) {
+left: 5.5rem; 
+top: 0rem; 
+    
+}
+
+    
+@media screen and (max-width: $sm-max) {
+left: 3.6rem; 
+top: 1.2rem; 
+    
+
+}
+
+    
+@media screen and (max-width: $xs-max) {
+
+left: 3.6rem; 
+top: 1.2rem; 
+
+    
+  }
+
+}
+
+
+

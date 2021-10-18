@@ -1,0 +1,332 @@
+/**
+ * partials/nav
+ * ---
+ * Menus
+ */
+
+$tomato: #e5593f; 
+
+
+.hamburger{
+    
+    width: 18rem; 
+    height: 12rem; 
+    position: fixed; 
+    display: block; 
+    background-color: white;
+    
+
+#menuToggle
+{
+    display: block;
+    position: fixed;
+    top: 4.6rem;
+    left: 3.6rem;
+    z-index: 1;
+  
+  -webkit-user-select: none;
+  user-select: none;
+
+}
+
+#menuToggle a
+{
+  text-decoration: none;
+  color: #232323;
+  
+  transition: color 0.3s ease;
+}
+
+#menuToggle a:hover
+{
+  color: $tomato;
+}
+
+#menuToggle label {
+        
+        position: absolute; 
+        font-size: 1.8rem;
+        top: 1rem; 
+        left: 4.8rem; 
+    }
+
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+  
+  cursor: pointer;
+  
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+  
+  -webkit-touch-callout: none;
+}
+
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+  display: block;
+  width: 36px;
+  height: 4px;
+  margin-bottom: 7px;
+  position: relative;
+  
+  background: $tomato;
+  border-radius: 3px;
+  
+  z-index: 1;
+  
+  transform-origin: 4px 0px;
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-1px, 1px);
+  background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+  position: absolute;
+  width: 100vw;
+  margin: -100px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+    height: 110vh;
+  
+  background: #ededed;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+  
+  transform-origin: 10% 0%;
+  transform: translate(-500vw, 0);
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  font-size: 2.2rem;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+
+}
+
+.nav-top {
+    
+    ul {display: inline-flex;  
+    
+        li {
+            list-style: none;
+            
+            a {
+                font-size: 1.8rem;
+                border: 1px solid transparent; 
+                padding: 1rem 2.4rem .7rem;
+                border-radius: 5rem; 
+                &:hover {
+                    text-decoration: none; 
+                    color: $tomato; 
+                    border: $tomato 1px solid; 
+                    
+                    
+                }
+            }
+        }
+    
+    }
+}
+
+.nav-top ul {
+
+    
+    
+@media screen and (min-width: $lg-max) {
+
+}
+    
+@media screen and (max-width: $lg-max) {
+               
+
+}
+  
+
+@media screen and (max-width: $md-max) {
+
+}
+
+    
+@media screen and (max-width: $sm-max) {
+
+}
+
+    
+@media screen and (max-width: $xs-max) {
+
+    
+    padding-left: 0; 
+  }
+    
+
+    
+}
+
+.nav-top ul li {
+
+    
+    
+@media screen and (min-width: $lg-max) {
+            padding: 5.2rem 1.2rem 0; 
+
+}
+    
+@media screen and (max-width: $lg-max) {
+             padding: 5.2rem 1.2rem 0; 
+              
+
+}
+  
+
+@media screen and (max-width: $md-max) {
+            padding: 5.2rem 1.2rem 0; 
+
+}
+
+    
+@media screen and (max-width: $sm-max) {
+            padding: 2.4rem 0 1.2rem; 
+
+}
+
+    
+@media screen and (max-width: $xs-max) {
+
+    
+            padding: 2.4rem 0 1.2rem; 
+  }
+    
+
+    
+}
+
+.nav-top ul li a {
+    
+@media screen and (min-width: $lg-max) {
+padding: 1rem 2.4rem .7rem;
+
+}
+    
+@media screen and (max-width: $lg-max) {
+               
+padding: 1rem 2.4rem .7rem;
+
+}
+  
+
+@media screen and (max-width: $md-max) {
+padding: 1rem 2.4rem .7rem;
+
+}
+
+    
+@media screen and (max-width: $sm-max) {
+padding: 1rem 1.2rem .7rem;
+
+}
+
+    
+@media screen and (max-width: $xs-max) {
+
+padding: 1rem 1.2rem .7rem;
+
+    
+  }
+    
+
+    
+}
+
+
+.header--fixed {
+    position: fixed; 
+        transform: translateY(-100%);
+        top: 0; left: 0; 
+}
+
+
+.headroom--pinned {
+    display: block;
+    top: 0; left: 0; 
+
+}
+.headroom--unpinned {
+    top:-12rem;
+
+}
+.headroom {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+.headroom--pinned {
+    transform: translateY(0%);
+}
+.headroom--unpinned {
+    transform: translateY(-100%);
+}
+
+

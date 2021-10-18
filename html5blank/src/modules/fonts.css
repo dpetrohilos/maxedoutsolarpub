@@ -1,0 +1,109 @@
+/**
+ * modules/fonts
+ * ---
+ * Declare fonts here
+ */
+@font-face {
+  font-family: "Nexa";
+  src: url("fonts/nexabook.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: "Nexa bold";
+  src: url("fonts/Nexabold.otf") format("otf");
+  font-weight: bold;
+  font-style: bold;
+  font-display: swap; }
+/* line 59, ../css/sass/modules/fonts.scss */
+p, ul, ol, li {
+  line-height: 2.44rem;
+  font-weight: 300;
+  font-size: 1.8rem;
+  padding: 0 0 1.2rem 0;
+  margin: 0; }
+
+/* line 68, ../css/sass/modules/fonts.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 1.2rem 0;
+  font-family: "Nexa bold", NexaBold, Arial, "Open Sans", sans-serif;
+  font-wieght: bolder; }
+
+/* line 85, ../css/sass/modules/fonts.scss */
+strong, b {
+  font-weight: bold !important;
+  font-family: "Nexa Bold", NexaBold, Arial, "Open Sans", sans-serif; }
+
+/* line 90, ../css/sass/modules/fonts.scss */
+em {
+  font-style: italic; }
+
+/* line 95, ../css/sass/modules/fonts.scss */
+h1 {
+  font-size: 3.2rem;
+  line-height: 3.6rem;
+  margin-top: 1.2rem;
+  margin-bottom: 10px; }
+
+/* line 97, ../css/sass/modules/fonts.scss */
+h2 {
+  font-size: 3rem;
+  line-height: 3.6rem;
+  margin-top: 1.2rem; }
+
+/* line 99, ../css/sass/modules/fonts.scss */
+h3 {
+  font-size: 2.8rem;
+  line-height: 3.6rem;
+  margin-top: 1rem; }
+
+/* line 101, ../css/sass/modules/fonts.scss */
+h4 {
+  font-size: 2.6rem;
+  line-height: 2.4rem;
+  margin-top: 2rem; }
+
+/* line 103, ../css/sass/modules/fonts.scss */
+h5 {
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+  margin-top: 2.4rem; }
+
+/* line 105, ../css/sass/modules/fonts.scss */
+h6 {
+  font-size: 2.2rem;
+  line-height: 2.4rem;
+  margin-top: 2.6rem; }
+
+/* line 111, ../css/sass/modules/fonts.scss */
+a {
+  color: #444;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out; }
+  /* line 114, ../css/sass/modules/fonts.scss */
+  a:hover {
+    color: tomato;
+    text-decoration: none !important; }
+  /* line 119, ../css/sass/modules/fonts.scss */
+  a:target {
+    text-decoration: none; }
+  /* line 123, ../css/sass/modules/fonts.scss */
+  a:active {
+    text-decoration: none; }
+  /* line 127, ../css/sass/modules/fonts.scss */
+  a:focus {
+    text-decoration: none; }
+
+/* line 136, ../css/sass/modules/fonts.scss */
+.content-inner ul {
+  margin: 0 4.8rem 0 4.8rem;
+  padding: 0; }
+/* line 144, ../css/sass/modules/fonts.scss */
+.content-inner ol {
+  margin: 0 4.8rem 0 4.8rem;
+  padding: 0; }

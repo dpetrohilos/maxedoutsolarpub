@@ -1,0 +1,39 @@
+/**
+ * partials/sidebar
+ * ---
+ */
+
+
+.sidebar {
+    
+    background: #b23620; 
+    border-radius: 2rem;
+    height: auto; 
+    
+    ::selection {
+        background: #fff;
+        color: #b23620; 
+    }
+    
+    background-color: #b23620; 
+    
+    h1,h2,h3,h4,h5,h6,p,ol,li,ul {
+        color: #fff; 
+    }
+    
+    h2 {
+        padding-top: .3rem;
+    }
+    
+    
+    a {
+        color: #b23620;
+        background: #fff; 
+        
+        &:hover {
+            border: 1px solid #fff; 
+            color: #fff; 
+            background: transparent; 
+        }
+    }
+}

@@ -1,0 +1,152 @@
+/**
+ * modules/fonts
+ * ---
+ * Declare fonts here
+ */
+
+$tomato: tomato; 
+@font-face {
+  font-family: "Nexa";
+  src: url("fonts/nexabook.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+    font-display: swap; 
+}
+
+@font-face {
+  font-family: "Nexa bold";
+  src: url("fonts/Nexabold.otf") format("otf");
+  font-weight: bold;
+  font-style: bold;
+font-display: swap;
+
+}
+
+
+$baseline: 2.44rem;
+
+$minScreen: 20rem;
+$maxScreen: 50rem;
+$minFont: 1.6rem;
+$maxFont: 1.8rem;
+
+
+
+@mixin fluid-type($properties, $min-vw, $max-vw, $min-value, $max-value) {
+	& {
+		@each $property in $properties {
+			#{$property}: $min-value;
+		}
+
+		@media screen and (min-width: $min-vw) {
+			@each $property in $properties {
+				#{$property}: calc(#{$min-value} + #{strip-unit($max-value - $min-value)} * ((100vw - #{$min-vw}) / #{strip-unit($max-vw - $min-vw)}));
+			}
+		}
+
+		@media screen and (min-width: $max-vw) {
+			@each $property in $properties {
+				#{$property}: $max-value;
+			}
+		}
+	}
+}
+
+@function strip-unit($value) {
+	@return $value / ($value * 0 + 1);
+}
+
+p, ul, ol, li {	
+	line-height: $baseline;
+    font-weight: 300;
+    font-size: 1.8rem; 
+    padding: 0 0 1.2rem 0;
+    margin: 0;
+    
+}
+
+h1,
+h2,
+h3,
+h4,
+h5, 
+h6 {
+margin: 0 0 1.2rem 0; 
+font-family: "Nexa bold", NexaBold, Arial, "Open Sans", sans-serif;
+font-wieght: bolder;//; 
+}
+
+// 
+
+
+// typography elements 
+
+
+strong, b {
+    font-weight: bold !important; font-family: "Nexa Bold", NexaBold, Arial, "Open Sans", sans-serif; //; 
+
+}
+
+em {
+    font-style: italic;
+}
+
+
+h1 {font-size: 3.2rem; line-height: 3.6rem; margin-top: 1.2rem; margin-bottom: 10px; 
+} 
+h2 {font-size: 3rem; line-height: 3.6rem; margin-top: 1.2rem;   
+} 
+h3 {font-size: 2.8rem;line-height: 3.6rem; margin-top: 1rem;  
+} 
+h4 {font-size: 2.6rem;line-height: 2.4rem; margin-top: 2rem; 
+} 
+h5 {font-size: 2.4rem;line-height: 2.4rem; margin-top: 2.4rem;
+} 
+h6 {font-size: 2.2rem; line-height: 2.4rem; margin-top: 2.6rem; 
+} 
+
+
+
+
+a {
+    color: #444;
+    transition: all .3s ease-in-out; 
+    &:hover {
+    color: $tomato; 
+    text-decoration: none !important; 
+    }
+    
+    &:target {
+        text-decoration: none; 
+    }
+    
+    &:active {
+        text-decoration: none; 
+    }
+    
+     &:focus {
+        text-decoration: none; 
+    }
+}
+
+
+
+.content-inner {
+    
+    ul {
+        margin: 0 4.8rem 0 4.8rem; 
+        padding: 0; 
+        li {
+
+        }
+    }
+    
+    ol {
+        margin: 0 4.8rem 0 4.8rem; 
+        padding: 0;
+        li {
+        }
+
+    }
+}
+

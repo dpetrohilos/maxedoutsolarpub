@@ -1,0 +1,75 @@
+{
+  "name": "html5blank",
+  "description": "Powerful shell for rapidly deploying your WordPress projects",
+  "license": "MIT",
+  "version": "1.5.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/html5blank/html5blank.git"
+  },
+  "author": "Todd Motto",
+  "contributors": [
+    "toddmotto (https://github.com/toddmotto)",
+    "robertdevore (https://github.com/robertdevore)",
+    "J-Rabe (https://github.com/J-Rabe)",
+    "scottaohara (https://github.com/scottaohara)",
+    "Munnday (https://github.com/Munnday)",
+    "FreDeRoover (https://github.com/FreDeRoover)",
+    "beat84 (https://github.com/beat84)",
+    "floq-design (https://github.com/floq-design)",
+    "georgestephanis (https://github.com/georgestephanis)",
+    "oriSomething (https://github.com/oriSomething)",
+    "pgerochi (https://github.com/pgerochi)",
+    "alorence (https://github.com/alorence)",
+    "elkebirmed (https://github.com/elkebirmed)",
+    "lregla (https://github.com/lregla)",
+    "staceycordoni (https://github.com/staceycordoni)",
+    "cle-ment (https://github.com/cle-ment)",
+    "fxbenard (https://github.com/fxbenard)",
+    "CoeusCC (https://github.com/CoeusCC)",
+    "ssteinerx (https://github.com/ssteinerx)",
+    "matchboxhq (https://github.com/matchboxhq)",
+    "chrisdl (https://github.com/chrisdl)",
+    "toxicdog (https://github.com/toxicdog)",
+    "grischka (https://github.com/grischka)",
+    "fanuneza (https://github.com/fanuneza)",
+    "anthonycreek (https://github.com/anthonycreek)",
+    "Grsmto (https://github.com/Grsmto)",
+    "weslleih (https://github.com/weslleih)"
+  ],
+  "scripts": {
+    "modernizr": "gulp modernizr"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "modernizr": "^3.11.8",
+    "node-sass": "^6.0.1",
+    "normalize.css": "^7.0.0",
+    "npm": "^8.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-concat": "^2.3.4",
+    "gulp-csso": "^3.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-load-plugins": "^2.0.7",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-template": "^5.0.0",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.5.0",
+    "jshint": "^2.13.1",
+    "jshint-stylish": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/html5blank/html5blank/issues"
+  },
+  "homepage": "https://github.com/html5blank/html5blank#readme",
+  "main": "gulpfile.js"
+}
