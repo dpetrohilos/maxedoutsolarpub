@@ -1,5 +1,3 @@
-This is a test
-
 <?php get_header(); ?>
 <?php get_template_part( 'templateparts/bigred' ); ?>
 <?php get_template_part( 'templateparts/bigreddark' ); ?>
@@ -14,5 +12,3 @@ This is a test
 		</section>
         </div></div>
 <?php get_footer('home'); ?>
-
-
