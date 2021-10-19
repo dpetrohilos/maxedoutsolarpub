@@ -1,45 +1,13 @@
 <?php /* Template Name: Savings Rooftop Solar Splash */ get_header(); ?>
 
-	<main role="main" aria-label="Content" class="wrapper-full">
+<?php get_template_part( 'templateparts/rs/bigred' ); ?>
+<?php get_template_part( 'templateparts/rs/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/rs/gaurentee' ); ?>
+<?php get_template_part( 'templateparts/rs/three' ); ?>
+<?php get_template_part( 'templateparts/rs/two' ); ?>
+<?php get_template_part( 'templateparts/rs/line-middle' ); ?>
+<?php get_template_part( 'templateparts/rs/bigtext' ); ?>
 
 
-        <section class="row content">
 
-
-            
-
-            
-
-		<?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
-
-			<!-- article -->
-			<article id="post-<?php the_ID(); ?>" <?php post_class('content-inner'); ?>>
-
-				<?php the_content(); ?>
-
-
-				<?php edit_post_link(); ?>
-
-			</article>
-			<!-- /article -->
-
-		<?php endwhile; ?>
-
-		<?php else : ?>
-
-			<!-- article -->
-			<article>
-
-				<h2><?php esc_html_e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
-
-			</article>
-			<!-- /article -->
-
-		<?php endif; ?>
-
-		</section>
-		<!-- /section -->
-	</main>
-
-
-<?php get_footer('eco'); ?>
+<?php get_footer('savings'); ?>
