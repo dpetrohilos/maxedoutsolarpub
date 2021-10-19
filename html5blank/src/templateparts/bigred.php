@@ -26,7 +26,7 @@
         
     <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.webp" type="image/webp" />
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.webp" type="image/video-3.webp" />
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.jpg" media="(min-width: 1000px)">
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3@0.75x-100.jpg" media="(min-width: 800px)">
   

@@ -2,9 +2,9 @@
    <section class="row">
     
        <div class="col-xl-lg-5 col-lg-5 col-md-5 col-sm-5 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-1">
-    <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/community.svg" alt="community soalr" />
+            <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon7.svg" alt="Green your community" />
         
-           <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-7' ) ) ?>
+           <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-15' ) ) ?>
            
            
            
@@ -18,9 +18,9 @@
         </p>       </div>
        
        <div class="col-xl-lg-5 col-lg-5 col-md-5 col-sm-5 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-1">
-            <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/rooftop.svg" alt="rooftop soalr" />
+            <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon8.svg" alt="Green your home" />
    
-               <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-8' ) ) ?>
+               <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-16' ) ) ?>
 
             <p class="btn-wrap">
     

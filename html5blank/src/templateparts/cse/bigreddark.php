@@ -3,9 +3,9 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
-        <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> While supplies last, or something like this 
+            <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> Takes less than 5 minutes to sign up <strong>AND</strong> takes money out of the fossil fuel industry and into locally owned solar farms.  
         </h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> While supplies last, or something like this 
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">Takes less than 5 minutes to sign up <strong>AND</strong> takes money out of the fossil fuel industry and into locally owned solar farms. 
         </h2>
 
             

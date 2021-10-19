@@ -165,8 +165,8 @@ function remove_width_attribute( $html ) {
 if ( function_exists( 'register_sidebar' ) ) {
     // Define Sidebar Widget Area 1
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 1', 'html5blank' ),
-        'description'   => esc_html( 'Front page widget 1...', 'html5blank' ),
+        'name'          => esc_html( 'Intro Message', 'html5blank' ),
+        'description'   => esc_html( 'Intro Message', 'html5blank' ),
         'id'            => 'widget-area-1',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -176,8 +176,8 @@ if ( function_exists( 'register_sidebar' ) ) {
 
     // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 2', 'html5blank' ),
-        'description'   => esc_html( 'Front page widget 2...', 'html5blank' ),
+        'name'          => esc_html( 'Savings CTA for CS', 'html5blank' ),
+        'description'   => esc_html( 'Savings CTA', 'html5blank' ),
         'id'            => 'widget-area-2',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -187,8 +187,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     
       // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 3', 'html5blank' ),
-        'description'   => esc_html( 'Front page widget 3...', 'html5blank' ),
+        'name'          => esc_html( 'We need to have a conversation about the planet', 'html5blank' ),
+        'description'   => esc_html( 'Why we do it', 'html5blank' ),
         'id'            => 'widget-area-3',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -198,8 +198,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     
       // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 4', 'html5blank' ),
-        'description'   => esc_html( 'Front page widget 4...', 'html5blank' ),
+        'name'          => esc_html( 'Feel good text about the planet', 'html5blank' ),
+        'description'   => esc_html( 'Feel good text about the planet', 'html5blank' ),
         'id'            => 'widget-area-4',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -210,8 +210,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     
          // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 5', 'html5blank' ),
-        'description'   => esc_html( 'Front page widget 5...', 'html5blank' ),
+        'name'          => esc_html( 'Vision', 'html5blank' ),
+        'description'   => esc_html( 'Our vision', 'html5blank' ),
         'id'            => 'widget-area-5',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -221,7 +221,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
          // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 6', 'html5blank' ),
+        'name'          => esc_html( 'Mission', 'html5blank' ),
         'description'   => esc_html( 'Front page widget 6...', 'html5blank' ),
         'id'            => 'widget-area-6',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -232,7 +232,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
          // Define Sidebar Widget Area 2
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 7', 'html5blank' ),
+        'name'          => esc_html( 'Community Solar', 'html5blank' ),
         'description'   => esc_html( 'Front page widget 7...', 'html5blank' ),
         'id'            => 'widget-area-7',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -242,7 +242,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
       register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 8', 'html5blank' ),
+        'name'          => esc_html( 'Rooftop Solar', 'html5blank' ),
         'description'   => esc_html( 'Front page widget 8...', 'html5blank' ),
         'id'            => 'widget-area-8',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -255,7 +255,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     // Widget area for rooftop solar 
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 9', 'html5blank' ),
+        'name'          => esc_html( 'Eco CTA', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-9',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -265,7 +265,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 10', 'html5blank' ),
+        'name'          => esc_html( 'eco fact 2', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-10',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -275,7 +275,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 11', 'html5blank' ),
+        'name'          => esc_html( 'eco fact 3', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-11',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -285,7 +285,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 12', 'html5blank' ),
+        'name'          => esc_html( 'eco fact 3', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-12',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -295,7 +295,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 13', 'html5blank' ),
+        'name'          => esc_html( 'Process', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-13',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -305,7 +305,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 14', 'html5blank' ),
+        'name'          => esc_html( 'Process continued', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-9',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -315,7 +315,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 15', 'html5blank' ),
+        'name'          => esc_html( 'Investment blurb', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-15',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -325,7 +325,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
             register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 16', 'html5blank' ),
+        'name'          => esc_html( 'Second investment blurb', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-16',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -337,7 +337,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     // Finacnial benefits ads 
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 17', 'html5blank' ),
+        'name'          => esc_html( 'Investment', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-17',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -348,7 +348,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 18', 'html5blank' ),
+        'name'          => esc_html( 'Investment opportunity', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-18',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -359,7 +359,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 19', 'html5blank' ),
+        'name'          => esc_html( 'Investment/saving continued', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-19',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -370,7 +370,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 20', 'html5blank' ),
+        'name'          => esc_html( 'Investment/saving continued', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-20',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -380,7 +380,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 21', 'html5blank' ),
+        'name'          => esc_html( 'Process', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-21',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -391,7 +391,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 22', 'html5blank' ),
+        'name'          => esc_html( 'Process', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-22',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -402,8 +402,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 23', 'html5blank' ),
-        'description'   => esc_html( 'Savings Ad Rooftop 1...', 'html5blank' ),
+        'name'          => esc_html( 'Ecological Benefits', 'html5blank' ),
+        'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-23',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -413,8 +413,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
         register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 24', 'html5blank' ),
-        'description'   => esc_html( 'Savings Ad Rooftop 1...', 'html5blank' ),
+        'name'          => esc_html( 'Ecological Benefits', 'html5blank' ),
+        'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-24',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
@@ -428,7 +428,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     // Widget area for community solar 
     
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 25', 'html5blank' ),
+        'name'          => esc_html( 'Savings CTA', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-25',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -438,7 +438,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 26', 'html5blank' ),
+        'name'          => esc_html( 'fact 1 ', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-26',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -447,7 +447,7 @@ if ( function_exists( 'register_sidebar' ) ) {
         'after_title'   => '</h3>',
     ) );
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 27', 'html5blank' ),
+        'name'          => esc_html( 'fact2', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-27',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -456,7 +456,7 @@ if ( function_exists( 'register_sidebar' ) ) {
         'after_title'   => '</h3>',
     ) );
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 28', 'html5blank' ),
+        'name'          => esc_html( 'fact3', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-28',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -466,7 +466,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 29', 'html5blank' ),
+        'name'          => esc_html( 'process 1', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-29',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -476,7 +476,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 30', 'html5blank' ),
+        'name'          => esc_html( 'process 2', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-30',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -485,7 +485,7 @@ if ( function_exists( 'register_sidebar' ) ) {
         'after_title'   => '</h3>',
     ) );
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 31', 'html5blank' ),
+        'name'          => esc_html( 'eco reason 1', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-31',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -494,7 +494,7 @@ if ( function_exists( 'register_sidebar' ) ) {
         'after_title'   => '</h3>',
     ) );
        register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 32', 'html5blank' ),
+        'name'          => esc_html( 'eco reason 2', 'html5blank' ),
         'description'   => esc_html( 'Savings community...', 'html5blank' ),
         'id'            => 'widget-area-32',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -506,7 +506,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     // community solar eco 
     
       register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 33', 'html5blank' ),
+        'name'          => esc_html( 'Eco cta', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-33',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -516,7 +516,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 34', 'html5blank' ),
+        'name'          => esc_html( 'eco 1', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-34',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -526,7 +526,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 35', 'html5blank' ),
+        'name'          => esc_html( 'eco 2', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-35',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -536,7 +536,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 36', 'html5blank' ),
+        'name'          => esc_html( 'Eco 3', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-36',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -546,7 +546,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 37', 'html5blank' ),
+        'name'          => esc_html( 'process 1', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-37',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -557,7 +557,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 38', 'html5blank' ),
+        'name'          => esc_html( 'process 2', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-38',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -567,7 +567,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 39', 'html5blank' ),
+        'name'          => esc_html( 'saving 1 ', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-39',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -577,7 +577,7 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     register_sidebar( array(
-        'name'          => esc_html( 'Widget Area 40', 'html5blank' ),
+        'name'          => esc_html( 'saving 2', 'html5blank' ),
         'description'   => esc_html( 'Eco community...', 'html5blank' ),
         'id'            => 'widget-area-40',
         'before_widget' => '<div id="%1$s" class="%2$s">',

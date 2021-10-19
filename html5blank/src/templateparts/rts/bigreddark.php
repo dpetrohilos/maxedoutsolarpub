@@ -3,9 +3,9 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
-        <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> While supplies last, or something like this 
+        <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> Save 26 thousand over a 20 year period
         </h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> While supplies last, or something like this 
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">Save 26 thousand over a 20 year period
         </h2>
 
             

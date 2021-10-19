@@ -2,8 +2,7 @@
 <div class="wrapper-full big-text pb8 pt11 bg9" id="vision">
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
-        <p>
-        Lower energy bills, sustainable communities, and a a clean-powered-future we can believe in. Get in contact as soon as possible.  
+        <p>On average homes with rooftop solar re-sell for 15 thousand dollars more than homes without rooftop solar. 
         </p>
        
 <p class="btn-wrap text-center">

@@ -27,11 +27,11 @@
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.webp" type="image/webp" />
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.webp" type="image/fam-2.webp" />
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.jpg" media="(min-width: 1000px)">
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2-1@0.5x.jpg" media="(min-width: 800px)">
   
-<img width="1200" class="lazy responsive-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2-3@0.25x.jpg" alt="Featured video" />
+<img width="1200" class="lazy responsive-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.jpg" alt="Featured video" />
 
         
         
@@ -48,11 +48,11 @@
 <div class="col-lg-6 col-md-6 col-sm-12  content-inner p0 first-md first-sm first-xs">
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3.webp" type="image/webp" />
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3.jpg" media="(min-width: 1000px)">
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3-2@0.75x.jpg" media="(min-width: 800px)">
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3.webp" type="image/working-3.webp" />
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3-2@0.75x.jpg" media="(min-width: 1000px)">
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3-3@0.25x.jpg" media="(min-width: 800px)">
   
-<img width="1200" class="responsive-img lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3-3@0.25x.jpg
+<img width="1200" class="responsive-img lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3x.jpg
 " alt="Featured video" />
 
         

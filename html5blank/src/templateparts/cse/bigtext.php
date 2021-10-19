@@ -3,7 +3,7 @@
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
         <p>
-        Lower energy bills, sustainable communities, and a a clean-powered-future we can believe in. Get in contact as soon as possible.  
+        Lower energy bills, build a sustainable communities, save money and <a href="https://www.planline3.com/fund" title="line three defenders site">donate it to line 3 water defenders.</a>  
         </p>
        
 <p class="btn-wrap text-center">
