@@ -3,8 +3,8 @@
 
 
 
-<?php get_template_part( 'templateparts/cse/bigred' ); ?>
-<?php get_template_part( 'templateparts/cse/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/css/bigred' ); ?>
+<?php get_template_part( 'templateparts/css/bigreddark' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -39,10 +39,10 @@
 		</section>
 		<!-- /section -->
 	</main>
-<?php get_template_part( 'templateparts/cse/three' ); ?>
-<?php get_template_part( 'templateparts/cse/two' ); ?>
-<?php get_template_part( 'templateparts/cse/line-middle' ); ?>
-<?php get_template_part( 'templateparts/cse/bigtext' ); ?>
+<?php get_template_part( 'templateparts/css/three' ); ?>
+<?php get_template_part( 'templateparts/css/two' ); ?>
+<?php get_template_part( 'templateparts/css/line-middle' ); ?>
+<?php get_template_part( 'templateparts/css/bigtext' ); ?>
 
 <main role="main" aria-label="Content" class="wrapper">
 <section class="row">
