@@ -12,7 +12,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Set Up A Meeting" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Meet</a>
+<a title="Community Solar" class="btn" href="https://maxedoutsolar.com/communitysolar/">Community Solar Options</a>
 <!-- Calendly link widget end -->
     
         </p>       </div>
@@ -26,7 +26,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Read More" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Read More</a>
+<a title="Rooftop Solar Page Link" class="btn" href="https://maxedoutsolar.com/rooftopsolar/">Rooftop Solar Options</a>
 <!-- Calendly link widget end -->
     
         </p>
