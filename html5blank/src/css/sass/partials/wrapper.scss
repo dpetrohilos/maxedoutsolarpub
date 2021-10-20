@@ -1730,6 +1730,17 @@ iframe.wait-autoplay {
 
 
 .calendly-popup-content {
-    background: #fff; 
-    padding: 1.2rem;
+    background: #fff !important; 
+    padding: 1.2rem !important;
+    
+    .__header-one  {
+        
+        color: $tomato !important;
+        
+    }
+    
+    .btn-raised {
+        background: $tomato !important;
+
+    }
 }

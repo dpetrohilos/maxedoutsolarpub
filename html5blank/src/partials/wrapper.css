@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$wrapper-width".
-        on line 229 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/wrapper.scss
+        on line 229 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss
 
 224: 
 225: }
@@ -15,7 +15,7 @@ Error: Undefined variable: "$wrapper-width".
 234:     
 
 Backtrace:
-/Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/wrapper.scss:229
+/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss:229
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/tree/visitors/perform.rb:398:in `visit_prop'
@@ -68,4 +68,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$wrapper-width\".\A         on line 229 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/wrapper.scss\A \A 224: \A 225: }\A 226: \A 227: \A 228: .wrapper {\A 229:   max-width: $wrapper-width;\A 230:   padding: 0 $margin-horizontal-large;\A 231:     width: 100%;\A 232:     margin: 0 auto;\A 233: \A 234:     "; }
+  content: "Error: Undefined variable: \"$wrapper-width\".\A         on line 229 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss\A \A 224: \A 225: }\A 226: \A 227: \A 228: .wrapper {\A 229:   max-width: $wrapper-width;\A 230:   padding: 0 $margin-horizontal-large;\A 231:     width: 100%;\A 232:     margin: 0 auto;\A 233: \A 234:     "; }
