@@ -2,7 +2,7 @@
     
     <section class="row">
     
-    <div class="col-xs-2">
+    <div class="col-xs-2 col-xs-offset-1">
 <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/tinyicon1.svg" alt="No Switching Suppliers" />    
     </div>
         
