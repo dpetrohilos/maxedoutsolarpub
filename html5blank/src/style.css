@@ -1169,7 +1169,7 @@ input[type="search"] {
 .img-icon {
   width: 100%;
   max-width: 48rem;
-  min-width: 22rem;
+  min-width: 1rem;
   display: block;
   margin: 0 auto; }
 
