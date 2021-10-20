@@ -3,8 +3,8 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
-            <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> Takes less than 5 minutes to sign up</h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">Takes less than 5 minutes to sign up <strong>AND</strong> takes money out of the fossil fuel industry
+            <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm">5 minutes to green the grid</h2>
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">5 minutes to green the grid 
         </h2>
 
             
