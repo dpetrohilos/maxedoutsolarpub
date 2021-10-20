@@ -1,7 +1,4 @@
 <?php /* Template Name: Savings Rooftop Solar Splash */ get_header(); ?>
-
-<?php get_template_part( 'templateparts/rts/bigred' ); ?>
-<?php get_template_part( 'templateparts/rts/bigreddark' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -36,12 +33,12 @@
 		</section>
 		<!-- /section -->
 	</main>
-    <?php get_template_part( 'templateparts/rts/three' ); ?>
+<?php get_template_part( 'templateparts/rts/three' ); ?>
 <?php get_template_part( 'templateparts/rts/two' ); ?>
 <?php get_template_part( 'templateparts/rts/line-middle' ); ?>
 <?php get_template_part( 'templateparts/rts/bigtext' ); ?>
 
-<main role="main" aria-label="Content" class="wrapper">
+<div role="main" aria-label="Content" class="wrapper">
 <section class="row">
             
 <?php $my_query = new WP_Query( 'posts_per_page=6' );
@@ -103,7 +100,5 @@ $do_not_duplicate = $post->ID; ?>
 
    
             
-        </section></main>
-
-
+    </section></div>
 <?php get_footer('savings'); ?>
