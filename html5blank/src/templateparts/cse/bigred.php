@@ -13,13 +13,10 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Free Consultation" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Free Consultation</a>
+<a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Find a project near you</a>
 <!-- Calendly link widget end -->
     <span>No risk. No credit card required.</span>        
-        </p>
-        
-        </div>
-        
+        </p>       
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-0 first-sm first-xs last-md mb2">
         
     <a href="https://www.youtube.com/embed/mAAcHyUKLx0" class="glightbox3"> <!----change after videos are made!---->

@@ -35,8 +35,3 @@
 </div>
 
 
-<iframe title="Embedded form" frameborder="0" src="https://find-my-local-community-solar-project.paperform.co?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp;" data-src="" allowfullscreen="" allowpaymentrequest="" width="100%" allow="geolocation *;camera *;microphone *;" style="
-        width: 100%;
-        box-sizing: border-box;
-        
-        height: 327px; border: 1px solid black;"></iframe>
