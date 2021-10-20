@@ -10,12 +10,6 @@
 		<section class="row content">
 			<?php get_template_part( 'loop' ); ?>
 		</section>
-        </div></div>
-<section class="row"><div class="col"><p class="btn-wrap">
-
-<div style="width: 100%; height: auto; min-height: 5px; background: yellow;" data-prefill-inherit="1" data-paperform-id="find-my-local-community-solar-project"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()document.querySelectorAll('div[data-paperform-id] > iframe:not(:last-child)').forEach(node => node.remove())</script>
-
-    </div></section>
-
+    </div></div>
 
 <?php get_footer('home'); ?>
