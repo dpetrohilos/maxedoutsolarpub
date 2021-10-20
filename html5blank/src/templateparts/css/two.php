@@ -20,7 +20,7 @@
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.webp" type="image/family-2.webp" />
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/family-2.webp" type="image/webp" />
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/family-2-2@0.75x.jpg" media="(min-width: 1000px)">
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/family-2.jpg" media="(min-width: 800px)">
   
@@ -41,7 +41,7 @@
 <div class="col-lg-6 col-md-6 col-sm-12  content-inner p0 first-md first-sm first-xs">
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3.webp" type="image/fam-2.webp" />
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2.webp" type="image/webp" />
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2-2@0.75x.jpg" media="(min-width: 1000px)">
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/fam-2-1@0.5x.jpg" media="(min-width: 800px)">
   
