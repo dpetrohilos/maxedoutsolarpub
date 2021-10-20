@@ -44,7 +44,7 @@
 <?php get_template_part( 'templateparts/cse/line-middle' ); ?>
 <?php get_template_part( 'templateparts/cse/bigtext' ); ?>
 
-<main role="main" aria-label="Content" class="wrapper">
+<div role="main" aria-label="Content" class="wrapper">
 <section class="row">
             
 
@@ -106,6 +106,6 @@ $do_not_duplicate = $post->ID; ?>
 
    
             
-        </section></main>
+        </section></div>
 
 <?php get_footer('eco'); ?>

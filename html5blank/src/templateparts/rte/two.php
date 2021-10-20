@@ -5,14 +5,7 @@
         
        
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-13' ) ) ?>
-       <p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Talk With Us</a>
-<!-- Calendly link widget end -->
-    
-        </p>
+       
 
 
          
@@ -65,16 +58,6 @@
 <div class="col-lg-3 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner pt9 first-md last-sm last-xs mb10" id="mission">
         
    		<?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-14' ) ) ?>
-
-      <p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
-    
-        </p>
-
 
 
 

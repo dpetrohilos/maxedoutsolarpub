@@ -44,7 +44,7 @@
 <?php get_template_part( 'templateparts/css/line-middle' ); ?>
 <?php get_template_part( 'templateparts/css/bigtext' ); ?>
 
-<main role="main" aria-label="Content" class="wrapper">
+<div role="main" aria-label="Content" class="wrapper">
 <section class="row">
  <?php $my_query = new WP_Query( 'posts_per_page=6' );
 while ( $my_query->have_posts() ) : $my_query->the_post();
@@ -85,12 +85,7 @@ $do_not_duplicate = $post->ID; ?>
 				</time>
             </span>
            
-            </p>
-
-
-
-            
-            </div></div>        
+            </p></div>        
             <div class="blog-footer">
 
         <p class="info">
@@ -98,12 +93,11 @@ $do_not_duplicate = $post->ID; ?>
             <span class="author"><?php esc_html_e( 'By', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>  
         </p>            
 
-                    </div></div>
+                    </div></div></div>
             </article>        
   <?php endwhile; ?>
 
    
             
-        </section></main>
-
+    </section></div>
 <?php get_footer('eco'); ?>
