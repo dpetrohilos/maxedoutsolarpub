@@ -25,7 +25,7 @@
         
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-10 col-xs-offset-1 col-xs-offset  first-sm xs-first">
     
-    <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/icon2.svg" alt="Green The Grid" />
+    <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon10.svg" alt="Solar with no construction" />
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-27' ) ) ?>
 
 
@@ -45,7 +45,7 @@
         
         
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-10 col-xs-offset-1 col-xs-offset 2 first-sm xs-first">
-                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon12.svg" alt="Power your home with community solar" />
+                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon8.svg" alt="Power your home with community solar" />
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-28' ) ) ?>
   
 
