@@ -46,13 +46,11 @@
 
 <main role="main" aria-label="Content" class="wrapper">
 <section class="row">
-            
-
-<?php $my_query = new WP_Query( 'posts_per_page=6' );
+ <?php $my_query = new WP_Query( 'posts_per_page=6' );
 while ( $my_query->have_posts() ) : $my_query->the_post();
 $do_not_duplicate = $post->ID; ?>
     
-			<article id="post-<?php the_ID(); ?>" <?php post_class('col-lg-4 col-md-4 col-sm-6 col-xs-6'); ?>>
+			<article id="post-<?php the_ID(); ?>" <?php post_class('col-lg-4 col-md-4 col-sm-12 col-xs-12'); ?>>
 
                 <div class="radius blog-wrapper card">
 		<!-- post thumbnail -->

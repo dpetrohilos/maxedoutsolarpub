@@ -1,6 +1,6 @@
 
 <?php if (have_posts()): while (have_posts()) : the_post(); ?>
-	<article id="post-<?php the_ID(); ?>" <?php post_class('radius col-lg-4 col-md-4 col-sm-6 col-xs-12'); ?>> <div class="card">
+	<article id="post-<?php the_ID(); ?>" <?php post_class('radius col-lg-4 col-md-4 col-sm-12 col-xs-12'); ?>> <div class="card">
 <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
 		<!-- post thumbnail -->
 		<?php if ( has_post_thumbnail() ) : // Check if thumbnail exists. ?>
