@@ -17,6 +17,8 @@
 <!-- Calendly link widget end -->
     <span>No risk. No credit card required.</span>        
         </p>       
+        
+        </div>    
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-0 first-sm first-xs last-md mb2">
         
     <a href="https://www.youtube.com/embed/mAAcHyUKLx0" class="glightbox3"> <!----change after videos are made!---->
