@@ -12,7 +12,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Community Solar" class="btn" href="https://maxedoutsolar.com/communitysolar/">Get Community Solar</a>
+<a title="Community Solar" class="btn" href="https://maxedoutsolar.com/green-the-grid-with-community-solar/">Get Community Solar</a>
 <!-- Calendly link widget end -->
     
         </p>       </div>
