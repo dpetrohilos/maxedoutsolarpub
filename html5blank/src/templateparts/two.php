@@ -46,7 +46,7 @@
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3-3@0.25x.jpg" media="(min-width: 800px)">
   
 <img width="1200" class="responsive-img lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/working-3.jpg
-" alt="Man working on rooftop solar" />
+" alt="Family deciding their future" />
 
         
         
