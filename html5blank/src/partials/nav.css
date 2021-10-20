@@ -1,21 +1,21 @@
 /*
 Error: Undefined variable: "$lg-max".
-        on line 199 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/nav.scss
+        on line 13 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/nav.scss
 
-194: 
-195: .nav-top ul {
-196: 
-197:     
-198:     
-199: @media screen and (min-width: $lg-max) {
-200: 
-201: }
-202:     
-203: @media screen and (max-width: $lg-max) {
-204:                
+8: 
+9: 
+10: .hamburger{
+11:     
+12:     
+13:     @media screen and (min-width: $lg-max) {
+14:     width: 100vw; 
+15:     height: 12rem; 
+16:     position: fixed; 
+17:     display: block; 
+18:     background-color: #fff;
 
 Backtrace:
-/Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/nav.scss:199
+/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/nav.scss:13
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/tree/visitors/perform.rb:543:in `block in run_interp_no_strip'
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$lg-max\".\A         on line 199 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/nav.scss\A \A 194: \A 195: .nav-top ul {\A 196: \A 197:     \A 198:     \A 199: @media screen and (min-width: $lg-max) {\A 200: \A 201: }\A 202:     \A 203: @media screen and (max-width: $lg-max) {\A 204:                "; }
+  content: "Error: Undefined variable: \"$lg-max\".\A         on line 13 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/nav.scss\A \A 8: \A 9: \A 10: .hamburger{\A 11:     \A 12:     \A 13:     @media screen and (min-width: $lg-max) {\A 14:     width: 100vw; \A 15:     height: 12rem; \A 16:     position: fixed; \A 17:     display: block; \A 18:     background-color: #fff;"; }

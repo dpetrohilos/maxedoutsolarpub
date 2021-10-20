@@ -2401,11 +2401,6 @@ iframe.wait-autoplay {
  */
 /* line 10, css/sass/partials/nav.scss */
 .hamburger {
-  width: 18rem;
-  height: 12rem;
-  position: fixed;
-  display: block;
-  background-color: white;
   /*
    * Just a quick hamburger
    */
@@ -2426,7 +2421,47 @@ iframe.wait-autoplay {
   /*
    * And let's slide it in from the left
    */ }
-  /* line 19, css/sass/partials/nav.scss */
+  @media screen and (min-width: 120rem) {
+    /* line 10, css/sass/partials/nav.scss */
+    .hamburger {
+      width: 100vw;
+      height: 12rem;
+      position: fixed;
+      display: block;
+      background-color: #fff; } }
+  @media screen and (max-width: 120rem) {
+    /* line 10, css/sass/partials/nav.scss */
+    .hamburger {
+      width: 100vw;
+      height: 12rem;
+      position: fixed;
+      display: block;
+      background-color: #fff; } }
+  @media screen and (max-width: 90rem) {
+    /* line 10, css/sass/partials/nav.scss */
+    .hamburger {
+      width: 18rem;
+      height: 12rem;
+      position: fixed;
+      display: block;
+      background-color: #fff; } }
+  @media screen and (max-width: 64rem) {
+    /* line 10, css/sass/partials/nav.scss */
+    .hamburger {
+      width: 18rem;
+      height: 12rem;
+      position: fixed;
+      display: block;
+      background-color: #fff; } }
+  @media screen and (max-width: 40rem) {
+    /* line 10, css/sass/partials/nav.scss */
+    .hamburger {
+      width: 18rem;
+      height: 12rem;
+      position: fixed;
+      display: block;
+      background-color: #fff; } }
+  /* line 65, css/sass/partials/nav.scss */
   .hamburger #menuToggle {
     display: block;
     position: fixed;
@@ -2437,22 +2472,22 @@ iframe.wait-autoplay {
     -moz-user-select: none;
      -ms-user-select: none;
          user-select: none; }
-  /* line 32, css/sass/partials/nav.scss */
+  /* line 78, css/sass/partials/nav.scss */
   .hamburger #menuToggle a {
     text-decoration: none;
     color: #232323;
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease; }
-  /* line 40, css/sass/partials/nav.scss */
+  /* line 86, css/sass/partials/nav.scss */
   .hamburger #menuToggle a:hover {
     color: #e5593f; }
-  /* line 45, css/sass/partials/nav.scss */
+  /* line 91, css/sass/partials/nav.scss */
   .hamburger #menuToggle label {
     position: absolute;
     font-size: 1.8rem;
     top: 1rem;
     left: 4.8rem; }
-  /* line 53, css/sass/partials/nav.scss */
+  /* line 99, css/sass/partials/nav.scss */
   .hamburger #menuToggle input {
     display: block;
     width: 40px;
@@ -2466,7 +2501,7 @@ iframe.wait-autoplay {
     z-index: 2;
     /* and place it over the hamburger */
     -webkit-touch-callout: none; }
-  /* line 73, css/sass/partials/nav.scss */
+  /* line 119, css/sass/partials/nav.scss */
   .hamburger #menuToggle span {
     display: block;
     width: 36px;
@@ -2482,30 +2517,30 @@ iframe.wait-autoplay {
     transition: background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease, -webkit-transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
     transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
     transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease, -webkit-transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1); }
-  /* line 93, css/sass/partials/nav.scss */
+  /* line 139, css/sass/partials/nav.scss */
   .hamburger #menuToggle span:first-child {
     -webkit-transform-origin: 0% 0%;
             transform-origin: 0% 0%; }
-  /* line 98, css/sass/partials/nav.scss */
+  /* line 144, css/sass/partials/nav.scss */
   .hamburger #menuToggle span:nth-last-child(2) {
     -webkit-transform-origin: 0% 100%;
             transform-origin: 0% 100%; }
-  /* line 107, css/sass/partials/nav.scss */
+  /* line 153, css/sass/partials/nav.scss */
   .hamburger #menuToggle input:checked ~ span {
     opacity: 1;
     -webkit-transform: rotate(45deg) translate(-1px, 1px);
             transform: rotate(45deg) translate(-1px, 1px);
     background: #232323; }
-  /* line 117, css/sass/partials/nav.scss */
+  /* line 163, css/sass/partials/nav.scss */
   .hamburger #menuToggle input:checked ~ span:nth-last-child(3) {
     opacity: 0;
     -webkit-transform: rotate(0deg) scale(0.2, 0.2);
             transform: rotate(0deg) scale(0.2, 0.2); }
-  /* line 126, css/sass/partials/nav.scss */
+  /* line 172, css/sass/partials/nav.scss */
   .hamburger #menuToggle input:checked ~ span:nth-last-child(2) {
     -webkit-transform: rotate(-45deg) translate(0, -1px);
             transform: rotate(-45deg) translate(0, -1px); }
-  /* line 135, css/sass/partials/nav.scss */
+  /* line 181, css/sass/partials/nav.scss */
   .hamburger #menu {
     position: absolute;
     width: 100vw;
@@ -2525,83 +2560,83 @@ iframe.wait-autoplay {
     transition: -webkit-transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
     transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
     transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), -webkit-transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1); }
-  /* line 154, css/sass/partials/nav.scss */
+  /* line 200, css/sass/partials/nav.scss */
   .hamburger #menu li {
     padding: 10px 0;
     font-size: 2.2rem; }
-  /* line 163, css/sass/partials/nav.scss */
+  /* line 209, css/sass/partials/nav.scss */
   .hamburger #menuToggle input:checked ~ ul {
     -webkit-transform: none;
             transform: none; }
 
-/* line 172, css/sass/partials/nav.scss */
+/* line 218, css/sass/partials/nav.scss */
 .nav-top ul {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex; }
-  /* line 174, css/sass/partials/nav.scss */
+  /* line 220, css/sass/partials/nav.scss */
   .nav-top ul li {
     list-style: none; }
-    /* line 177, css/sass/partials/nav.scss */
+    /* line 223, css/sass/partials/nav.scss */
     .nav-top ul li a {
       font-size: 1.8rem;
       border: 1px solid transparent;
       padding: 1rem 2.4rem .7rem;
       border-radius: 5rem; }
-      /* line 182, css/sass/partials/nav.scss */
+      /* line 228, css/sass/partials/nav.scss */
       .nav-top ul li a:hover {
         text-decoration: none;
         color: #e5593f;
         border: #e5593f 1px solid; }
 
 @media screen and (max-width: 40rem) {
-  /* line 195, css/sass/partials/nav.scss */
+  /* line 241, css/sass/partials/nav.scss */
   .nav-top ul {
     padding-left: 0; } }
 
 @media screen and (min-width: 120rem) {
-  /* line 229, css/sass/partials/nav.scss */
+  /* line 275, css/sass/partials/nav.scss */
   .nav-top ul li {
     padding: 5.2rem 1.2rem 0; } }
 @media screen and (max-width: 120rem) {
-  /* line 229, css/sass/partials/nav.scss */
+  /* line 275, css/sass/partials/nav.scss */
   .nav-top ul li {
     padding: 5.2rem 1.2rem 0; } }
 @media screen and (max-width: 90rem) {
-  /* line 229, css/sass/partials/nav.scss */
+  /* line 275, css/sass/partials/nav.scss */
   .nav-top ul li {
     padding: 5.2rem 1.2rem 0; } }
 @media screen and (max-width: 64rem) {
-  /* line 229, css/sass/partials/nav.scss */
+  /* line 275, css/sass/partials/nav.scss */
   .nav-top ul li {
     padding: 2.4rem 0 1.2rem; } }
 @media screen and (max-width: 40rem) {
-  /* line 229, css/sass/partials/nav.scss */
+  /* line 275, css/sass/partials/nav.scss */
   .nav-top ul li {
     padding: 2.4rem 0 1.2rem; } }
 
 @media screen and (min-width: 120rem) {
-  /* line 267, css/sass/partials/nav.scss */
+  /* line 313, css/sass/partials/nav.scss */
   .nav-top ul li a {
     padding: 1rem 2.4rem .7rem; } }
 @media screen and (max-width: 120rem) {
-  /* line 267, css/sass/partials/nav.scss */
+  /* line 313, css/sass/partials/nav.scss */
   .nav-top ul li a {
     padding: 1rem 2.4rem .7rem; } }
 @media screen and (max-width: 90rem) {
-  /* line 267, css/sass/partials/nav.scss */
+  /* line 313, css/sass/partials/nav.scss */
   .nav-top ul li a {
     padding: 1rem 2.4rem .7rem; } }
 @media screen and (max-width: 64rem) {
-  /* line 267, css/sass/partials/nav.scss */
+  /* line 313, css/sass/partials/nav.scss */
   .nav-top ul li a {
     padding: 1rem 1.2rem .7rem; } }
 @media screen and (max-width: 40rem) {
-  /* line 267, css/sass/partials/nav.scss */
+  /* line 313, css/sass/partials/nav.scss */
   .nav-top ul li a {
     padding: 1rem 1.2rem .7rem; } }
 
-/* line 305, css/sass/partials/nav.scss */
+/* line 351, css/sass/partials/nav.scss */
 .header--fixed {
   position: fixed;
   -webkit-transform: translateY(-100%);
@@ -2609,17 +2644,17 @@ iframe.wait-autoplay {
   top: 0;
   left: 0; }
 
-/* line 312, css/sass/partials/nav.scss */
+/* line 358, css/sass/partials/nav.scss */
 .headroom--pinned {
   display: block;
   top: 0;
   left: 0; }
 
-/* line 317, css/sass/partials/nav.scss */
+/* line 363, css/sass/partials/nav.scss */
 .headroom--unpinned {
   top: -12rem; }
 
-/* line 321, css/sass/partials/nav.scss */
+/* line 367, css/sass/partials/nav.scss */
 .headroom {
   will-change: transform;
   -webkit-transition: -webkit-transform 200ms linear;
@@ -2627,12 +2662,12 @@ iframe.wait-autoplay {
   transition: transform 200ms linear;
   transition: transform 200ms linear, -webkit-transform 200ms linear; }
 
-/* line 325, css/sass/partials/nav.scss */
+/* line 371, css/sass/partials/nav.scss */
 .headroom--pinned {
   -webkit-transform: translateY(0%);
           transform: translateY(0%); }
 
-/* line 328, css/sass/partials/nav.scss */
+/* line 374, css/sass/partials/nav.scss */
 .headroom--unpinned {
   -webkit-transform: translateY(-100%);
           transform: translateY(-100%); }
