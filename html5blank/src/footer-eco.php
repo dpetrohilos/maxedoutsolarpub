@@ -1,22 +1,3 @@
-<div class="wrapper pt10">
-    <section class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-            <h3>
-            Ready to tackle climate change?
-            </h3>
-            
-                       
-<p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
-    
-        </p>        </div>
-    </section>
-    
-</div>
 <div class="wrapper-full bg8 p0 pb2 pt7">
 			<footer class="footer wrapper p0 mb0" role="contentinfo">
 <section class="row pt10">
