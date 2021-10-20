@@ -2543,7 +2543,7 @@ iframe.wait-autoplay {
   /* line 181, css/sass/partials/nav.scss */
   .hamburger #menu {
     position: absolute;
-    width: 100vw;
+    width: 110vw;
     margin: -100px 0 0 -50px;
     padding: 50px;
     padding-top: 125px;
