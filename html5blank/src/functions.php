@@ -307,7 +307,7 @@ if ( function_exists( 'register_sidebar' ) ) {
             register_sidebar( array(
         'name'          => esc_html( 'Widget 14: Process continued', 'html5blank' ),
         'description'   => esc_html( 'Eco Ad Rooftop...', 'html5blank' ),
-        'id'            => 'widget-area-9',
+        'id'            => 'widget-area-14',
         'before_widget' => '<div id="%1$s" class="%2$s">',
         'after_widget'  => '</div>',
         'before_title'  => '<h3>',
@@ -585,9 +585,6 @@ if ( function_exists( 'register_sidebar' ) ) {
         'before_title'  => '<h3>',
         'after_title'   => '</h3>',
     ) );
-    
-    
-    
     
 }
 
