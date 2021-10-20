@@ -23,7 +23,7 @@
 
             <p class="btn-wrap">
 
-<a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Signup For Green Energy</a>
+<a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Go Green</a>
 <!-- Calendly link widget end -->
     
         </p>
