@@ -1168,10 +1168,10 @@ input[type="search"] {
 /* line 565, css/sass/partials/wrapper.scss */
 .img-icon {
   width: 100%;
-  max-width: 48rem;
+  max-width: 24rem;
   min-width: 1rem;
   display: block;
-  margin: 0 auto; }
+  margin: 1.2rem auto; }
 
 /* line 576, css/sass/partials/wrapper.scss */
 .btn-wrap {
