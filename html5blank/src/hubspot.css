@@ -1,34 +1,32 @@
 /* line 4, css/sass/hubspot.scss */
 .hs-form-iframe iframe, .hs-form-iframe html, .hs-form-iframe body, .hs-form-iframe div, .hs-form-iframe .hs-richtext, .hs-form-iframe .hs-main-font-element {
   font-family: "Nexa", Helvetica, Arial, sans-serif !important; }
-
 /* line 9, css/sass/hubspot.scss */
-.hbspt-form {
+.hs-form-iframe .hbspt-form {
   font-family: "Nexa", Helvetica, Arial, sans-serif !important; }
   /* line 14, css/sass/hubspot.scss */
-  .hbspt-form p {
+  .hs-form-iframe .hbspt-form p, .hs-form-iframe .hbspt-form .hs-richtext {
     font-family: "Nexa", Helvetica, Arial, sans-serif !important;
     color: #fff;
     font-size: 1.8rem; }
   /* line 18, css/sass/hubspot.scss */
-  .hbspt-form label {
+  .hs-form-iframe .hbspt-form label {
     font-family: "Nexa", Helvetica, Arial, sans-serif !important;
     color: #fff;
     font-size: 1.8rem; }
   /* line 22, css/sass/hubspot.scss */
-  .hbspt-form .hs-input {
+  .hs-form-iframe .hbspt-form .hs-input {
     font-family: "Nexa", Helvetica, Arial, sans-serif !important;
     color: #fff;
     font-size: 1.8rem; }
   /* line 27, css/sass/hubspot.scss */
-  .hbspt-form .input input {
+  .hs-form-iframe .hbspt-form .input input {
     font-family: "Nexa", Helvetica, Arial, sans-serif !important;
     color: #fff;
     font-size: 1.8rem; }
-
 /* line 34, css/sass/hubspot.scss */
-.actions {
+.hs-form-iframe .actions {
   font-family: "Nexa", Helvetica, Arial, sans-serif !important; }
   /* line 37, css/sass/hubspot.scss */
-  .actions input {
+  .hs-form-iframe .actions input {
     border-radius: 5rem !important; }
