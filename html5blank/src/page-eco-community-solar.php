@@ -2,9 +2,13 @@
 
 
 
-
-<?php get_template_part( 'templateparts/cse/bigred' ); ?>
 <?php get_template_part( 'templateparts/cse/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/cse/bigred' ); ?>
+<?php get_template_part( 'templateparts/cse/guarantee.php' ); ?>
+
+
+
+
 
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->

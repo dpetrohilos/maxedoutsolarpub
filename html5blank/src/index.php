@@ -1,6 +1,7 @@
 <?php get_header(); ?>
-<?php get_template_part( 'templateparts/bigred' ); ?>
 <?php get_template_part( 'templateparts/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/bigred' ); ?>
+<?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/three' ); ?>
 <?php get_template_part( 'templateparts/two' ); ?>
 <?php get_template_part( 'templateparts/line-middle' ); ?>

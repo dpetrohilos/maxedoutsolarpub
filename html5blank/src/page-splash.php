@@ -1,6 +1,8 @@
 <?php /* Template Name: Eco Rooftop Solar Splash */ get_header(); ?>
-<?php get_template_part( 'templateparts/rte/bigred' ); ?>
 <?php get_template_part( 'templateparts/rte/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/rte/bigred' ); ?>
+<?php get_template_part( 'templateparts/guarantee' ); ?>
+
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">

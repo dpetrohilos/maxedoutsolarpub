@@ -2,9 +2,9 @@
 
 
 
-
-<?php get_template_part( 'templateparts/css/bigred' ); ?>
 <?php get_template_part( 'templateparts/css/bigreddark' ); ?>
+<?php get_template_part( 'templateparts/css/bigred' ); ?>
+<?php get_template_part( 'templateparts/css/guarantee.php' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
