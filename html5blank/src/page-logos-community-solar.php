@@ -5,6 +5,8 @@
 <?php get_template_part( 'templateparts/css/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/css/bigred' ); ?>
 <?php get_template_part( 'templateparts/guarantee-community' ); ?>
+<?php get_template_part( 'templateparts/css/three' ); ?>
+
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -39,7 +41,7 @@
 		</section>
 		<!-- /section -->
 	</main>
-<?php get_template_part( 'templateparts/css/three' ); ?>
+
 <?php get_template_part( 'templateparts/css/two' ); ?>
 <?php get_template_part( 'templateparts/css/line-middle' ); ?>
 <?php get_template_part( 'templateparts/css/bigtext' ); ?>

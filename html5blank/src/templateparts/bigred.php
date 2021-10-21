@@ -3,20 +3,7 @@
     <section class="row">
     
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-0 last-sm first-md last-xs">
-        <p class="overtext"><strong><small>Switching to solar, easier than ever</small></strong><p>    
-            <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-1' ) ) ?>
-        
-        
-        
-        
-<p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Free Consultation" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Free Consultation</a>
-<!-- Calendly link widget end -->
-    <span>No risk. No credit card required.</span>        
-        </p>
+ https://share.hsforms.com/1_cGCA57DQGGRBRzvTJhQGg8nqhr
         
         </div>
         

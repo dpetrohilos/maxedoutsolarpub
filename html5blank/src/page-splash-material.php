@@ -3,6 +3,7 @@
 <?php get_template_part( 'templateparts/rts/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/rts/bigred' ); ?>
 <?php get_template_part( 'templateparts/guarantee' ); ?>
+<?php get_template_part( 'templateparts/rts/three' ); ?>
 
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
@@ -38,7 +39,7 @@
 		</section>
 		<!-- /section -->
 	</main>
-    <?php get_template_part( 'templateparts/rts/three' ); ?>
+
 <?php get_template_part( 'templateparts/rts/two' ); ?>
 <?php get_template_part( 'templateparts/rts/line-middle' ); ?>
 <?php get_template_part( 'templateparts/rts/bigtext' ); ?>
