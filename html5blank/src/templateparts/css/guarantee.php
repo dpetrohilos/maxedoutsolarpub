@@ -1,4 +1,4 @@
-<div class="wrapper core-message pt10 pb10">
+<div class="wrapper core-message pt10">
     
     <section class="row">
     <div class="col-xs-12 text-center" >
