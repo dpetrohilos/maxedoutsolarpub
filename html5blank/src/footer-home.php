@@ -87,6 +87,7 @@
 			<!-- /footer -->
 		<?php wp_footer(); ?>
 
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/hubspot.css">
 
 <script src="<?php echo get_template_directory_uri(); ?>/js/valde.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/glightbox.min.js"></script>
