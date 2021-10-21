@@ -3,8 +3,8 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
-            <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm">5 minutes to green the grid</h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">5 minutes to green the grid 
+            <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm">Act fast spots are limited</h2>
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> Act fast spots are limited
         </h2>
 
             
@@ -24,7 +24,6 @@
     <!-- Calendly link widget begin -->
 
 <a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Make The Switch</a>
-<!-- Calendly link widget end -->
     
         </p>   
 
@@ -33,3 +32,5 @@
         
         </section></div>
 </div>
+
+
