@@ -2,3 +2,10 @@
 .hs-richtext, .hs-main-font-element {
   font-family: "Nexa", Helvetica, Arial, sans-serif !important;
   color: #fff; }
+
+/* line 11, css/sass/hubspot.scss */
+#hs-form-iframe-0 body {
+  font-family: "Nexa", Helvetica, Arial, sans-serif !important; }
+  /* line 14, css/sass/hubspot.scss */
+  #hs-form-iframe-0 body p {
+    color: #fff !important; }
