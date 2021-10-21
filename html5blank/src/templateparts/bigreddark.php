@@ -3,9 +3,9 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12">
-        <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> We can solve climate change, together  
+        <h2 class="text-center hide-xl hide-lg show-md show-sm show-sm"> No Money Down. Zero upfront costs. 
         </h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> We can solve climate change, together
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> No Money Down. Zero upfront costs. 
         </h2>
 
             
@@ -24,7 +24,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make The Switch</a>
+<a class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Schedule A Consultation</a>
 <!-- Calendly link widget end -->
     
         </p>   
