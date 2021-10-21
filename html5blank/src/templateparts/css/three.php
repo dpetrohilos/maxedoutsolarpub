@@ -3,7 +3,7 @@
     <section class="row pb8">
     
 <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-xs-offset  first-sm xs-first">
-                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon9.svg" alt="Solar on someone elses land" />
+                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon11.svg" alt="Save up $240 a year by switching" />
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-34' ) ) ?>
    
 
@@ -23,7 +23,7 @@
         
 <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-xs-offset  first-sm xs-first">
     
-    <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon15.svg" alt="Green The Grid" />
+    <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon5.svg" alt="Save hundreds per year-- for free. Even if you rent." />
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-35' ) ) ?>
 
 
@@ -31,7 +31,7 @@
 
         
 <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-xs-offset 2 first-sm xs-first">
-                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon10.svg" alt="Power your home with community solar" />
+                <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon8.svg" alt="Buy yourself lunch" />
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-36' ) ) ?>
   
 
