@@ -4,12 +4,7 @@
 
 <?php get_template_part( 'templateparts/cse/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/cse/bigred' ); ?>
-<?php get_template_part( 'templateparts/cse/guarantee.php' ); ?>
-
-
-
-
-
+<?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
