@@ -1,7 +1,7 @@
 .hs-richtext, .hs-main-font-element {
     
  
-        font-family: "Nexa", Helvetica, Arial, sans-serif !important; color: #fff;
+        font-family: "Nexa", Helvetica, Arial, sans-serif !important; color: #fff !important;
         
    
 }
@@ -12,9 +12,18 @@
                 font-family: "Nexa", Helvetica, Arial, sans-serif !important; 
         
         p { 
-        color: #fff !important;}
+        color: #fff !important;
+        
+        }
 
     }
 }
+
+.hs-form-fdc18203-9ec3-4061-9105-1cef4c98501a_3cc9421a-8361-42be-8b33-9eee8555d677 .hs-main-font-element, .submitted-message.hs-main-font-element {
+    
+            font-family: "Nexa", Helvetica, Arial, sans-serif !important; color: #fff;
+
+}
+
 
 
