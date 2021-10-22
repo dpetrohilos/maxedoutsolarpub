@@ -4,6 +4,7 @@
 <?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/three' ); ?>
 <?php get_template_part( 'templateparts/two' ); ?>
+<?php get_template_part( 'templateparts/coremessage' ); ?>
 <?php get_template_part( 'templateparts/line-middle' ); ?>
 <?php get_template_part( 'templateparts/bigtext' ); ?>
 <div class="bg12">
