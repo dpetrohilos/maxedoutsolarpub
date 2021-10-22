@@ -1,21 +1,21 @@
 /*
 Error: Undefined variable: "$wrapper-width".
-        on line 292 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss
+        on line 281 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss
 
-287: 
-288: }
-289: 
-290: 
-291: .wrapper {
-292:   max-width: $wrapper-width;
-293:   padding: 0 $margin-horizontal-large;
-294:     width: 100%;
-295:     margin: 0 auto;
-296: 
-297:     
+276: 
+277: }
+278: 
+279: 
+280: .wrapper {
+281:   max-width: $wrapper-width;
+282:   padding: 0 $margin-horizontal-large;
+283:     width: 100%;
+284:     margin: 0 auto;
+285: 
+286:     
 
 Backtrace:
-/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss:292
+/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss:281
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/tree/visitors/perform.rb:398:in `visit_prop'
@@ -68,4 +68,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$wrapper-width\".\A         on line 292 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss\A \A 287: \A 288: }\A 289: \A 290: \A 291: .wrapper {\A 292:   max-width: $wrapper-width;\A 293:   padding: 0 $margin-horizontal-large;\A 294:     width: 100%;\A 295:     margin: 0 auto;\A 296: \A 297:     "; }
+  content: "Error: Undefined variable: \"$wrapper-width\".\A         on line 281 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/wrapper.scss\A \A 276: \A 277: }\A 278: \A 279: \A 280: .wrapper {\A 281:   max-width: $wrapper-width;\A 282:   padding: 0 $margin-horizontal-large;\A 283:     width: 100%;\A 284:     margin: 0 auto;\A 285: \A 286:     "; }
