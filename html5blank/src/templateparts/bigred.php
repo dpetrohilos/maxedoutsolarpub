@@ -27,7 +27,7 @@
         
         
     </picture> 
- <div class="bg-white pt1 mt0 ml0 pl1 pr1 pb1">        <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-1' ) ) ?>
+ <div class="bg-red pt1 mt0 ml0 pl1 pr1 pb1">        <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-1' ) ) ?>
 
     </div>        
         
