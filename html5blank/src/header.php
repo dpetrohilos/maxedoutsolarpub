@@ -45,7 +45,7 @@
 <header class="header topbar" role="banner" id="top">
 <section class="row">
 					<!-- logo -->
-					<div class="logo col-lg-2 col-lg-offset-1 col-md-4 col-sm-8 col-xs-8 col-sm-offset-4 col-xs-offset-4 col-md-offset-2">
+					<div class="logo col-lg-2 col-lg-offset-2 col-md-4 col-sm-8 col-xs-8 col-sm-offset-4 col-xs-offset-4 col-md-offset-2">
 						<a title="home link" href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
@@ -55,7 +55,7 @@
 
 					<!-- nav -->
     
-    <div class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-5">
+    <div class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-4 col-xl-4">
 
         <ul id="top-menu" role="navigation" class="nav nav-top">
             <li><a title="Offer" href="<?php echo esc_url( home_url() ); ?>/#offer">Offer</a></li>
