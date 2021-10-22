@@ -448,7 +448,7 @@ input[type="search"] {
  */
 /* line 41, css/sass/partials/wrapper.scss */
 .hbspt-form {
-  background: #b23620;
+  background: #e5593f;
   padding: 1.2rem; }
 
 @media screen and (min-width: 120rem) {
@@ -476,14 +476,14 @@ input[type="search"] {
   /* line 46, css/sass/partials/wrapper.scss */
   .bg-solar {
     background-image: url("img/solar-roof.jpg");
-    background-position: 110vw top;
+    background-position: 0 -10vh;
     background-repeat: no-repeat;
     background-size: cover; } }
 @media screen and (max-width: 40rem) {
   /* line 46, css/sass/partials/wrapper.scss */
   .bg-solar {
     background-image: url("img/solar-roof.jpg");
-    background-position: 110vw top;
+    background-position: 0 -10vh;
     background-repeat: no-repeat;
     background-size: cover; } }
 
