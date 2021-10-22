@@ -449,8 +449,8 @@ input[type="search"] {
 /* line 41, css/sass/partials/wrapper.scss */
 .bg-solar {
   background-image: url("img/solar-roof.jpg");
-  background-size: contain;
-  background-position: center center;
+  background-size: 50% 100%;
+  background-position: center right;
   background-repeat: no-repeat; }
 
 /* line 50, css/sass/partials/wrapper.scss */
