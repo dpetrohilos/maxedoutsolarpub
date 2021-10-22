@@ -478,14 +478,14 @@ input[type="search"] {
     background-image: url("img/solar-roof.jpg");
     background-position: 0 -10vh;
     background-repeat: no-repeat;
-    background-size: cover; } }
+    background-size: contain; } }
 @media screen and (max-width: 40rem) {
   /* line 46, css/sass/partials/wrapper.scss */
   .bg-solar {
     background-image: url("img/solar-roof.jpg");
     background-position: 0 -10vh;
     background-repeat: no-repeat;
-    background-size: cover; } }
+    background-size: contain; } }
 
 @media screen and (min-width: 120rem) {
   /* line 102, css/sass/partials/wrapper.scss */
@@ -514,14 +514,14 @@ input[type="search"] {
     background-image: url("img/mtns.jpg");
     background-position: 0 -10vh;
     background-repeat: no-repeat;
-    background-size: cover; } }
+    background-size: contain; } }
 @media screen and (max-width: 40rem) {
   /* line 102, css/sass/partials/wrapper.scss */
   .bg-community {
     background-image: url("img/mtns.jpg");
     background-position: 0 -10vh;
     background-repeat: no-repeat;
-    background-size: cover; } }
+    background-size: contain; } }
 
 /* line 159, css/sass/partials/wrapper.scss */
 .bg1 {
