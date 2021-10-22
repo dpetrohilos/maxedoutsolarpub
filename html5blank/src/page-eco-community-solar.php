@@ -42,8 +42,9 @@
 		</section>
 		<!-- /section -->
 	</main>
-
+<?php get_template_part( 'templateparts/introduction' ); ?>
 <?php get_template_part( 'templateparts/cse/two' ); ?>
+<?php get_template_part( 'templateparts/core-message-community' ); ?>
 <?php get_template_part( 'templateparts/cse/line-middle' ); ?>
 <?php get_template_part( 'templateparts/cse/bigtext' ); ?>
 

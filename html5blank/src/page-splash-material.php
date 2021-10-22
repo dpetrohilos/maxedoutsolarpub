@@ -39,8 +39,9 @@
 		</section>
 		<!-- /section -->
 	</main>
-
+<?php get_template_part( 'templateparts/introduction' ); ?>
 <?php get_template_part( 'templateparts/rts/two' ); ?>
+<?php get_template_part( 'templateparts/core-message' ); ?>
 <?php get_template_part( 'templateparts/rts/line-middle' ); ?>
 <?php get_template_part( 'templateparts/rts/bigtext' ); ?>
 

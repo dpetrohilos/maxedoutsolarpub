@@ -40,9 +40,9 @@
 		</section>
 		<!-- /section -->
 	</main>
-
-
+<?php get_template_part( 'templateparts/introduction' ); ?>
 <?php get_template_part( 'templateparts/rte/two' ); ?>
+<?php get_template_part( 'templateparts/core-message' ); ?>
 <?php get_template_part( 'templateparts/rte/line-middle' ); ?>
 <?php get_template_part( 'templateparts/rte/bigtext' ); ?>
 

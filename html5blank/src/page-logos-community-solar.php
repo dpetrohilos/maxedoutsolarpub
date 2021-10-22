@@ -41,8 +41,9 @@
 		</section>
 		<!-- /section -->
 	</main>
-
+<?php get_template_part( 'templateparts/introduction' ); ?>
 <?php get_template_part( 'templateparts/css/two' ); ?>
+<?php get_template_part( 'templateparts/core-message-community' ); ?>
 <?php get_template_part( 'templateparts/css/line-middle' ); ?>
 <?php get_template_part( 'templateparts/css/bigtext' ); ?>
 
