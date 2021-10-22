@@ -15,7 +15,7 @@
         
         
 
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-0 last-sm first-md last-xs">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-0 last-sm first-md last-xs middle">
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
