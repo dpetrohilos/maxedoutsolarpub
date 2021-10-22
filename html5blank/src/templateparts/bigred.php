@@ -1,7 +1,7 @@
 <div class="wrapper-full pt11 pb8 bgred bg-solar" id="talk">
     <section class="row">
     
-    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-sm first-md last-xs">
+    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1  first-md last-sm last-xs">
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
@@ -14,7 +14,7 @@
         
         
 
-    <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs middle flex-column">
+    <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
