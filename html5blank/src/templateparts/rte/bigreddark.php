@@ -15,7 +15,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a>
+<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a> <span>| No credit card required.</span>
 <!-- Calendly link widget end -->
     
         </p>
@@ -24,7 +24,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a>
+<a class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a><span>| Get started today.</span>
 <!-- Calendly link widget end -->
     
         </p>   
