@@ -45,7 +45,7 @@
 <header class="header topbar" role="banner" id="top">
 <section class="row">
 					<!-- logo -->
-					<div class="logo col-lg-2 col-lg-offset-1 col-md-1 col-sm-1 col-xs-2 col-sm-offset-4 col-xs-offset-6 col-md-offset-2">
+					<div class="logo col-lg-2 col-lg-offset-1 col-md-5 col-sm-10 col-xs-10 col-sm-offset-2 col-xs-offset-2 col-md-offset-2">
 						<a title="home link" href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
