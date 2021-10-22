@@ -40,14 +40,66 @@ $tomato: #e5593f;
 
 .bg-solar {
     
+
+        
+        @media screen and (min-width: $lg-max) {
+
         background-image: url('img/solar-roof.jpg');
     background-size: contain;
     background-position: 60vw top; 
     background-repeat: no-repeat; 
+    background-blend-mode: none; 
 
-    // will need to add responsive elements 
+    }
     
+@media screen and (max-width: $lg-max) {
+               
+    background-image: url('img/solar-roof.jpg');
+    background-size: contain;
+    background-position: 60vw top; 
+    background-repeat: no-repeat; 
+    background-blend-mode: none; 
+
+
+  }
+  
+
+@media screen and (max-width: $md-max) {
+    background-image: url('img/solar-roof.jpg');
+    background-size: contain;
+    background-position: 60vw top; 
+    background-repeat: no-repeat;
+    background-blend-mode: none; 
+
+
+
 }
+
+    
+@media screen and (max-width: $sm-max) {
+
+    background-image: url('img/solar-roof.jpg');
+    background-size: cover;
+    background-position: left top; 
+    background-repeat: no-repeat; 
+    background-blend-mode: multiply; 
+
+
+
+        }
+
+    
+  @media screen and (max-width: $xs-max) {
+    background-image: url('img/solar-roof.jpg');
+    background-size: cover;
+    background-position: left top; 
+    background-repeat: no-repeat;
+    background-blend-mode: multiply; 
+
+  }
+        
+    }    
+
 
 .bg1 {
     
