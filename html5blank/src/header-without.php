@@ -43,21 +43,12 @@
 </nav>   
 <header class="header topbar" role="banner" id="top">
 <section class="row">
-					<!-- logo -->
-					<div class="logo col-lg-2 col-lg-offset-5 col-md-3 col-sm-3 col-xs-4 col-sm-offset-4 col-xs-offset-6 col-md-offset-2">
-						<a href="<?php echo esc_url( home_url() ); ?>">
+								<div class="logo col-lg-2 col-lg-offset-1 col-md-1 col-sm-1 col-xs-2 col-sm-offset-4 col-xs-offset-6 col-md-offset-2">
+						<a title="home link" href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Logo" class="logo-img">
+							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
 						</a>
 					</div>
-					<!-- /logo -->
-
-					<!-- nav -->
-    
-    
-    
-    
-					<!-- /nav -->
                 </section>
 			</header>
 			<!-- /header --> 
