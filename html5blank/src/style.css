@@ -464,7 +464,7 @@ input[type="search"] {
   /* line 41, css/sass/partials/wrapper.scss */
   .bg-solar {
     background-image: url("img/solar-roof.jpg");
-    background-position: 50vw top;
+    background-position: 60vw top;
     background-repeat: no-repeat; } }
 @media screen and (max-width: 64rem) {
   /* line 41, css/sass/partials/wrapper.scss */
