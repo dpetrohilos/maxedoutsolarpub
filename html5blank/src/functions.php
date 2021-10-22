@@ -401,8 +401,8 @@ if ( function_exists( 'register_sidebar' ) ) {
     ) );
     
     
-        register_sidebar( array(
-        'name'          => esc_html( 'Widget 23: Ecological Benefits', 'html5blank' ),
+     register_sidebar( array(
+        'name'          => esc_html( 'Widget 23:', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-23',
         'before_widget' => '<div id="%1$s" class="%2$s">',
@@ -411,9 +411,8 @@ if ( function_exists( 'register_sidebar' ) ) {
         'after_title'   => '</h3>',
     ) );
     
-    
-        register_sidebar( array(
-        'name'          => esc_html( 'Widget 24: Ecological Benefits', 'html5blank' ),
+    register_sidebar( array(
+        'name'          => esc_html( 'Widget 24', 'html5blank' ),
         'description'   => esc_html( 'Savings Ad Rooftop...', 'html5blank' ),
         'id'            => 'widget-area-24',
         'before_widget' => '<div id="%1$s" class="%2$s">',
