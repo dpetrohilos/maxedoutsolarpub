@@ -41,8 +41,8 @@ $tomato: #e5593f;
 .bg-solar {
     
         background-image: url('img/solar-roof.jpg');
-    background-size:  40% 100%;
-    background-position: center right; 
+    background-size: contain;
+    background-position: center -40vw; 
     background-repeat: no-repeat; 
 
 }
