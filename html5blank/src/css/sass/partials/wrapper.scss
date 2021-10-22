@@ -96,7 +96,7 @@ $tomato: #e5593f;
     
 
         
-        @media screen and (min-width: $lg-max) {
+@media screen and (min-width: $lg-max) {
 
     background-image: url('img/mtns.jpg');
     background-size: contain;
@@ -702,14 +702,16 @@ $padding: 1.2rem;
 .btn {
     max-width: 33rem; 
     min-width: 22rem; 
-    width: 100%; 
+    width: 100%;
+    height: auto; 
     border-radius: 5rem;
     border: 1px solid $tomato; 
     padding:  2.3rem 3.6rem 1.8rem;
     color: $tomato;
     background: transparent;
     font-weight: bold;
-    font-size: 1.8rem; 
+    font-size: 1.8rem;
+    text-align: center; 
     
     &:hover {
             border: 1px solid $tomato; 
@@ -728,7 +730,49 @@ $padding: 1.2rem;
         width: auto;
         
         }
+    
+@media screen and (min-width: $lg-max) {
+
+display: initial; 
+
     }
+    
+@media screen and (max-width: $lg-max) {
+               
+display: initial; 
+
+
+  }
+  
+
+@media screen and (max-width: $md-max) {
+
+display: initial; 
+
+}
+
+    
+@media screen and (max-width: $sm-max) {
+
+      display: block; 
+
+
+
+        }
+
+    
+  @media screen and (max-width: $xs-max) {
+      
+      display: block; 
+      
+  }
+
+
+
+
+
+
+}
     
 // blog card 
 
