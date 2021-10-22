@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$lg-max".
-        on line 60 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/header.scss
+        on line 60 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/header.scss
 
 55: }
 56: 
@@ -8,14 +8,14 @@ Error: Undefined variable: "$lg-max".
 58: 
 59: .header .logo-img {
 60:     @media screen and (min-width: $lg-max) {
-61: left: 5.5rem; 
+61: left: 3.6rem; 
 62: top: 0; 
 63:         
 64: }
 65:     
 
 Backtrace:
-/Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/header.scss:60
+/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/header.scss:60
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/tree/visitors/perform.rb:543:in `block in run_interp_no_strip'
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$lg-max\".\A         on line 60 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/header.scss\A \A 55: }\A 56: \A 57: \A 58: \A 59: .header .logo-img {\A 60:     @media screen and (min-width: $lg-max) {\A 61: left: 5.5rem; \A 62: top: 0; \A 63:         \A 64: }\A 65:     "; }
+  content: "Error: Undefined variable: \"$lg-max\".\A         on line 60 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/header.scss\A \A 55: }\A 56: \A 57: \A 58: \A 59: .header .logo-img {\A 60:     @media screen and (min-width: $lg-max) {\A 61: left: 3.6rem; \A 62: top: 0; \A 63:         \A 64: }\A 65:     "; }

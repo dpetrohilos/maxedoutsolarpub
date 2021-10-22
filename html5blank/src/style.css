@@ -2502,17 +2502,17 @@ iframe.wait-autoplay {
 @media screen and (min-width: 120rem) {
   /* line 59, css/sass/partials/header.scss */
   .header .logo-img {
-    left: 5.5rem;
+    left: 3.6rem;
     top: 0; } }
 @media screen and (max-width: 120rem) {
   /* line 59, css/sass/partials/header.scss */
   .header .logo-img {
-    left: 5.5rem;
+    left: 3.6rem;
     top: 0; } }
 @media screen and (max-width: 90rem) {
   /* line 59, css/sass/partials/header.scss */
   .header .logo-img {
-    left: 5.5rem;
+    left: 3.6rem;
     top: 0rem; } }
 @media screen and (max-width: 64rem) {
   /* line 59, css/sass/partials/header.scss */
