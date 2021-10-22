@@ -38,6 +38,11 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 
 $tomato: #e5593f; 
 
+.hbspt-form {
+    background: #b23620; 
+    padding: 1.2rem 
+}
+
 .bg-solar {
     
 
@@ -45,7 +50,7 @@ $tomato: #e5593f;
         @media screen and (min-width: $lg-max) {
 
     background-image: url('img/solar-roof.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: 60vw top; 
     background-repeat: no-repeat; 
 
@@ -54,7 +59,7 @@ $tomato: #e5593f;
 @media screen and (max-width: $lg-max) {
                
     background-image: url('img/solar-roof.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: 60vw top; 
     background-repeat: no-repeat; 
 
@@ -66,7 +71,7 @@ $tomato: #e5593f;
     background-image: url('img/solar-roof.jpg');
     background-position: 60vw top; 
     background-repeat: no-repeat;
-
+    background-size: cover;
 
 
 }
@@ -76,6 +81,7 @@ $tomato: #e5593f;
     background-image: url('img/solar-roof.jpg');
     background-position: 110vw top; 
     background-repeat: no-repeat;
+    background-size: cover;
 
 
 
@@ -87,6 +93,7 @@ $tomato: #e5593f;
     background-image: url('img/solar-roof.jpg');
     background-position: 110vw top; 
     background-repeat: no-repeat;
+    background-size: cover;
 
   }
         
@@ -99,7 +106,7 @@ $tomato: #e5593f;
 @media screen and (min-width: $lg-max) {
 
     background-image: url('img/mtns.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: 60vw top; 
     background-repeat: no-repeat; 
 
@@ -108,7 +115,7 @@ $tomato: #e5593f;
 @media screen and (max-width: $lg-max) {
                
     background-image: url('img/mtns.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: 60vw top; 
     background-repeat: no-repeat; 
 
@@ -120,6 +127,8 @@ $tomato: #e5593f;
     background-image: url('img/mtns.jpg');
     background-position: 60vw top; 
     background-repeat: no-repeat;
+        background-size: cover;
+
 
 
 
@@ -128,9 +137,10 @@ $tomato: #e5593f;
     
 @media screen and (max-width: $sm-max) {
     background-image: url('img/mtns.jpg');
-    background-position: 110vw top; 
+    background-position: 0 -10vh; 
     background-repeat: no-repeat;
 
+    background-size: cover;
 
 
 
@@ -139,8 +149,9 @@ $tomato: #e5593f;
     
   @media screen and (max-width: $xs-max) {
     background-image: url('img/mtns.jpg');
-    background-position: 110vw top; 
+    background-position: 0 -10vh; 
     background-repeat: no-repeat;
+    background-size: cover;
 
   }
         
