@@ -592,15 +592,12 @@ if ( function_exists( 'register_sidebar' ) ) {
 function html5blank_header_scripts() {
     if ( $GLOBALS['pagenow'] != 'wp-login.php' && ! is_admin() ) {
         if ( HTML5_DEBUG ) {
-            // jQuery
-
-            // Conditionizr
-
-            // Enqueue Scripts
             wp_enqueue_script( 'html5blankscripts' );
 
         // If production
-        } else {
+        } 
+        
+        else {
             // Scripts minify
             wp_register_script( 'html5blankscripts-min', get_template_directory_uri() . '/js/scripts.min.js', array(), '1.0.0' );
             // Enqueue Scripts
@@ -612,11 +609,11 @@ function html5blank_header_scripts() {
 
 
 function my_footer_enqueue() {
-    
-    
+
+
     wp_register_script( 'Cal-Widget', get_template_directory_uri() . '/js/lib/widget.js', array(), '1.0', true );
     wp_enqueue_script( 'Cal-Widget' );
-    
+
     wp_register_script( 'headroom', get_template_directory_uri() . '/js/lib/headroom.min.js', array(), '1.0', true );
     wp_enqueue_script( 'headroom' );
 
