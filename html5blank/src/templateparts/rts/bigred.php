@@ -1,17 +1,14 @@
-<div class="wrapper-full  pt10 pb10 bgred bg-solar" id="talk">
+<div class="wrapper-full pt10 pb10 bgred bg-solar" id="talk">
     <section class="row">
     
     <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1  first-md last-sm last-xs">
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "14544351",
-	formId: "fdc18203-9ec3-4061-9105-1cef4c98501a"
-});
-</script>        </div>
-    <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
         
+        <!--- Move things here ! ---> 
+        
+        </div>
+    <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
+                <!--- Add Video Here ! ---> 
+
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
  srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-fam.webp" type="image/webp" />
