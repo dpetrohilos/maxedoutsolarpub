@@ -602,7 +602,7 @@ function html5blank_header_scripts() {
         // If production
         } else {
             // Scripts minify
-            wp_register_script( 'html5blankscripts-min', get_template_directory_uri() . '/js/scripts.min.js', array(), '1.0.0' );
+            wp_register_script( 'html5blankscripts-min', get_template_directory_uri() . '/js/script.js', array(), '1.0.0' );
             // Enqueue Scripts
             wp_enqueue_script( 'html5blankscripts-min' );
         }
@@ -610,20 +610,6 @@ function html5blank_header_scripts() {
 }
 
 
-
-function my_footer_enqueue() {
-    
-    
-    wp_register_script( 'Cal-Widget', get_template_directory_uri() . '/js/lib/widget.js', array(), '1.0', true );
-    wp_enqueue_script( 'Cal-Widget' );
-    
-    wp_register_script( 'headroom', get_template_directory_uri() . '/js/lib/headroom.min.js', array(), '1.0', true );
-    wp_enqueue_script( 'headroom' );
-
-
-}
-
-add_action( 'wp_enqueue_scripts', 'my_footer_enqueue' );
 
 
 // Remove wp_head() injected Recent Comment styles
