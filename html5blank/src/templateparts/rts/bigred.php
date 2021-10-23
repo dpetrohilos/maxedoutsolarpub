@@ -6,7 +6,6 @@
         <!--- Move things here ! ---> 
         
         
-        <p class="btn-wrap">
     
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
@@ -19,14 +18,17 @@
         
         
     </picture> 
+        
+        
  <div class="bgred pt1 mt0 ml0 pl1 pr1 pb1">        <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-17' ) ) ?>
+        <p class="btn-wrap">
 
 <a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get a free roof check</a>
 <!-- Calendly link widget end -->
     
         </p>
         
-        </div>
+        </div></div>
     <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
                 <!--- Add Video Here ! ---> 
 
