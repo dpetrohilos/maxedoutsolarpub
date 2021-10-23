@@ -3,7 +3,7 @@
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
         <p>
-        Lower energy bills, sustainable communities, and a a clean-powered-future we can believe in. Get in contact as soon as possible.  
+        Lower energy bills<a href="/#cite-1">5</a>, sustainable communities<a href="/#cite-1">6</a>, and a a clean-powered-future we can believe in. Get in contact as soon as possible.  
         </p>
        
 <p class="btn-wrap text-center">

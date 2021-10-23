@@ -3,9 +3,9 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">No money down. Zero upfront costs. 
+        <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">No money down. Zero upfront costs. <a href="/#cite-1">1</a>
         </h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> No money down. Zero upfront costs.
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> No money down. Zero upfront costs.<a href="/#cite-1">1</a>
         </h2>
 
             
