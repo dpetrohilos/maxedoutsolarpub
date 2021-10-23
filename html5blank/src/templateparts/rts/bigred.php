@@ -11,9 +11,6 @@
 });
 </script>        
         </div>
-        
-        
-
     <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
         
 <picture>    
