@@ -2,15 +2,14 @@
     <section class="row">
     
     <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1  first-md last-sm last-xs">
-<script charset="utf-8" type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/shell.js"></script>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
 	region: "na1",
 	portalId: "14544351",
 	formId: "fdc18203-9ec3-4061-9105-1cef4c98501a"
 });
-</script>        
-        </div>
+</script>        </div>
     <div class="col-lg-5 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 last-md first-sm last-xs">
         
 <picture>    
