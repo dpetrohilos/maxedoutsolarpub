@@ -1,6 +1,6 @@
 <div class="wrapper-full  pt10 pb10 bgred bg-community" id="talk"><div class="wrapper">
     <section class="row">
-    <div class="col-lg-4 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+    <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
@@ -15,7 +15,7 @@
     </picture> 
 
     </div>        
-    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+    <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
     <p class="overtext"><strong><small>Switching to solar, easier than ever</small></strong><p>    
             <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-25' ) ) ?>
         
