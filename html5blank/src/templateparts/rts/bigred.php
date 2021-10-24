@@ -18,7 +18,7 @@
 
     </div>   
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
- <div class="bgred pt1 mt0 ml0 pl1 pr1 pb1">        <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-9' ) ) ?>
+ <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-9' ) ) ?>
         <p class="btn-wrap">
 
 <a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get a free roof check</a>
@@ -26,5 +26,5 @@
     
         </p>
         
-        </div></div>
+        </div>
     </section></div></div>
