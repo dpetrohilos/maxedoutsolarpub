@@ -1,4 +1,4 @@
-<div class="wrapper-full pt10 pb10 bgred bg-solar" id="talk">
+<div class="wrapper-full pt10 pb10 bgred bg-solar" id="talk"><div class="wrapper">
     <section class="row">
         <div class="col-lg-4 col-md-5 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
 <a href="https://www.youtube.com/embed/mAAcHyUKLx0" class="glightbox3"> <!----change after videos are made!---->
@@ -34,4 +34,4 @@
         </p>
         
         </div></div>
-    </section></div>
+    </section></div></div>
