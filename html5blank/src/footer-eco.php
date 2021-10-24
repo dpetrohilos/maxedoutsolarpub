@@ -71,7 +71,7 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/valde.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/glightbox.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
-<link src="<?php echo get_template_directory_uri(); ?>/background.css" />
+<link type="text/css" href="<?php echo get_template_directory_uri(); ?>/background.css" />
 
 
 	</body>
