@@ -90,7 +90,9 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/valde.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/glightbox.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
-
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/14544351.js"></script>
+<!-- End of HubSpot Embed Code -->
 
 	</body>
 </html>
