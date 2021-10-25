@@ -1,6 +1,5 @@
 <?php /* Template Name: Savings Rooftop Solar Splash */ get_header(); ?>
 <?php get_template_part( 'templateparts/rts/bigred' ); ?>
-<?php get_template_part( 'templateparts/rts/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/rts/three' ); ?>
 

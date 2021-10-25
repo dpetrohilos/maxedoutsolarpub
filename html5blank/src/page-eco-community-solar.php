@@ -1,8 +1,7 @@
 <?php /* Template Name: Eco Community Solar */ get_header(); ?>
 
 <?php get_template_part( 'templateparts/cse/bigred' ); ?>
-<?php get_template_part( 'templateparts/cse/bigreddark' ); ?>
-<?php get_template_part( 'templateparts/guarantee-community' ); ?>
+\<?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <?php get_template_part( 'templateparts/cse/three' ); ?>
 
 

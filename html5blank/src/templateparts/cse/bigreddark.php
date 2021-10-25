@@ -14,7 +14,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a><span>| No upfront cost.</span>
+<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a><span>No upfront cost.</span>
 <!-- Calendly link widget end -->
     
         </p>
@@ -23,7 +23,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Make the switch</a><span>| No upfront cost.</span>
+<a title="Find a project near you" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://find-my-local-community-solar-project.paperform.co/?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp'});return false;">Make the switch</a><span>No upfront cost.</span>
     
         </p>   
 
