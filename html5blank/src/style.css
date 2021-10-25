@@ -671,8 +671,8 @@ input[type="search"] {
   -ms-flex-line-pack: end;
       align-content: flex-end;
   width: 165px;
-  padding-top: 2.4rem;
-  paddin-bottom: 2.4rem;
+  padding-top: 2.4rem !important;
+  paddin-bottom: 1.2rem !important;
   margin-top: 2.4rem;
   margin-bottom: 2.4rem; }
 
