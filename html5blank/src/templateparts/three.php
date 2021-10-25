@@ -1,6 +1,6 @@
-<div class="wrapper-full pt7 bg11" id="offer">
+<div class="wrapper-full pb7 pt7 bg11" id="offer">
     <div class="wrapper">
-    <section class="row pb8">
+    <section class="row">
     
 <div class="col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-xs-offset  first-sm xs-first">
                 <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/Icon7.svg" alt="Save Money" />

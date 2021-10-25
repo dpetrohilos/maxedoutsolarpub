@@ -1,4 +1,4 @@
-<div class="wrapper pt10">
+<div class="wrapper pt7">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
