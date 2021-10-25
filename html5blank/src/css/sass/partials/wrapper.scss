@@ -1390,11 +1390,20 @@ padding: 5.8rem 0 2rem !important;
 }
 
 .two-across {
+    padding: 0; 
     section {
+        
+        .two-child {
+     padding: 1.2rem;   
+        
+    }
+        
         div {
             padding: 0; 
         }
     }
+    
+    
 }
 
 .three-across {
