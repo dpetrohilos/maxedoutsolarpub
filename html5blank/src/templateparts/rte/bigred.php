@@ -5,11 +5,11 @@
         
     <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.webp" type="image/video-5.webp" />
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5.jpg" media="(min-width: 1000px)">
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5@0.75x-100.jpg" media="(min-width: 800px)">
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-1.webp" type="image/webp" />
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-1-100.jpg" media="(min-width: 1000px)">
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-1@0.75x-50.jpg" media="(min-width: 800px)">
   
-<img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5@0.5x-100.jpg" alt="Featured video" />
+<img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-1@1.5x-100.jpg" alt="Featured video" />
 
         
         
