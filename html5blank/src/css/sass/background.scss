@@ -329,35 +329,3 @@ $tomato: #e5593f;
 
 }
 
-
-
-.middle-line {
-    padding: 7.4rem 0;
-    background-image: url('img/middle-line.svg'); 
-    background-repeat: repeat-y;
-    background-position: center center; 
-    background-size: 3px 3px; 
-    
-    .widget_block {background: #f7f6f1; padding: 0 1.2rem; }
-    
-    .btn-wrap {
-        paddding-left: 1.4rem;
-    }
-    
-    img {
-        text-align: center; 
-        background: #f7f6f1; 
-        padding: 1.2rem; 
-    }
-    
-    .btn  {
-        max-width: 40rem;
-        width: 100%; 
-        margin-left: 1.2rem; 
-        background: #f7f6f1;
-        &:hover {
-            background: $tomato; 
-        }
-        
-    }
-}

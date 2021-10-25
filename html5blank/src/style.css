@@ -743,7 +743,7 @@ input[type="search"] {
 
 /* line 421, css/sass/partials/wrapper.scss */
 .big-text {
-  padding: 7.4rem 0;
+  padding: 7.2rem 0;
   border-top: 1px solid #e5593f;
   border-bottom: 1px solid #e5593f; }
   @media screen and (min-width: 120rem) {
@@ -1687,6 +1687,43 @@ iframe.wait-autoplay {
       font-size: 2.4rem;
       font-weight: bolder;
       line-height: 2.4rem; } }
+
+/* line 1360, css/sass/partials/wrapper.scss */
+.middle-line {
+  padding: 7.4rem 0;
+  background-image: url("img/middle-line.svg");
+  background-repeat: repeat-y;
+  background-position: center center;
+  background-size: 3px 3px; }
+  /* line 1367, css/sass/partials/wrapper.scss */
+  .middle-line .widget_block {
+    background: #f7f6f1;
+    padding: 0 1.2rem; }
+  /* line 1369, css/sass/partials/wrapper.scss */
+  .middle-line .btn-wrap {
+    paddding-left: 1.4rem; }
+  /* line 1373, css/sass/partials/wrapper.scss */
+  .middle-line img {
+    text-align: center;
+    background: #f7f6f1;
+    padding: 1.2rem; }
+  /* line 1379, css/sass/partials/wrapper.scss */
+  .middle-line .btn {
+    max-width: 40rem;
+    width: 100%;
+    margin-left: 1.2rem;
+    background: #f7f6f1; }
+    /* line 1384, css/sass/partials/wrapper.scss */
+    .middle-line .btn:hover {
+      background: #e5593f; }
+
+/* line 1392, css/sass/partials/wrapper.scss */
+.bg-solar {
+  padding: 7.4rem 0 7.2rem; }
+
+/* line 1396, css/sass/partials/wrapper.scss */
+.three-across, .writing {
+  padding: 7.2rem 0; }
 
 /**
  * partials/header

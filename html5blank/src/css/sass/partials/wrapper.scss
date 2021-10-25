@@ -419,7 +419,7 @@ display: initial;
 // big text 
 
 .big-text {
-        padding: 7.4rem 0;
+        padding: 7.2rem 0;
         border-top: 1px solid $tomato;
 
         border-bottom: 1px solid $tomato;
@@ -1352,3 +1352,47 @@ iframe.wait-autoplay {
 }
 
 
+// bg 
+
+
+
+
+.middle-line {
+    padding: 7.4rem 0;
+    background-image: url('img/middle-line.svg'); 
+    background-repeat: repeat-y;
+    background-position: center center; 
+    background-size: 3px 3px; 
+    
+    .widget_block {background: #f7f6f1; padding: 0 1.2rem; }
+    
+    .btn-wrap {
+        paddding-left: 1.4rem;
+    }
+    
+    img {
+        text-align: center; 
+        background: #f7f6f1; 
+        padding: 1.2rem; 
+    }
+    
+    .btn  {
+        max-width: 40rem;
+        width: 100%; 
+        margin-left: 1.2rem; 
+        background: #f7f6f1;
+        &:hover {
+            background: $tomato; 
+        }
+        
+    }
+}
+
+
+.bg-solar {
+    padding: 7.4rem 0 7.2rem;
+}
+
+.three-across, .writing {
+    padding: 7.2rem 0; 
+}
