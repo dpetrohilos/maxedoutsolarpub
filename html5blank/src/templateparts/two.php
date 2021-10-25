@@ -1,7 +1,7 @@
 <div class="wrapper-full bg5 two-across" id="story">
 <div class="wrapper-full">        
 <section class="row content">
-    <div class="col-lg-3 col-md-4 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner first-md last-sm last-xs two-child middle" id="signup">
+    <div class="col-lg-3 col-md-4 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner first-md last-sm last-xs two-child middle flex-column" id="signup">
         
        
     <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-5' ) ) ?>
@@ -55,7 +55,7 @@
 
 </div>
     
-<div class="col-lg-3 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-innerf first-md last-sm last-xs two-child middle" id="mission">
+<div class="col-lg-3 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-innerf first-md last-sm last-xs two-child middle flex-column" id="mission">
         
    		<?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-6' ) ) ?>
 
