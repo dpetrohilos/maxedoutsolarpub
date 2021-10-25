@@ -1655,7 +1655,7 @@ iframe.wait-autoplay {
 
 /* line 1296, css/sass/partials/wrapper.scss */
 .core-message {
-  padding: 5.8rem 0 2rem;
+  padding: 5.8rem 0 2rem !important;
   text-transform: uppercase; }
   @media screen and (min-width: 120rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
