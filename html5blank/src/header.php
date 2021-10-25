@@ -55,9 +55,9 @@
 
 					<!-- nav -->
     
-    <div class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-1 col-lg-offset-2">
+    <nav role="navigation" class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-sm-offset-3 col-md-offset-1 col-lg-offset-2">
 
-        <ul id="top-menu" role="navigation" class="nav nav-top">
+        <ul id="top-menu" class="nav nav-top">
             <li><a title="Offer" href="<?php echo esc_url( home_url() ); ?>/#offer">Offer</a></li>
             <li><a title="Story" href="<?php echo esc_url( home_url() ); ?>/#story">Story</a></li>
             <li><a title="Vision" href="<?php echo esc_url( home_url() ); ?>/#vision">Vision</a></li>
@@ -66,7 +66,7 @@
         
         </ul>
         
-    </div>
+    </nav>
     
     
 					<!-- /nav -->
