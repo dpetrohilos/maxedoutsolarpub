@@ -9,7 +9,7 @@
 </style>
 <circle class="st0" cx="88" cy="22.1" r="22"/>
 <circle class="st1" cx="84" cy="22.1" r="22"/>
-<line class="st1" x1="110" y1="99.8" x2="14" y2="99.8"/>
+<line class="st1" x1="110" y1="100.1" x2="14" y2="100.1"/>
 <polyline class="st1" points="51,99.2 51,64.2 98,64.2 98,99.2 "/>
 <polyline class="st1" points="51,64.2 74,38.1 98,64.2 "/>
 <line class="st1" x1="83" y1="41.1" x2="93" y2="52.1"/>
@@ -17,8 +17,8 @@
 <rect x="62" y="75.2" class="st1" width="11.5" height="12"/>
 <rect x="73.5" y="75.2" class="st1" width="11.5" height="12"/>
 <circle class="st2" cx="74.5" cy="51.6" r="2.5"/>
-<polyline class="st1" points="14,99.2 14,3.1 51,3.1 51,99.2 "/>
-<rect x="27" y="75.8" class="st1" width="10" height="24"/>
+<polyline class="st1" points="14,99.8 14,3.1 51,3.1 51,99.8 "/>
+<polyline class="st1" points="27,99.8 27,75 37,75 37,99.8 "/>
 <rect x="19" y="7.1" class="st1" width="7" height="7"/>
 <rect x="39" y="7.1" class="st1" width="7" height="7"/>
 <rect x="19" y="19.1" class="st1" width="7" height="7"/>
