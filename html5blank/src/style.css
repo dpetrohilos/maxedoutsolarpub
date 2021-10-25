@@ -2304,7 +2304,7 @@ iframe.wait-autoplay {
     /* line 10, css/sass/partials/nav.scss */
     .hamburger {
       width: 100vw;
-      height: 12rem;
+      height: 7.2rem;
       position: fixed;
       display: block;
       background-color: #fff; } }
@@ -2332,8 +2332,8 @@ iframe.wait-autoplay {
   .hamburger #menuToggle label {
     position: absolute;
     font-size: 1.8rem;
-    top: 2.4rem;
-    left: 2.4rem; }
+    top: 1rem;
+    left: 4.8rem; }
   /* line 99, css/sass/partials/nav.scss */
   .hamburger #menuToggle input {
     display: block;
