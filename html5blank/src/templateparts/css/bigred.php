@@ -10,8 +10,6 @@
   
 <img width="1200" class="lazy responsive-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-children.jpg" alt="Mother holding child" />
 
-        
-        
     </picture> 
 
     </div>      

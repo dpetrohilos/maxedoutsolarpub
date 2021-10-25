@@ -19,8 +19,7 @@
     <p class="overtext"><strong><small>Switching to solar, easier than ever</small></strong><p>    
             <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-25' ) ) ?>
         
-        
-        
+            
         
 <p class="btn-wrap">
     

@@ -23,7 +23,6 @@
 
 <a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get a free roof check</a>
 <!-- Calendly link widget end -->
-    
         </p>
         
         </div>
