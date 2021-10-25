@@ -41,6 +41,7 @@ $tomato: #e5593f;
 
 .bg-solar {
     
+        padding: 7.4rem 0;
 
         
 @media screen and (min-width: $lg-max) {
@@ -97,6 +98,7 @@ $tomato: #e5593f;
 
 .bg-community {
     
+        padding: 7.4rem 0;
 
         
 @media screen and (min-width: $lg-max) {
@@ -245,7 +247,8 @@ $tomato: #e5593f;
 }
 
 .bgred {
-    
+            padding: 7.4rem 0;
+
     
     ::selection {
         background: #fff;
@@ -329,7 +332,7 @@ $tomato: #e5593f;
 
 
 .middle-line {
-    
+    padding: 7.4rem 0;
     background-image: url('img/middle-line.svg'); 
     background-repeat: repeat-y;
     background-position: center center; 
