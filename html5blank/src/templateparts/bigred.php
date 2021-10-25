@@ -2,7 +2,7 @@
     <section class="row">
     
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
-<a href="https://www.youtube.com/embed/mAAcHyUKLx0" class="glightbox3"> <!----change after videos are made!---->
+<a href="https://www.youtube.com/embed/_VNx83azM5M" class="glightbox3"> <!----change after videos are made!---->
         
     <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
