@@ -55,7 +55,7 @@
 
 					<!-- nav -->
     
-    <div class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-3 col-xl-4">
+    <div class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-1 col-lg-offset-2">
 
         <ul id="top-menu" role="navigation" class="nav nav-top">
             <li><a title="Offer" href="<?php echo esc_url( home_url() ); ?>/#offer">Offer</a></li>
