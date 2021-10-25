@@ -1,8 +1,9 @@
+
 <div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
-            Ready To Talk With Us?
+            Refer a friend and you could get $500 if they put solar on their rooftop 
             </h3>
             
                        
