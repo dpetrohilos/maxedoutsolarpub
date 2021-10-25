@@ -22,7 +22,7 @@
 <section class="row pt10">
     
     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xl-offset-2 col-md-offset-2 col-lg-offset-2 col-sm-offset-1 col-xs-offset-1">
-<p><a href="mailtoMax@MaxedOutSolar.com:">Max@MaxedOutSolar.com</a></p>
+<p><a href="mailtoMax@MaxedOutSolar.com:">Max at MaxedOutSolar dot com</a></p>
         <p>Find Maxed Out Solar On Social Media</p>
         
         <ul class="share-buttons">
@@ -65,7 +65,7 @@
 
                 <a href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo-footer.svg" alt="Logo" class="logo-img">
+							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Logo" class="logo-img">
 						</a>
                 
                 <?php
