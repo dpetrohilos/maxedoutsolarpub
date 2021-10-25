@@ -1723,15 +1723,19 @@ iframe.wait-autoplay {
     .middle-line .btn:hover {
       background: #e5593f; }
 
-/* line 1395, css/sass/partials/wrapper.scss */
+/* line 1394, css/sass/partials/wrapper.scss */
+.two-across section div {
+  padding: 0; }
+
+/* line 1400, css/sass/partials/wrapper.scss */
 .three-across {
   padding: 6rem 0 7.2rem; }
 
-/* line 1399, css/sass/partials/wrapper.scss */
+/* line 1404, css/sass/partials/wrapper.scss */
 .footer-top {
   padding: 6rem 0 7.2rem; }
 
-/* line 1405, css/sass/partials/wrapper.scss */
+/* line 1410, css/sass/partials/wrapper.scss */
 .footer {
   padding: 6rem 0; }
 

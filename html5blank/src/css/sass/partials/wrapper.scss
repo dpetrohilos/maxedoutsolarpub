@@ -1389,8 +1389,13 @@ padding: 5.8rem 0 2rem !important;
     }
 }
 
-
-
+.two-across {
+    section {
+        div {
+            padding: 0; 
+        }
+    }
+}
 
 .three-across {
     padding: 6rem 0 7.2rem;
