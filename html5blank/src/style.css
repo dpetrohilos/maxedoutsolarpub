@@ -2294,7 +2294,7 @@ iframe.wait-autoplay {
   @media screen and (max-width: 64rem) {
     /* line 10, css/sass/partials/nav.scss */
     .hamburger {
-      width: 100vw;
+      width: 13.2rem;
       height: 8.4rem;
       position: fixed;
       display: block;
@@ -2302,7 +2302,7 @@ iframe.wait-autoplay {
   @media screen and (max-width: 40rem) {
     /* line 10, css/sass/partials/nav.scss */
     .hamburger {
-      width: 100vw;
+      width: 13.2rem;
       height: 8.4rem;
       position: fixed;
       display: block;
