@@ -3,8 +3,6 @@
         </h2>
         <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> Spots are filling up fast 
         </h2>
-            
-
 <p class="btn-wrap text-center hide-xl hide-lg show-md show-sm show-sm">
     
     <!-- Calendly link widget begin -->
