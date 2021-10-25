@@ -747,31 +747,31 @@ input[type="search"] {
   border-bottom: 1px solid #e5593f; }
   @media screen and (min-width: 120rem) {
     /* line 425, css/sass/partials/wrapper.scss */
-    .big-text p {
+    .big-text p, .big-text h2 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 120rem) {
     /* line 425, css/sass/partials/wrapper.scss */
-    .big-text p {
+    .big-text p, .big-text h2 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 90rem) {
     /* line 425, css/sass/partials/wrapper.scss */
-    .big-text p {
+    .big-text p, .big-text h2 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 64rem) {
     /* line 425, css/sass/partials/wrapper.scss */
-    .big-text p {
+    .big-text p, .big-text h2 {
       font-size: 3.6rem;
       font-weight: bolder;
       line-height: 3.6rem; } }
   @media screen and (max-width: 40rem) {
     /* line 425, css/sass/partials/wrapper.scss */
-    .big-text p {
+    .big-text p, .big-text h2 {
       font-size: 2.4rem;
       font-weight: bolder;
       line-height: 2.4rem; } }
@@ -1658,73 +1658,73 @@ iframe.wait-autoplay {
   padding: 5.8rem 0 2rem !important; }
   @media screen and (min-width: 120rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
-    .core-message h2 {
+    .core-message p {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 120rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
-    .core-message h2 {
+    .core-message p {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 90rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
-    .core-message h2 {
+    .core-message p {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 64rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
-    .core-message h2 {
+    .core-message p {
       font-size: 3.6rem;
       font-weight: bolder;
       line-height: 3.6rem; } }
   @media screen and (max-width: 40rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
-    .core-message h2 {
+    .core-message p {
       font-size: 2.4rem;
       font-weight: bolder;
       line-height: 2.4rem; } }
 
-/* line 1356, css/sass/partials/wrapper.scss */
+/* line 1355, css/sass/partials/wrapper.scss */
 .big-text {
   padding: 5.8rem 0 7.6rem; }
 
-/* line 1360, css/sass/partials/wrapper.scss */
+/* line 1359, css/sass/partials/wrapper.scss */
 .middle-line {
   padding: 7.4rem 0;
   background-image: url("img/middle-line.svg");
   background-repeat: repeat-y;
   background-position: center center;
   background-size: 3px 3px; }
-  /* line 1367, css/sass/partials/wrapper.scss */
+  /* line 1366, css/sass/partials/wrapper.scss */
   .middle-line .widget_block {
     background: #f7f6f1;
     padding: 0 1.2rem; }
-  /* line 1369, css/sass/partials/wrapper.scss */
+  /* line 1368, css/sass/partials/wrapper.scss */
   .middle-line .btn-wrap {
     paddding-left: 1.4rem; }
-  /* line 1373, css/sass/partials/wrapper.scss */
+  /* line 1372, css/sass/partials/wrapper.scss */
   .middle-line img {
     text-align: center;
     background: #f7f6f1;
     padding: 1.2rem; }
-  /* line 1379, css/sass/partials/wrapper.scss */
+  /* line 1378, css/sass/partials/wrapper.scss */
   .middle-line .btn {
     max-width: 40rem;
     width: 100%;
     margin-left: 1.2rem;
     background: #f7f6f1; }
-    /* line 1384, css/sass/partials/wrapper.scss */
+    /* line 1383, css/sass/partials/wrapper.scss */
     .middle-line .btn:hover {
       background: #e5593f; }
 
-/* line 1392, css/sass/partials/wrapper.scss */
+/* line 1391, css/sass/partials/wrapper.scss */
 .bg-solar {
   padding: 7.7rem 0 7.2rem; }
 
-/* line 1396, css/sass/partials/wrapper.scss */
+/* line 1395, css/sass/partials/wrapper.scss */
 .three-across {
   padding: 5.8rem 0 8.6rem; }
 
