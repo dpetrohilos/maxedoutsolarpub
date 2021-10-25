@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><circle cx="88" cy="33" r="22" style="fill:tomato"/><circle cx="84" cy="33" r="22" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><line x1="110" y1="110.57" x2="14" y2="110.57" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><polyline points="51 110 51 75 98 75 98 110" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><polyline points="51 75 74 49 98 75" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><line x1="83" y1="52" x2="93" y2="63" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><line x1="87" y1="50" x2="102" y2="67" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="62" y="86" width="11.5" height="12" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="73.5" y="86" width="11.5" height="12" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><circle cx="74.5" cy="62.5" r="2.5" style="fill:#ff6248"/><polyline points="14 110 14 14 51 14 51 110" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="27" y="86.57" width="10" height="24" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="19" y="18" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="39" y="18" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="19" y="30" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="39" y="30" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="19" y="42" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="39" y="42" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="19" y="54" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="39" y="54" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="19" y="66" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/><rect x="39" y="66" width="7" height="7" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 110.3" style="enable-background:new 0 0 120 110.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF6347;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FF6248;}
+</style>
+<circle class="st0" cx="88" cy="23.3" r="22"/>
+<circle class="st1" cx="84" cy="23.3" r="22"/>
+<line class="st1" x1="110" y1="100.9" x2="14" y2="100.9"/>
+<polyline class="st1" points="51,100.3 51,65.3 98,65.3 98,100.3 "/>
+<polyline class="st1" points="51,65.3 74,39.3 98,65.3 "/>
+<line class="st1" x1="83" y1="42.3" x2="93" y2="53.3"/>
+<line class="st1" x1="87" y1="40.3" x2="102" y2="57.3"/>
+<rect x="62" y="76.3" class="st1" width="11.5" height="12"/>
+<rect x="73.5" y="76.3" class="st1" width="11.5" height="12"/>
+<circle class="st2" cx="74.5" cy="52.8" r="2.5"/>
+<polyline class="st1" points="14,100.3 14,4.3 51,4.3 51,100.3 "/>
+<rect x="27" y="76.9" class="st1" width="10" height="24"/>
+<rect x="19" y="8.3" class="st1" width="7" height="7"/>
+<rect x="39" y="8.3" class="st1" width="7" height="7"/>
+<rect x="19" y="20.3" class="st1" width="7" height="7"/>
+<rect x="39" y="20.3" class="st1" width="7" height="7"/>
+<rect x="19" y="32.3" class="st1" width="7" height="7"/>
+<rect x="39" y="32.3" class="st1" width="7" height="7"/>
+<rect x="19" y="44.3" class="st1" width="7" height="7"/>
+<rect x="39" y="44.3" class="st1" width="7" height="7"/>
+<rect x="19" y="56.3" class="st1" width="7" height="7"/>
+<rect x="39" y="56.3" class="st1" width="7" height="7"/>
+</svg>
