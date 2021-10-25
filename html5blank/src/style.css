@@ -1785,6 +1785,10 @@ iframe.wait-autoplay {
     background-image: linear-gradient(120deg, #444 0%, #444 100%);
     color: #444; }
 
+/* line 1456, css/sass/partials/wrapper.scss */
+.sidebar {
+  padding: 1.2rem; }
+
 /**
  * partials/header
  * ---
