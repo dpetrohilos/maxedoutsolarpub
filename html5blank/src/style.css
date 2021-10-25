@@ -1655,6 +1655,7 @@ iframe.wait-autoplay {
 
 /* line 1296, css/sass/partials/wrapper.scss */
 .core-message {
+  padding: 5.8rem 0 2rem;
   text-transform: uppercase; }
   @media screen and (min-width: 120rem) {
     /* line 1299, css/sass/partials/wrapper.scss */
@@ -1725,8 +1726,8 @@ iframe.wait-autoplay {
   padding: 7.7rem 0 7.2rem; }
 
 /* line 1396, css/sass/partials/wrapper.scss */
-.three-across, .writing {
-  padding: 7.2rem 0; }
+.three-across {
+  padding: 5.8rem 0 8.6rem; }
 
 /**
  * partials/header
