@@ -1,8 +1,10 @@
-<div class="bg8">
-<div class="wrapper-full big-text pb8 pt11 bg9" id="vision">
-<section class="row">
+<div class="wrapper-full three-across" id="offer">
+    <div class="wrapper">
+    <section class="row">
+    
+
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
-        <p> Save 26 thousand over a 20 year period. Do it while build a sustainable future for you and your family. 
+        <p> Save $26,000 Over A 20 Year Period. Build A Sustainable Future For You And Your Family. 
         </p>
        
 <p class="btn-wrap text-center">

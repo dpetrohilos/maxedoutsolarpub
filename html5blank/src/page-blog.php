@@ -1,5 +1,5 @@
 <?php /* Template Name: BLOG */ get_header(); ?>
-<main role="main" aria-label="Content" class="wrapper wrapper">
+<main role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
             
 

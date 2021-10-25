@@ -1,8 +1,7 @@
-<div class="bg8">
-<div class="wrapper-full big-text pb8 pt11 bg9" id="vision">
+<div class="wrapper-full big-text bg9" id="vision">
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
-        <p>On average homes with rooftop solar re-sell for 15 thousand dollars more than homes without rooftop solar. 
+        <p>On Average Homes With Rooftop Solar Re-Sell For $15,000 More Than Homes Without Rooftop Solar. 
         </p>
        
 <p class="btn-wrap text-center">
@@ -17,4 +16,4 @@
 
     </div>
     </section>
-</div></div>  
+</div>

@@ -1,5 +1,4 @@
-<div class="content-wrapper-full bg5" id="story">
-<div class="wrapper-full">        
+<div class="wrapper-full two-across" id="story">
 <section class="row content">
     <div class="col-lg-3 col-md-4 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner pt9 first-md last-sm last-xs mb9" id="signup">
         
@@ -31,10 +30,8 @@
     </picture>
 </div>
     
-</section>
-</div>
-
-<div class="wrapper-full">        
+    </section></div>
+<div class="wrapper-full two-across">        
 <section class="row content">
     
     
@@ -68,4 +65,3 @@
 
 </section>
 </div>
-    </div>

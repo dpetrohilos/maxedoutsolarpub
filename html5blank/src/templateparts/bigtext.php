@@ -2,7 +2,7 @@
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
         <p>
-        Lower energy bills, sustainable communities, and a a clean-powered-future we can believe in. Get in contact as soon as possible.  
+        Lower Energy Bills, Build Community Wealth, And Invest In A Green Future.
         </p>
        
 <p class="btn-wrap text-center">

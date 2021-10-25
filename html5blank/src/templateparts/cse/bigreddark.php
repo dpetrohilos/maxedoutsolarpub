@@ -3,8 +3,8 @@
     <section class="row">
         
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">Act now, spots are limited</h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> Act now, spots are limited
+            <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">Act Now, Spots Are Limited</h2>
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl"> Act Now, Spots Are Limited
         </h2>
 
             

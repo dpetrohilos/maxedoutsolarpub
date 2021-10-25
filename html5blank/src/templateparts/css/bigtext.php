@@ -1,9 +1,8 @@
-<div class="bg8">
-<div class="wrapper-full big-text pb8 pt11 bg9" id="vision">
+<div class="wrapper-full big-text bg9" id="vision">
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
         <p>
-        Lower energy bills, build a sustainable communities, save money and <a href="https://www.planline3.com/fund" title="line three defenders site">donate it to line 3 water defenders.</a>  
+        Lower Energy Bills, Build A Sustainable Communities, Save Money And <a href="https://www.planline3.com/fund" title="line three defenders site">Donate It To Line 3 Native–American Water Defenders.</a>  
         </p>
        
 <p class="btn-wrap text-center">
@@ -18,4 +17,4 @@
 
     </div>
     </section>
-</div></div>  
+</div>

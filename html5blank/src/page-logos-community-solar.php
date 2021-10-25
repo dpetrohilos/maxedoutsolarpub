@@ -44,7 +44,7 @@
 <?php get_template_part( 'templateparts/css/line-middle' ); ?>
 <?php get_template_part( 'templateparts/css/bigtext' ); ?>
 
-<div role="main" aria-label="Content" class="wrapper">
+<div role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
  <?php $my_query = new WP_Query( 'posts_per_page=6' );
 while ( $my_query->have_posts() ) : $my_query->the_post();
@@ -101,11 +101,11 @@ $do_not_duplicate = $post->ID; ?>
             
     </section></div>
 
-<div class="wrapper pt10">
+<div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
-            Ready to save with solar? 
+            Ready To Save With Solar? 
             </h3>
             
                        

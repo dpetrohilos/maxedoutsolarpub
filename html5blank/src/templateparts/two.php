@@ -1,5 +1,4 @@
-<div class="wrapper-full bg5 two-across" id="story">
-<div class="wrapper-full">        
+<div class="wrapper-full two-across" id="story">
 <section class="row content">
     <div class="col-lg-3 col-md-4 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner first-md last-sm last-xs two-child middle flex-column" id="signup">
         
@@ -16,7 +15,7 @@
     
     
     
-<div class="col-lg-6 col-md-6 col-sm-12 col-lg-offset-2 col-md-offset-1 col-sm-offset content-inner p0 last-md first-sm first-xs ">
+<div class="col-lg-6 col-md-6 col-sm-12 col-lg-offset-2 col-md-offset-1 col-sm-offset content-inner p0 last-md first-sm first-xs">
         
 <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
@@ -55,7 +54,7 @@
 
 </div>
     
-<div class="col-lg-3 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-innerf first-md last-sm last-xs two-child middle flex-column" id="mission">
+<div class="col-lg-3 col-md-4 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 content-inner first-md last-sm last-xs two-child middle flex-column" id="mission">
         
    		<?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-6' ) ) ?>
 
@@ -67,5 +66,4 @@
 </div>    
 
 </section>
-</div>
     </div>

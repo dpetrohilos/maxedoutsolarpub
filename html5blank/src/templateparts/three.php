@@ -14,7 +14,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get a free roof check</a>
+<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get A Free Roof Check</a>
 <!-- Calendly link widget end -->
     
         </p>
@@ -48,6 +48,3 @@
     
     </section>
     </div>    </div>
-
-
-

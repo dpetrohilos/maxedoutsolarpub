@@ -2,7 +2,7 @@
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
-            Ready to talk to us?
+            Ready To Talk To Us?
             </h3>
             
                        
@@ -18,7 +18,7 @@
     </section>
     
 </div>
-<div class="wrapper-full bg8 p0 pb2 pt7">
+<div class="wrapper-full">
 			<footer class="footer wrapper p0 mb0" role="contentinfo">
 <section class="row pt10">
     
@@ -90,7 +90,6 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/valde.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/glightbox.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
-<link rel="text/css" href="<?php echo get_template_directory_uri(); ?>/background.css">
 
 
 	</body>

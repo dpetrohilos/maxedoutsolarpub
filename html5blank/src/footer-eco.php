@@ -1,4 +1,4 @@
-<div class="wrapper-full bg8 p0 pb2 pt7">
+<div class="wrapper-full">
 			<footer class="footer wrapper p0 mb0" role="contentinfo">
 <section class="row pt10">
     
@@ -40,7 +40,6 @@
     </div>
 
 </section>
-                
             <section class="row pt7"> 
                                     <div class="col-xl-12 col-lg-10 col-md-10 col-sm-10 col-xs-10 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 text-center">
 
@@ -48,6 +47,7 @@
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Logo" class="logo-img">
 						</a>
+                
                 <?php
 				    printf( '<p class="copyright">' . __( '&copy; %1$s Copyright %2$s.', 'html5blank' ) . '</p>',
 				    	date( 'Y'),
@@ -70,7 +70,6 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/valde.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/glightbox.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
-<link rel="text/css" href="<?php echo get_template_directory_uri(); ?>/background.css">
 
 
 	</body>

@@ -1,11 +1,10 @@
-<div class="wrapper-full bgdarkred">
-    <div class="wrapper">
+<div class="wrapper-full bgred bg-solar" id="talk"><div class="wrapper">
     <section class="row">
         
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">No money down. Zero upfront costs. 
+        <h2 class="text-center hide-xl hide-lg show-md show-sm show-xs">No Money Down. Zero Upfront Costs. 
         </h2>
-        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">No money down. Zero upfront costs.
+        <h2 class="hide-xs hide-sm hide-md show-lg show-xl">No Money Down. Zero Upfront Costs.
         </h2>
 
             

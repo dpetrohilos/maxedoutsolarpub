@@ -1,4 +1,4 @@
-<div class="wrapper-full pt7 bg11" id="offer">
+<div class="wrapper-full three-across" id="offer">
     <div class="wrapper">
     <section class="row pb8">
     
