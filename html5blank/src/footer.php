@@ -1,4 +1,4 @@
-<div class="wrapper pt10">
+<div class="wrapper pt7">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
@@ -19,7 +19,7 @@
 </div>
 <div class="wrapper-full bg8 p0 pb2 pt7">
 			<footer class="footer wrapper p0 mb0" role="contentinfo">
-<section class="row pt10">
+<section class="row pt7">
     
     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-10 col-xs-10 col-xl-offset-2 col-md-offset-2 col-lg-offset-2 col-sm-offset-1 col-xs-offset-1">
 <p><a href="mailtoMax@MaxedOutSolar.com:">Max at MaxedOutSolar dot com</a></p>
