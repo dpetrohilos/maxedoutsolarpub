@@ -2312,8 +2312,8 @@ iframe.wait-autoplay {
   .hamburger #menuToggle {
     display: block;
     position: fixed;
-    top: 1.2rem;
-    left: 1.2rem;
+    top: 2.4rem;
+    left: 2.4rem;
     z-index: 1;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -2332,7 +2332,7 @@ iframe.wait-autoplay {
   .hamburger #menuToggle label {
     position: absolute;
     font-size: 1.8rem;
-    top: 1rem;
+    top: 1.2rem;
     left: 4.8rem; }
   /* line 99, css/sass/partials/nav.scss */
   .hamburger #menuToggle input {
