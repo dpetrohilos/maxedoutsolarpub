@@ -15,7 +15,6 @@
 
     </div>      
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
-    <p class="overtext"><strong><small>Switching to solar, easier than ever</small></strong><p>    
             <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-33' ) ) ?>
         
         

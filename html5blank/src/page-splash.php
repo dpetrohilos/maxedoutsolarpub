@@ -44,8 +44,6 @@
 <?php get_template_part( 'templateparts/core-message' ); ?>
 <?php get_template_part( 'templateparts/rte/line-middle' ); ?>
 <?php get_template_part( 'templateparts/rte/bigtext' ); ?>
-
-
 <main role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
             

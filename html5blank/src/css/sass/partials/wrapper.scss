@@ -123,6 +123,8 @@ $padding: 1.2rem;
     span {
         font-size: 1.8rem !important; 
         padding-left: 1.2rem;
+        font-weight: bold;
+    font-weight: bold !important; font-family: "Nexa Bold", NexaBold, Arial, "Open Sans", sans-serif; //; 
 
     }
 
@@ -144,11 +146,14 @@ $padding: 1.2rem;
     font-size: 1.8rem;
     text-align: center;
     margin-bottom: 2.4rem; 
+    text-decoration: none !important; 
     
     &:hover {
             border: 1px solid $tomato; 
             background: $tomato; 
-            color: white; 
+            color: white;
+            text-decoration: none !important; 
+
     }
     
     
@@ -1423,4 +1428,22 @@ padding: 5.8rem 0 2rem !important;
 
 .writing {
     padding-top: 7.2rem 
+}
+
+.content {
+    a {
+    text-decoration: none !important;
+    color: $tomato; 
+    background-image: linear-gradient(
+    120deg, $tomato 0%, #8fd3f4 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.1em;
+    background-position: 0 88%;
+    -webkit-transition: background-size 0.25s ease-in;
+    transition: background-size 0.25s ease-in;
+        
+        &:hover{
+    background-size: 100% 88%;
+        }
+    }
 }
