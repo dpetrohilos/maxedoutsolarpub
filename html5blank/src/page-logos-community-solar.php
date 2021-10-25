@@ -1,9 +1,7 @@
 <?php /* Template Name: Savings Community Solar */ get_header(); ?>
 
-
-
-<?php get_template_part( 'templateparts/css/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/css/bigred' ); ?>
+<?php get_template_part( 'templateparts/css/bigreddark' ); ?>
 <?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <?php get_template_part( 'templateparts/css/three' ); ?>
 
