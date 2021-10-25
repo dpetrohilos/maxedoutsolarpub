@@ -1696,7 +1696,7 @@ iframe.wait-autoplay {
 
 /* line 1361, css/sass/partials/wrapper.scss */
 .middle-line {
-  padding: 6rem 0;
+  padding: 6rem 0 7.2rem;
   background-image: url("img/middle-line.svg");
   background-repeat: repeat-y;
   background-position: center center;
@@ -1725,6 +1725,14 @@ iframe.wait-autoplay {
 
 /* line 1395, css/sass/partials/wrapper.scss */
 .three-across {
+  padding: 6rem 0 7.2rem; }
+
+/* line 1399, css/sass/partials/wrapper.scss */
+.footer-top {
+  padding: 6rem 0 7.2rem; }
+
+/* line 1405, css/sass/partials/wrapper.scss */
+.footer {
   padding: 6rem 0; }
 
 /**
