@@ -328,6 +328,8 @@ display: initial;
     justify-content: flex-start;
     align-content: flex-end;
     width: 165px;
+    padding-top: 2.4rem; 
+    paddin-bottom: 2.4rem; 
 }
 
 .share-buttons li {
@@ -359,6 +361,7 @@ display: initial;
     padding: 12px 12px 6px;
     text-align: center;
     color: #ffffff !important;
+    background-image:  none !important; 
     &:hover {
         text-decoration: none !important; 
         color: #fff !important; 
