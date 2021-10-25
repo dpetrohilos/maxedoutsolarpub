@@ -46,9 +46,8 @@
 
                 <a href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo-footer.svg" alt="Logo" class="logo-img">
+							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Logo" class="logo-img">
 						</a>
-                
                 <?php
 				    printf( '<p class="copyright">' . __( '&copy; %1$s Copyright %2$s.', 'html5blank' ) . '</p>',
 				    	date( 'Y'),
