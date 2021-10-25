@@ -14,7 +14,7 @@
 	<body <?php body_class(); ?>>
 
         
-<nav id="mainnav" role="navigation" class="nav hamburger headroom headroom header--fixed hide-from-print animated slideDown">
+<nav id="mainnav" role="navigation" class="nav hamburger">
   <div id="menuToggle"><form>
         <label for="hamburger-menu" class="menu-label">Menu</label>  
     <input id="hamburger-menu" class="menu-checkbox" type="checkbox" />
