@@ -1765,15 +1765,16 @@ iframe.wait-autoplay {
 .content a {
   text-decoration: none !important;
   color: #e5593f;
-  background-image: linear-gradient(120deg, #e5593f 0%, #8fd3f4 100%);
+  background-image: #e5593f;
   background-repeat: no-repeat;
   background-size: 100% 0.1em;
   background-position: 0 88%;
   -webkit-transition: background-size 0.25s ease-in;
   transition: background-size 0.25s ease-in; }
-  /* line 1445, css/sass/partials/wrapper.scss */
+  /* line 1444, css/sass/partials/wrapper.scss */
   .content a:hover {
-    background-size: 100% 88%; }
+    color: #444;
+    background-image: #444; }
 
 /**
  * partials/header
