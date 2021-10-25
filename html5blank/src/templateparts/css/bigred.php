@@ -1,16 +1,20 @@
 <div class="wrapper-full  pt10 pb10 bgred bg-community" id="talk"><div class="wrapper">
     <section class="row">
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
+<a href="https://www.youtube.com/embed/mAAcHyUKLx0" class="glightbox3"> <!----change after videos are made!---->
         
-<picture>    
+    <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
- srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-children.webp" type="image/webp" />
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-children-2@0.75x.jpg" media="(min-width: 1000px)">
-<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-children-1@0.5x.jpg" media="(min-width: 800px)">
+ srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.webp" type="image/video-3.webp" />
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3.jpg" media="(min-width: 1000px)">
+<source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3@0.75x-100.jpg" media="(min-width: 800px)">
   
-<img width="1200" class="lazy responsive-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/the-children.jpg" alt="Mother holding child" />
+<img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-3@0.5x-100.jpg" alt="Featured video" />
 
-    </picture> 
+        
+        
+    </picture>
+</a>    
 
     </div>      
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
