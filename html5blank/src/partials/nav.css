@@ -8,7 +8,7 @@ Error: Undefined variable: "$lg-max".
 11:     
 12:     
 13:     @media screen and (min-width: $lg-max) {
-14:     width: 18rem; 
+14:     width: 14.4rem; 
 15:     height: 8.4rem; 
 16:     position: fixed; 
 17:     display: block; 
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$lg-max\".\A         on line 13 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/nav.scss\A \A 8: \A 9: \A 10: .hamburger{\A 11:     \A 12:     \A 13:     @media screen and (min-width: $lg-max) {\A 14:     width: 18rem; \A 15:     height: 8.4rem; \A 16:     position: fixed; \A 17:     display: block; \A 18:     background-color: #fff;"; }
+  content: "Error: Undefined variable: \"$lg-max\".\A         on line 13 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/nav.scss\A \A 8: \A 9: \A 10: .hamburger{\A 11:     \A 12:     \A 13:     @media screen and (min-width: $lg-max) {\A 14:     width: 14.4rem; \A 15:     height: 8.4rem; \A 16:     position: fixed; \A 17:     display: block; \A 18:     background-color: #fff;"; }
