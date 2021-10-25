@@ -118,7 +118,7 @@ $padding: 1.2rem;
 
 
 .btn-wrap {
-    padding-top:2.4rem;
+    padding-top:4.8rem !important;
     padding: 0; 
     display: block; 
     span {
@@ -419,9 +419,7 @@ display: initial;
 // big text 
 
 .big-text {
-        padding: 7.2rem 0;
         border-top: 1px solid $tomato;
-
         border-bottom: 1px solid $tomato;
 
     p {
@@ -1355,7 +1353,9 @@ iframe.wait-autoplay {
 // bg 
 
 
-
+.big-text {
+    padding: 5.8rem 0 7.6rem;
+}
 
 .middle-line {
     padding: 7.4rem 0;
@@ -1390,7 +1390,7 @@ iframe.wait-autoplay {
 
 
 .bg-solar {
-    padding: 7.4rem 0 7.2rem;
+    padding: 7.7rem 0 7.2rem;
 }
 
 .three-across, .writing {
