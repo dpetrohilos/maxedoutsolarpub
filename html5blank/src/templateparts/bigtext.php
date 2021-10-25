@@ -1,5 +1,4 @@
-<div class="bg8">
-<div class="wrapper-full big-text pb7 pt7 bg9" id="vision">
+<div class="wrapper-full big-text bg9" id="vision">
 <section class="row">
     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
         <p>
@@ -18,4 +17,4 @@
 
     </div>
     </section>
-</div></div>  
+</div>
