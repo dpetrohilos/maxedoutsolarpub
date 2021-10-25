@@ -1028,6 +1028,7 @@ input[type="search"] {
   display: block; }
   /* line 407, css/sass/partials/wrapper.scss */
   .btn-wrap span {
+    font-size: 1.8rem !important;
     padding-left: 1.2rem; }
 
 /* line 419, css/sass/partials/wrapper.scss */
