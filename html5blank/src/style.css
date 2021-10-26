@@ -1808,6 +1808,10 @@ iframe.wait-autoplay {
 .page .header {
   padding: 0 0 .6rem; }
 
+/* line 1485, css/sass/partials/wrapper.scss */
+.single .header {
+  padding: 0 0 .6rem; }
+
 /**
  * partials/header
  * ---
