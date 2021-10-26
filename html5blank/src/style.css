@@ -1812,6 +1812,10 @@ iframe.wait-autoplay {
 .single .header {
   padding: 0 0 .6rem; }
 
+/* line 1491, css/sass/partials/wrapper.scss */
+.content .wp-block-image {
+  margin: 2.4rem 0; }
+
 /**
  * partials/header
  * ---
