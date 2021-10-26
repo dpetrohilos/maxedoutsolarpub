@@ -61,7 +61,7 @@ src="https://www.facebook.com/tr?id=882561502389151&ev=PageView&noscript=1"
 <header class="header topbar" role="banner" id="top">
 <section class="row">
 					<!-- logo -->
-					<div class="logo col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-8 col-xl-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-3 col-xs-offset-4">
+					<div class="logo col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-8 col-xl-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-4 col-xs-offset-5">
 						<a title="home link" href="<?php echo esc_url( home_url() ); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
