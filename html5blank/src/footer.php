@@ -3,7 +3,7 @@
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
-            Refer a friend and you could get $1000 if they put solar on their rooftop 
+            Refer a friend and you could get $1,000 if they put solar on their rooftop 
             </h3>
             
                        
