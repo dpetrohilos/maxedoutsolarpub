@@ -3,7 +3,7 @@
 <div class="wrapper-full big-text page-headline">        
 <section class="row"><div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
     <h1 class="text-center"><?php the_title(); ?></h1>
-    <p class="info"><span class="date">
+    <p class="info text-center"><span class="date">
 			<time datetime="<?php the_time( 'M y d' ); ?>">
                 <?php the_date('M y d'); ?>   
 			</time>
