@@ -1,86 +1,64 @@
 <?php get_header('without'); ?>
-
-        <div class="wrapper">
-<?php if ( have_posts() ) : while (have_posts() ) : the_post(); ?>
-   	<section class="row content"> 
-
-<div id="post-<?php the_ID(); ?>" <?php post_class('col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 content-inner'); ?>>
-<h1><?php the_title(); ?>
-			</h1>
-			<!-- /post title -->
-
- 
-        
-<p class="info pb2 pt1"><span class="date pr2">
+<?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
+<div class="wrapper-full big-text page-headline">        
+<section class="row"><div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
+    <h1 class="text-center"><?php the_title(); ?></h1>
+    <p class="info"><span class="date">
 			<time datetime="<?php the_time( 'M y d' ); ?>">
                 <?php the_date('M y d'); ?>   
 			</time>
     
              </span>  | 
-     		<span class="author pl2">
+     		<span class="author">
 <span class="pr1">
              <?php echo get_avatar( get_the_author_meta( 'ID' ), 32 ); ?>
                 </span>
                 <?php esc_html_e( 'By', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>
      
      </p> 
-            
+    
+    </div></section> </div>
+<div class="wrapper-flull featured-wrapper"><section class="row"><div class="col-lg-8 col-md-8 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
 
-            
-        
-
-        </div></section> 
-            
-   	<section class="row content"> 
-      <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 content-inner mb2">
-
-			<!-- post thumbnail -->
-			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
+    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
 					<?php the_post_thumbnail('larger radius-both'); // Fullsize image for the single post. ?>
 			<?php endif; ?>
-			<!-- /post thumbnail -->
-    </div> 
-        
-<?php get_template_part( 'sidebar' ); ?>
-            </section></div>
-           <div class="wrapper">
 
-<section class="row content">
-    <article class="content-inner col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 pt2 content-inner">    
+    </div></section></div>
+
+	<main role="main" aria-label="Content" class="wrapper">
+		<!-- section -->
+		<section class="row content">
+            
+			<!-- article -->
+			<article id="post-<?php the_ID(); ?>" <?php post_class('content-inner col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-3'); ?>>
                                     <?php wcr_share_buttons(); ?> 
 
-			<?php the_content(); // Dynamic Content. ?>
-
-<div class="cat--in">
-             <?php esc_html_e( 'Filed Under: ', 'html5blank' ); the_category( ' ' ); // Separated by commas. ?>   
-        </div>
-        
-        
-
-			<?php edit_post_link(); // Always handy to have Edit Post Links available. ?>
+				<?php the_content(); ?>
 
 
-		<!-- /article -->
+                <p><?php edit_post_link(); ?></p>
 
-	<?php endwhile; ?>
+			</article>
+			<!-- /article -->
 
-	<?php else : ?>
+		<?php endwhile; ?>
 
-		<!-- article -->
-		<article>
+		<?php else : ?>
 
-			<h1><?php esc_html_e( 'Sorry, nothing to display.', 'html5blank' ); ?></h1>
+			<!-- article -->
+			<article>
 
-		</article>
-		<!-- /article -->
+				<h2><?php esc_html_e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
 
-	<?php endif; ?>
-        </article>
-	</section>
-	<!-- /section -->
+			</article>
+			<!-- /article -->
 
-            </div>
-<?php get_footer('home'); ?>
+		<?php endif; ?>
+
+		</section>
+		<!-- /section -->
+	</main>
 
 
-
+<?php get_footer(); ?>
