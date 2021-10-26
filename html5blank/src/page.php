@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
-<div class="wrapper-full big-text">        
+<div class="wrapper-full big-text page-headline">        
 <section class="row"><div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
     <h1 class="text-center"><?php the_title(); ?></h1></div></section> </div>
-<div class="wrapper-flull"><section class="row"><div class="col-lg-8 col-md-8 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+<div class="wrapper-flull featured-wrapper"><section class="row"><div class="col-lg-8 col-md-8 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
 					<?php the_post_thumbnail('larger radius-both'); // Fullsize image for the single post. ?>

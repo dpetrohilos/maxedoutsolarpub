@@ -1796,6 +1796,14 @@ iframe.wait-autoplay {
 .wp-block-image {
   margin: 0 !important; }
 
+/* line 1467, css/sass/partials/wrapper.scss */
+.featured-wrapper {
+  padding: 7.2rem 0 0; }
+
+/* line 1471, css/sass/partials/wrapper.scss */
+.page-headline {
+  margin: 7.2rem 0; }
+
 /**
  * partials/header
  * ---
