@@ -20,8 +20,6 @@ require_once 'modules/is-debug.php';
 if ( ! isset( $content_width ) ) {
     $content_width = 900;
 }
-
-
 if ( function_exists( 'add_theme_support' ) ) {
 
     // Add Thumbnail Theme Support.
