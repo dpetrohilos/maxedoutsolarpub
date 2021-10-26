@@ -433,7 +433,7 @@ display: initial;
         border-top: 1px solid $tomato;
         border-bottom: 1px solid $tomato;
 
-    p, h2 {
+    p, h2, h1 {
 
         
         @media screen and (min-width: $lg-max) {
@@ -1469,6 +1469,6 @@ padding: 5.8rem 0 2rem !important;
 }
 
 .page-headline {
-    margin: 7.2rem 0; 
+    margin: 2rem 0; 
 
 }

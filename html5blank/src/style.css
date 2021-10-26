@@ -774,31 +774,31 @@ input[type="search"] {
   border-bottom: 1px solid #e5593f; }
   @media screen and (min-width: 120rem) {
     /* line 436, css/sass/partials/wrapper.scss */
-    .big-text p, .big-text h2 {
+    .big-text p, .big-text h2, .big-text h1 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 120rem) {
     /* line 436, css/sass/partials/wrapper.scss */
-    .big-text p, .big-text h2 {
+    .big-text p, .big-text h2, .big-text h1 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 90rem) {
     /* line 436, css/sass/partials/wrapper.scss */
-    .big-text p, .big-text h2 {
+    .big-text p, .big-text h2, .big-text h1 {
       font-size: 4.8rem;
       font-weight: bolder;
       line-height: 4.8rem; } }
   @media screen and (max-width: 64rem) {
     /* line 436, css/sass/partials/wrapper.scss */
-    .big-text p, .big-text h2 {
+    .big-text p, .big-text h2, .big-text h1 {
       font-size: 3.6rem;
       font-weight: bolder;
       line-height: 3.6rem; } }
   @media screen and (max-width: 40rem) {
     /* line 436, css/sass/partials/wrapper.scss */
-    .big-text p, .big-text h2 {
+    .big-text p, .big-text h2, .big-text h1 {
       font-size: 2.4rem;
       font-weight: bolder;
       line-height: 2.4rem; } }
@@ -1802,7 +1802,7 @@ iframe.wait-autoplay {
 
 /* line 1471, css/sass/partials/wrapper.scss */
 .page-headline {
-  margin: 7.2rem 0; }
+  margin: 2rem 0; }
 
 /**
  * partials/header
