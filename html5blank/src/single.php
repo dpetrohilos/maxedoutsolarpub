@@ -1,7 +1,7 @@
 <?php get_header('without'); ?>
 <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 <div class="wrapper-full big-text page-headline">        
-<section class="row"><div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-1">
+<section class="row"><div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-2 text-center">
     <h1 class="text-center"><?php the_title(); ?></h1>
     <p class="info text-center"><span class="date">
 			<time datetime="<?php the_time( 'M y d' ); ?>">
