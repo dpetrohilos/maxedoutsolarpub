@@ -21,7 +21,7 @@
 <div class="wrapper-flull featured-wrapper"><section class="row"><div class="col-lg-8 col-md-8 col-sm-10 col-xs-10 col-xs-offset-1 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('radius-both'); // Fullsize image for the single post. ?>
+					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
 			<?php endif; ?>
 
     </div></section></div>
