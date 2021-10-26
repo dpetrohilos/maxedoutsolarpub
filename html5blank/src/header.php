@@ -69,23 +69,6 @@ src="https://www.facebook.com/tr?id=882561502389151&ev=PageView&noscript=1"
 					</div>
 					<!-- /logo -->
 
-					<!-- nav -->
-    
-    <nav role="navigation" class="nav-top icon col-lg-4 col-md-4 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-3">
-
-        <ul id="top-menu" class="nav nav-top">
-            <li><a title="Offer" href="<?php echo esc_url( home_url() ); ?>/#offer">Offer</a></li>
-            <li><a title="Story" href="<?php echo esc_url( home_url() ); ?>/#story">Story</a></li>
-            <li><a title="Vision" href="<?php echo esc_url( home_url() ); ?>/#vision">Vision</a></li>
-            <li><a title="Services" href="<?php echo esc_url( home_url() ); ?>/#Service">Service</a></li>
-
-        
-        </ul>
-        
-    </nav>
-    
-    
-					<!-- /nav -->
                 </section>
 			</header>
 			<!-- /header --> 
