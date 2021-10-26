@@ -1817,7 +1817,7 @@ iframe.wait-autoplay {
   padding: 2.4rem 0; }
 
 /* line 1499, css/sass/partials/wrapper.scss */
-.page-headline p {
+.page-headline p, .page-headline .info, .page-headline span {
   font-size: 1.8rem !important; }
 
 /**
