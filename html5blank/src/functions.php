@@ -21,17 +21,17 @@ if ( ! isset( $content_width ) ) {
     $content_width = 900;
 }
 if ( function_exists( 'add_theme_support' ) ) {
-
     // Add Thumbnail Theme Support.
     add_theme_support( 'post-thumbnails' );
-    add_image_size( 'larger', 900, 1200, true ); // Large Thumbnail.
-    add_image_size( 'medium', 600, 900, true ); // Medium Thumbnail.
-    add_image_size( 'small', 300, 456, true ); // Small Thumbnail.
-    add_image_size( 'custom-size', 300, 456, true ); 
+    add_image_size( 'larger', 900, 1200, false ); // Large Thumbnail.
+    add_image_size( 'medium', 600, 900, false ); // Medium Thumbnail.
+    add_image_size( 'small', 300, 456, false ); // Small Thumbnail.
+
+    add_image_size( 'custom-size', 300, 456, false ); 
     
-    add_image_size( 'thumbnail', 300, 456, true ); 
+    add_image_size( 'thumbnail', 300, 456, false ); 
     
-    add_image_size( 'thumb-nail', 300, 456, true ); 
+    add_image_size( 'thumb-nail', 300, 456, false ); 
     
     // Custom Thumbnail Size call using the_post_thumbnail('custom-size');
 
