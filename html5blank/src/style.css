@@ -187,23 +187,24 @@ body {
 /* line 40, css/sass/partials/reset.scss */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle;
+  height: auto; }
 
-/* line 47, css/sass/partials/reset.scss */
+/* line 48, css/sass/partials/reset.scss */
 a {
   color: #444;
   text-decoration: none; }
-  /* line 51, css/sass/partials/reset.scss */
+  /* line 52, css/sass/partials/reset.scss */
   a:focus, a:hover {
     text-decoration: underline; }
 
-/* line 59, css/sass/partials/reset.scss */
+/* line 60, css/sass/partials/reset.scss */
 input[type="text"],
 input[type="search"] {
   font-size: inherit;
   line-height: inherit; }
 
-/* line 66, css/sass/partials/reset.scss */
+/* line 67, css/sass/partials/reset.scss */
 ::-moz-selection {
   background-color: #e5593f;
   color: #f7f6f1;
@@ -1776,47 +1777,46 @@ iframe.wait-autoplay {
 /* line 1440, css/sass/partials/wrapper.scss */
 .content a {
   text-decoration: none !important;
-  color: #e5593f;
-  background-image: linear-gradient(120deg, #e5593f 0%, #e5593f 100%);
+  background-image: linear-gradient(45deg, #fb6d86 0%, #6884c7 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.1em;
   background-position: 0 88%;
-  -webkit-transition: background-size 0.25s ease-in;
-  transition: background-size 0.25s ease-in; }
-  /* line 1451, css/sass/partials/wrapper.scss */
+  -webkit-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out; }
+  /* line 1449, css/sass/partials/wrapper.scss */
   .content a:hover {
-    background-image: linear-gradient(120deg, #444 0%, #444 100%);
+    background-image: linear-gradient(120deg, #444 0%, #e5593f 100%);
     color: #444; }
 
-/* line 1461, css/sass/partials/wrapper.scss */
+/* line 1459, css/sass/partials/wrapper.scss */
 .sidebar {
   padding: 1.2rem; }
 
-/* line 1464, css/sass/partials/wrapper.scss */
+/* line 1462, css/sass/partials/wrapper.scss */
 .wp-block-image {
   margin: 0 !important; }
 
-/* line 1467, css/sass/partials/wrapper.scss */
+/* line 1465, css/sass/partials/wrapper.scss */
 .featured-wrapper {
   padding: 7.2rem 0 7.2rem; }
 
-/* line 1471, css/sass/partials/wrapper.scss */
+/* line 1469, css/sass/partials/wrapper.scss */
 .page-headline {
   margin: 2rem 0; }
 
-/* line 1478, css/sass/partials/wrapper.scss */
+/* line 1476, css/sass/partials/wrapper.scss */
 .page .header {
   padding: 0 0 .6rem; }
 
-/* line 1485, css/sass/partials/wrapper.scss */
+/* line 1483, css/sass/partials/wrapper.scss */
 .single .header {
   padding: 0 0 .6rem; }
 
-/* line 1491, css/sass/partials/wrapper.scss */
+/* line 1489, css/sass/partials/wrapper.scss */
 .content .wp-block-image {
   padding: 2.4rem 0; }
 
-/* line 1499, css/sass/partials/wrapper.scss */
+/* line 1497, css/sass/partials/wrapper.scss */
 .page-headline p, .page-headline .info, .page-headline span {
   font-size: 1.8rem !important; }
 

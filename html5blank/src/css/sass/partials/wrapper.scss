@@ -1439,18 +1439,16 @@ padding: 5.8rem 0 2rem !important;
 .content {
     a {
     text-decoration: none !important;
-    color: $tomato; 
     background-image: linear-gradient(
-    120deg, $tomato 0%, $tomato 100%);
+    45deg, #fb6d86 0%, #6884c7 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.1em;
     background-position: 0 88%;
-    -webkit-transition: background-size 0.25s ease-in;
-    transition: background-size 0.25s ease-in;
+    transition: all 0.25s ease-out;
         
         &:hover{
     background-image: linear-gradient(
-    120deg, #444 0%, #444 100%);
+    120deg, #444 0%, $tomato 100%);
     color: #444; 
 
 

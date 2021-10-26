@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$font-family-base".
-        on line 30 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/reset.scss
+        on line 30 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/reset.scss
 
 25:     border: 0; 
 26: 
@@ -15,7 +15,7 @@ Error: Undefined variable: "$font-family-base".
 35: border: 0;
 
 Backtrace:
-/Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/reset.scss:30
+/Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/reset.scss:30
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.25/lib/sass/tree/visitors/perform.rb:398:in `visit_prop'
@@ -68,4 +68,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$font-family-base\".\A         on line 30 of /Users/dylanpetrohilos/Desktop/maxout/wp-content/themes/html5blank/src/css/sass/partials/reset.scss\A \A 25:     border: 0; \A 26: \A 27: }\A 28: \A 29: body {\A 30:   font-family: $font-family-base;\A 31:   line-height: $line-height-base;\A 32:   color: $text-color;\A 33: padding: 0; \A 34: margin: 0; \A 35: border: 0;"; }
+  content: "Error: Undefined variable: \"$font-family-base\".\A         on line 30 of /Users/dylanpetrohilos/Documents/GitHub/maxedoutsolarpub/html5blank/src/css/sass/partials/reset.scss\A \A 25:     border: 0; \A 26: \A 27: }\A 28: \A 29: body {\A 30:   font-family: $font-family-base;\A 31:   line-height: $line-height-base;\A 32:   color: $text-color;\A 33: padding: 0; \A 34: margin: 0; \A 35: border: 0;"; }
