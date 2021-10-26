@@ -1816,6 +1816,10 @@ iframe.wait-autoplay {
 .content .wp-block-image {
   padding: 2.4rem 0; }
 
+/* line 1499, css/sass/partials/wrapper.scss */
+.page-headline p {
+  font-size: 1.2rem !important; }
+
 /**
  * partials/header
  * ---
