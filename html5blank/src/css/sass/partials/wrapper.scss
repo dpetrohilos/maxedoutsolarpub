@@ -1445,11 +1445,12 @@ padding: 5.8rem 0 2rem !important;
     background-size: 100% 0.1em;
     background-position: 0 88%;
     transition: all 0.25s ease-out;
+        color: $tomato; 
         
         &:hover{
     background-image: linear-gradient(
-    120deg, #444 0%, $tomato 100%);
-    color: #444; 
+    120deg, #fb6d86 0%, $tomato 100%);
+    color: #6884c7; 
 
 
         }
