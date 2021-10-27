@@ -804,7 +804,7 @@ input[type="search"] {
       font-weight: bolder;
       line-height: 2.4rem; } }
   /* line 486, css/sass/partials/wrapper.scss */
-  .big-text .btn-wrapper {
+  .big-text .btn-wrap {
     padding-top: 5.2rem !important; }
 
 /* line 495, css/sass/partials/wrapper.scss */
@@ -1720,67 +1720,63 @@ iframe.wait-autoplay {
 .bg-solar {
   padding: 8.5rem 0 7.4rem; }
 
-/* line 1378, css/sass/partials/wrapper.scss */
-.big-text {
-  padding: 6rem 0; }
-
-/* line 1384, css/sass/partials/wrapper.scss */
+/* line 1379, css/sass/partials/wrapper.scss */
 .middle-line {
   padding: 6rem 0 7.2rem;
   background-image: url("img/middle-line.svg");
   background-repeat: repeat-y;
   background-position: center center;
   background-size: 3px 3px; }
-  /* line 1391, css/sass/partials/wrapper.scss */
+  /* line 1386, css/sass/partials/wrapper.scss */
   .middle-line .widget_block {
     background: #f7f6f1;
     padding: 0 1.2rem; }
-  /* line 1393, css/sass/partials/wrapper.scss */
+  /* line 1388, css/sass/partials/wrapper.scss */
   .middle-line .btn-wrap {
     paddding-left: 1.4rem; }
-  /* line 1397, css/sass/partials/wrapper.scss */
+  /* line 1392, css/sass/partials/wrapper.scss */
   .middle-line img {
     text-align: center;
     background: #f7f6f1;
     padding: 1.2rem; }
-  /* line 1403, css/sass/partials/wrapper.scss */
+  /* line 1398, css/sass/partials/wrapper.scss */
   .middle-line .btn {
     max-width: 40rem;
     width: 100%;
     margin-left: 1.2rem;
     background: #f7f6f1;
     text-transform: capitalize; }
-    /* line 1409, css/sass/partials/wrapper.scss */
+    /* line 1404, css/sass/partials/wrapper.scss */
     .middle-line .btn:hover {
       background: #e5593f; }
 
-/* line 1416, css/sass/partials/wrapper.scss */
+/* line 1411, css/sass/partials/wrapper.scss */
 .two-across {
   padding: 0; }
-  /* line 1420, css/sass/partials/wrapper.scss */
+  /* line 1415, css/sass/partials/wrapper.scss */
   .two-across section .two-child {
     padding: 6rem 1.2rem; }
-  /* line 1425, css/sass/partials/wrapper.scss */
+  /* line 1420, css/sass/partials/wrapper.scss */
   .two-across section div {
     padding: 0; }
 
-/* line 1433, css/sass/partials/wrapper.scss */
+/* line 1428, css/sass/partials/wrapper.scss */
 .three-across {
   padding: 6rem 0 7.2rem; }
 
-/* line 1437, css/sass/partials/wrapper.scss */
+/* line 1432, css/sass/partials/wrapper.scss */
 .footer-top {
   padding: 6rem 0 7.2rem; }
 
-/* line 1443, css/sass/partials/wrapper.scss */
+/* line 1438, css/sass/partials/wrapper.scss */
 .footer {
   padding: 6rem 0; }
 
-/* line 1447, css/sass/partials/wrapper.scss */
+/* line 1442, css/sass/partials/wrapper.scss */
 .writing {
   padding-top: 7.2rem; }
 
-/* line 1452, css/sass/partials/wrapper.scss */
+/* line 1447, css/sass/partials/wrapper.scss */
 .content a {
   text-decoration: none !important;
   background-image: linear-gradient(45deg, #fb6d86 0%, #6884c7 100%);
@@ -1790,53 +1786,53 @@ iframe.wait-autoplay {
   -webkit-transition: all 0.25s ease-out;
   transition: all 0.25s ease-out;
   color: #e5593f; }
-  /* line 1462, css/sass/partials/wrapper.scss */
+  /* line 1457, css/sass/partials/wrapper.scss */
   .content a:hover {
     background-image: linear-gradient(120deg, #fb6d86 0%, #e5593f 100%);
     color: #6884c7; }
 
-/* line 1472, css/sass/partials/wrapper.scss */
+/* line 1467, css/sass/partials/wrapper.scss */
 .sidebar {
   padding: 1.2rem; }
 
-/* line 1475, css/sass/partials/wrapper.scss */
+/* line 1470, css/sass/partials/wrapper.scss */
 .wp-block-image {
   margin: 0 !important; }
 
-/* line 1478, css/sass/partials/wrapper.scss */
+/* line 1473, css/sass/partials/wrapper.scss */
 .featured-wrapper {
   padding: 7.2rem 0 7.2rem; }
 
-/* line 1482, css/sass/partials/wrapper.scss */
+/* line 1477, css/sass/partials/wrapper.scss */
 .page-headline {
   margin: 2rem 0; }
 
-/* line 1489, css/sass/partials/wrapper.scss */
+/* line 1484, css/sass/partials/wrapper.scss */
 .page .header {
   padding: 0 0 .6rem; }
 
-/* line 1496, css/sass/partials/wrapper.scss */
+/* line 1491, css/sass/partials/wrapper.scss */
 .single .header {
   padding: 0 0 .6rem; }
 
-/* line 1502, css/sass/partials/wrapper.scss */
+/* line 1497, css/sass/partials/wrapper.scss */
 .content .wp-block-image {
   padding: 2.4rem 0; }
 
-/* line 1510, css/sass/partials/wrapper.scss */
+/* line 1505, css/sass/partials/wrapper.scss */
 .page-headline p, .page-headline .info, .page-headline span {
   font-size: 1.8rem !important; }
 
-/* line 1519, css/sass/partials/wrapper.scss */
+/* line 1514, css/sass/partials/wrapper.scss */
 .page-template-default .big-text {
   padding: 5.4rem 0; }
-/* line 1523, css/sass/partials/wrapper.scss */
+/* line 1518, css/sass/partials/wrapper.scss */
 .page-template-default .featured-wrapper {
   padding: 5.4rem 0 5.8rem; }
-/* line 1528, css/sass/partials/wrapper.scss */
+/* line 1523, css/sass/partials/wrapper.scss */
 .page-template-default .footer-top {
   padding: 2.6 0 7rem; }
-  /* line 1531, css/sass/partials/wrapper.scss */
+  /* line 1526, css/sass/partials/wrapper.scss */
   .page-template-default .footer-top .btn-wrap {
     padding-top: 4rem; }
 
