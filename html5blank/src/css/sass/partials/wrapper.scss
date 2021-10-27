@@ -1303,8 +1303,14 @@ iframe.wait-autoplay {
 }
 
 
-.core-message {
-padding: 5.8rem 0 2rem !important;
+    
+    .core-message {
+padding: 5.8rem 0 0 !important;
+h2 {
+margin-bottom: 0; 
+}
+
+    
     
     p {
 
@@ -1362,11 +1368,15 @@ padding: 5.8rem 0 2rem !important;
 // bg 
 
 .bg-solar {
-    padding: 7rem 0 7.4rem;
+    padding: 8.5rem 0 7.4rem;
 }
 
 .big-text {
     padding: 6rem 0;
+    
+    .btn-wrapper {
+padding-top:5.2rem
+}
 }
 
 .middle-line {
