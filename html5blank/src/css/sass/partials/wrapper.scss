@@ -118,7 +118,7 @@ $padding: 1.2rem;
 
 
 .btn-wrap {
-    padding: 4.8rem 0 1.6rem !important;
+    padding: 4.8rem 0 1.6rem;
     display: block; 
     span {
         font-size: 1.8rem !important; 
@@ -1498,4 +1498,26 @@ padding: 5.8rem 0 2rem !important;
     p, .info, span {
         font-size: 1.8rem !important; 
     }
+}
+
+
+
+.page-template-default {
+    
+.big-text {
+padding: 5.4rem 0; 
+}
+
+.featured-wrapper {
+padding: 5.4rem 0 5.8rem;
+
+}
+
+.footer-top {
+padding: 2.6 0 7rem;
+
+    .btn-wrap  {
+    padding-top: 4rem; 
+    }
+}
 }
