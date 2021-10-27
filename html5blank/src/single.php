@@ -20,8 +20,8 @@
     </div></section> </div>
 <div class="wrapper-full featured-wrapper middle-line"><section class="row"><div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-xs-offset-1 col-lg-offset-2 col-md-offset-2 ">
 
-    			<?php if ( has_post_thumbnail('radius-both responsive-img') ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail(); // Fullsize image for the single post. ?>
+    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
+					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
 			<?php endif; ?>
 
     </div></section></div>
