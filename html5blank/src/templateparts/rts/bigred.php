@@ -9,7 +9,7 @@
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5@0.75x-80.jpg" media="(min-width: 1000px)">
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5-50.jpg" media="(min-width: 800px)">
   
-<img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-4@1.5x-50.jpg" alt="Featured video" />
+<img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5@1.5x-50.jpg" alt="Featured video" />
 
         
         
