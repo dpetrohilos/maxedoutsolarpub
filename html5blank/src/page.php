@@ -5,8 +5,8 @@
     <h1 class="text-center"><?php the_title(); ?></h1></div></section> </div>
 <div class="wrapper-flull featured-wrapper"><section class="row"><div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-2 text-center middle-line">
 
-    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
+    			<?php if ( has_post_thumbnail('radius-both responsive-img') ) : // Check if Thumbnail exists. ?>
+					<?php the_post_thumbnail(); // Fullsize image for the single post. ?>
 			<?php endif; ?>
 
     </div></section></div>
