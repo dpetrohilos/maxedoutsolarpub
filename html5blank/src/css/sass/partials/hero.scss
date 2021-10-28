@@ -125,14 +125,34 @@ $tomato: #e5593f;
     
 @media screen and (max-width: $sm-max) {
 font-size: 6rem;
-line-height: 4.8rem; 
+line-height: 4.8rem;
+        font-size: 12rem;
+    color: #6884c7;
+    padding-bottom: 8rem;
+    line-height: 10.6rem;
+    width: 100%;
+    text-indent: -4vh;
+    transform: translate(4vh, 0px);
+    text-transform: none !important;
+    padding: 0;
+
 
 }
 
     
 @media screen and (max-width: $xs-max) {
 font-size: 4.8rem; 
-line-height: 3.6rem; 
+line-height: 3.6rem;
+        font-size: 12rem;
+    color: #6884c7;
+    padding-bottom: 8rem;
+    line-height: 10.6rem;
+    width: 100%;
+    text-indent: -4vh;
+    transform: translate(4vh, 0px);
+    text-transform: none !important;
+    padding: 0;
+
     
   }    
         
