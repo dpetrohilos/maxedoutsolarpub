@@ -83,8 +83,8 @@
         color: #6884c7;
         padding-bottom: 8rem;
         width: 100%;
-        text-indent: -2vh;
-        -webkit-transform: translate(2vh, 0px);
-                transform: translate(2vh, 0px);
+        text-indent: 0;
+        -webkit-transform: none;
+                transform: none;
         text-transform: none !important;
         padding: 0; } }
