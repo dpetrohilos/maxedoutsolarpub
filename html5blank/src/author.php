@@ -1,6 +1,6 @@
 <?php get_header('without'); ?>
 
-	<main role="main" aria-label="Content" class="wrapper">
+	<div class="core-message writing">
 		<!-- section -->
 		<section class="section">
 
@@ -17,41 +17,68 @@
 			<?php echo wpautop( get_the_author_meta( 'description' ) ); ?>
 
 		<?php endif; ?>
+            
 
 		<?php rewind_posts(); while ( have_posts() ) : the_post(); ?>
+        </section></div>
+<main role="main" aria-label="Content"  class="writing wrapper"><section class="row">
+			
+    
+    
+    <!-- article -->
+			<article id="post-<?php the_ID(); ?>" <?php post_class('radius col-lg-4 col-md-4 col-sm-12 col-xs-12'); ?>>
 
-			<!-- article -->
-			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+		<div class="card">
+<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+		<!-- post thumbnail -->
+		<?php if ( has_post_thumbnail() ) : // Check if thumbnail exists. ?>
+				<?php the_post_thumbnail( array( 600, 400 ) ); // Declare pixel size you need inside the array. ?>
+		<?php endif; ?>
+		<!-- /post thumbnail --></a>
 
-				<!-- post thumbnail -->
-				<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>">
-						<?php the_post_thumbnail( array( 120, 120 ) ); // Declare pixel size you need inside the array. ?>
-					</a>
-				<?php endif; ?>
-				<!-- /post thumbnail -->
+		<!-- post title -->
+		<header class="blog-header">
+            <a title="<?php the_title(); ?>" href="<?php the_permalink(); ?>">
+            <h2><?php the_title(); ?>
+            </h2></a>
+       	<!--  <p><?php edit_post_link(); ?></p> -->
 
-				<!-- post title -->
-				<h2>
-					<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a>
-				</h2>
-				<!-- /Post title -->
+        </header>
+		<!-- /post title -->
 
-				<!-- post details -->
-				<span class="date">
-					<time datetime="<?php the_time( 'Y-m-d' ); ?> <?php the_time( 'H:i' ); ?>">
-						<?php the_date(); ?> <?php the_time(); ?>
-					</time>
-				</span>
-				<span class="author"><?php esc_html_e( 'Published by', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>
-				<span class="comments"><?php comments_popup_link( __( 'Leave your thoughts', 'html5blank' ), __( '1 Comment', 'html5blank' ), __( '% Comments', 'html5blank' ) ); ?></span>
-				<!-- /post details -->
+        
+    
+    <section class="row blog-body">
+            
+            
+<div class="col-lg-8 col-sm-12 p0">
+         <p class="info">  
+                
+             <?php esc_html_e( 'Filed Under: ', 'html5blank' ); the_category( ', ' ); // Separated by commas. ?>   
+                </p> </div>
+            
+            <div class="col-lg-4 col-sm-12 p0">
+         <p class="info text-right"><span class="date">
+			<time datetime="<?php the_time( 'y-M' ); ?>">
+                <em><?php the_date('M y'); ?> </em>
+			</time>
+		</span> </p> </div>
+    
+        </section>
+            
 
-				<?php html5wp_excerpt( 'html5wp_index' ); // Build your custom callback length in functions.php. ?>
 
-				<br class="clear">
+        
+        <footer class="blog-footer"> <div></div>
+        <p class="info">
+		<span class="author">
+        <?php echo get_avatar( get_the_author_meta( 'ID' ), 32 ); ?>
 
-				<?php edit_post_link(); ?>
+            <?php esc_html_e( 'By', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>
+            </p>
+        </footer>
+
+        </div>
 
 			</article>
 			<!-- /article -->
@@ -70,12 +97,10 @@
 
 		<?php endif; ?>
 
-			<?php get_template_part( 'pagination' ); ?>
 
 		</section>
 		<!-- /section -->
 	</main>
 
-<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>

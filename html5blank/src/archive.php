@@ -1,15 +1,9 @@
 <?php get_header('without'); ?>
 
-	<main role="main" aria-label="Content" class="wrapper">
-		<!-- section -->
-		<section class="section">
-
+<main class="wrapper writing" role="main" aria-label="Content" id="writing">
+		<section class="row content">
 			<?php get_template_part( 'loop' ); ?>
-
-
 		</section>
-		<!-- /section -->
-	</main>
-
+        </main>
 
 <?php get_footer(); ?>
