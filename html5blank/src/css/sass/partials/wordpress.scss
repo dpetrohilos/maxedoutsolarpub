@@ -5,6 +5,36 @@
  */
 
 
+
+$font-family-base: "Nexa", Nexa, Arial, "Open Sans", sans-serif; //
+$tomato: lotomato; 
+$font-size-base: 10px;
+$line-height-base: 2.44rem;
+
+
+/**
+ * Colors
+ */
+
+$text-color: #444;
+$body-bg: #f7f6f1;
+$selection-bg: #e5593f;
+
+
+/**
+ * Grid
+ */
+
+$wrapper-width: 1280px;
+
+
+$padding-horizontal-base: 1.2rem;
+$padding-vertical-base: 1.2rem;
+$margin-horizontal-base: 1.2rem;
+$margin-vertical-base: 1.2rem;
+$margin-horizontal-large: 1.2rem;
+$margin-vertical-large: 1.2rem;
+
 .sticky {}
 
 .bypostauthor {}
@@ -48,11 +78,10 @@
     width: auto;
     max-width: 98.5%;
     height: auto;
-    border: 0 none;
-
-    @include reset-box;
-  }
+    border: 0 none;    
+    }
 }
+
 
 .wp-caption .wp-caption-text,
 .gallery-caption {
