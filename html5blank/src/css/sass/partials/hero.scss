@@ -78,15 +78,14 @@ $tomato: #e5593f;
     padding: 44vh 0 0 0;
     
     .hero-container {
+        span {color: #fb6d86 !important; text-align: right; }
 
     }
     
     h1 {
-    text-indent: -3.3em;
-    transform: translate(125px, 0px);
         color: #6884c7;
         padding-bottom: 8rem; 
-        span {color: #fb6d86 !important; text-align: right; }
+        
 @media screen and (min-width: $lg-max) {
 font-size: 14.8rem; 
 }
