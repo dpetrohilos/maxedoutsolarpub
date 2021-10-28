@@ -82,9 +82,13 @@ $tomato: #e5593f;
     }
     
     h1 {
-    
-    
-       
+    ext-indent: -3.3em;
+    transform: translate(125px, 0px);
+        color: #6884c7;
+        padding-botto: 4rem; 
+        span {
+            color: #fb6d86; 
+       }
 @media screen and (min-width: $lg-max) {
 font-size: 14.8rem; 
 }
