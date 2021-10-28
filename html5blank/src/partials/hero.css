@@ -69,9 +69,9 @@
         color: #6884c7;
         padding-bottom: 8rem;
         width: 100%;
-        text-indent: -4vh;
-        -webkit-transform: translate(4vh, 0px);
-                transform: translate(4vh, 0px);
+        text-indent: -12vh;
+        -webkit-transform: translate(12vh, 0px);
+                transform: translate(12vh, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 40rem) {
