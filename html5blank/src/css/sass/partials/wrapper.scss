@@ -168,10 +168,10 @@ $padding: 1.2rem;
 
 .btn {
     width: auto;
-    height: auto; 
+    height: auto;
     border-radius: 5rem;
-    border: 1px solid $tomato; 
-    padding:  2.3rem 3.6rem 1.8rem;
+    border: 1px solid #e5593f;
+    padding: 2.2rem 3.6rem 1.6rem;
     color: $tomato;
     background: transparent;
     font-weight: bold;
@@ -247,18 +247,18 @@ display: initial;
 
 .btn-alpha {
     width: auto;
-    height: auto; 
+    height: auto;
     border-radius: 5rem;
-    border: 1px solid $tomato; 
-    padding:  2.3rem 3.6rem 1.8rem;
+    border: 1px solid #e5593f;
+    padding: 2.2rem 3.6rem 1.6rem;
     color: white;
     background: $tomato;
     font-weight: bold;
     font-size: 1.8rem;
     text-align: center;
-    margin-bottom: 2.4rem; 
-    text-decoration: none !important; 
-    text-transform: capitalize; 
+    margin-bottom: 2.4rem;
+    text-decoration: none !important;
+    text-transform: capitalize;
     
     &:hover {
             border: 1px solid $tomato; 
