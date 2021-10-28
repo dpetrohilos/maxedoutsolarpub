@@ -30,7 +30,8 @@
         width: 100%;
         text-indent: -25vh;
         -webkit-transform: translate(125px, 0px);
-        transform: translate(25vh, 0px); } }
+        transform: translate(25vh, 0px);
+        text-transform: none !important; } }
     @media screen and (max-width: 120rem) {
       /* line 83, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
