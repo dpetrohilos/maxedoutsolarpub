@@ -12,7 +12,7 @@
 .hero-part {
   background: url("img/bg3.svg") bottom right no-repeat, url("img/bg7.svg") top left no-repeat;
   height: 100vh;
-  padding: 25vh 0; }
+  padding: 44vh 0 0; }
   @media screen and (min-width: 120rem) {
     /* line 84, ../css/sass/partials/hero.scss */
     .hero-part h1 {
