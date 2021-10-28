@@ -243,6 +243,85 @@ display: initial;
 
 
 }
+
+
+.btn-alpha {
+    width: auto;
+    height: auto; 
+    border-radius: 5rem;
+    border: 1px solid $tomato; 
+    padding:  2.3rem 3.6rem 1.8rem;
+    color: white;
+    background: $tomato;
+    font-weight: bold;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: 2.4rem; 
+    text-decoration: none !important; 
+    text-transform: capitalize; 
+    
+    &:hover {
+            border: 1px solid $tomato; 
+            background: white; 
+            color: $tomato;
+            text-decoration: none !important; 
+
+    }
+    
+    
+    img { 
+        height: 6rem !important;
+        padding: 0 !important}
+    
+    svg {
+        padding: 0;
+        height: 6rem; 
+        width: auto;
+        
+        }
+    
+@media screen and (min-width: $lg-max) {
+
+display: initial; 
+
+    }
+    
+@media screen and (max-width: $lg-max) {
+               
+display: initial; 
+
+
+  }
+  
+
+@media screen and (max-width: $md-max) {
+
+display: initial; 
+
+}
+
+    
+@media screen and (max-width: $sm-max) {
+
+      display: block; 
+
+
+
+        }
+
+    
+  @media screen and (max-width: $xs-max) {
+      
+      display: block; 
+      
+  }
+
+
+
+
+
+
+}
     
 // blog card 
 
