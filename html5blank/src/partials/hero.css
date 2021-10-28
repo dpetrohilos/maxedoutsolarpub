@@ -14,7 +14,7 @@
   height: 100vh;
   padding: 44vh 0 0 0; }
   /* line 81, ../css/sass/partials/hero.scss */
-  .hero-part .hero-container span {
+  .hero-part .hero-container .hero-second {
     color: #fb6d86 !important;
     text-align: right; }
   /* line 85, ../css/sass/partials/hero.scss */
