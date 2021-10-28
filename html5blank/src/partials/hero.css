@@ -52,9 +52,9 @@
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
         font-size: 12rem;
+        line-height: 10.6rem;
         color: #6884c7;
         padding-bottom: 8rem;
-        line-height: 10.6rem;
         width: 100%;
         text-indent: -26vh;
         -webkit-transform: translate(26vh, 0px);
@@ -66,7 +66,6 @@
       .hero-part .hero-container h1 {
         font-size: 7.2rem;
         line-height: 6rem;
-        font-size: 12rem;
         color: #6884c7;
         padding-bottom: 8rem;
         width: 100%;
