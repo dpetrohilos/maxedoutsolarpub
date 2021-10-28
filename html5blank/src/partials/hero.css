@@ -31,24 +31,46 @@
         line-height: 11.8rem;
         max-width: 50vw;
         width: 100%;
-        text-indent: -25vh;
-        -webkit-transform: translate(125px, 0px);
-        transform: translate(25vh, 0px);
+        text-indent: -26vh;
+        -webkit-transform: translate(26vh, 0px);
+                transform: translate(26vh, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 120rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 10.8rem; } }
+        font-size: 14.8rem;
+        color: #6884c7;
+        padding-bottom: 8rem;
+        line-height: 11.8rem;
+        max-width: 50vw;
+        width: 100%;
+        text-indent: -26vh;
+        -webkit-transform: translate(26vh, 0px);
+                transform: translate(26vh, 0px);
+        text-transform: none !important;
+        padding: 0; } }
     @media screen and (max-width: 90rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 8.4rem; } }
+        font-size: 12rem;
+        color: #6884c7;
+        padding-bottom: 8rem;
+        line-height: 10.6rem;
+        max-width: 50vw;
+        width: 100%;
+        text-indent: -26vh;
+        -webkit-transform: translate(26vh, 0px);
+                transform: translate(26vh, 0px);
+        text-transform: none !important;
+        padding: 0; } }
     @media screen and (max-width: 64rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 6rem; } }
+        font-size: 6rem;
+        line-height: 4.8rem; } }
     @media screen and (max-width: 40rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 4.8rem; } }
+        font-size: 4.8rem;
+        line-height: 3.6rem; } }

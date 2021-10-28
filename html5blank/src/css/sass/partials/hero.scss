@@ -89,9 +89,8 @@ $tomato: #e5593f;
     line-height: 11.8rem;
     max-width: 50vw;
     width: 100%;
-    text-indent: -25vh;
-    -webkit-transform: translate(125px, 0px);
-    transform: translate(25vh, 0px);
+    text-indent: -26vh;
+    transform: translate(26vh, 0px);
     text-transform: none !important;
     padding: 0;
         
@@ -100,26 +99,43 @@ $tomato: #e5593f;
     
 @media screen and (max-width: $lg-max) {
                
-font-size: 10.8rem; 
-
+ font-size: 14.8rem;
+    color: #6884c7;
+    padding-bottom: 8rem;
+    line-height: 11.8rem;
+    max-width: 50vw;
+    width: 100%;
+    text-indent: -26vh;
+    transform: translate(26vh, 0px);
+    text-transform: none !important;
+    padding: 0;
 }
   
 
 @media screen and (max-width: $md-max) {
-font-size: 8.4rem; 
-
+    font-size: 12rem;
+    color: #6884c7;
+    padding-bottom: 8rem;
+    line-height: 10.6rem;
+    max-width: 50vw;
+    width: 100%;
+    text-indent: -26vh;
+    transform: translate(26vh, 0px);
+    text-transform: none !important;
+    padding: 0;
 }
 
     
 @media screen and (max-width: $sm-max) {
-font-size: 6rem; 
+font-size: 6rem;
+line-height: 4.8rem; 
 
 }
 
     
 @media screen and (max-width: $xs-max) {
 font-size: 4.8rem; 
-
+line-height: 3.6rem; 
     
   }    
         
