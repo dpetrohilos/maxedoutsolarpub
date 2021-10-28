@@ -5,16 +5,9 @@ Author: Dylan Petrohilos
 Author URI: repeater.design
 Description: Redesign Maxed Out Solar 2022  
 */
-/**
- * styles.scss
- * ---
- * Main `sass` file. Import here `sass` files
- */
-// Modules
 @import "modules/variables";
 @import "modules/mixins";
 @import "modules/fonts";
-// Partials
 @import "partials/reset";
 @import "partials/wordpress";
 @import "partials/utils";
@@ -24,5 +17,4 @@ Description: Redesign Maxed Out Solar 2022
 @import "partials/sidebar";
 @import "partials/footer";
 @import "partials/print";
-// grid
-    @import "grid/main.scss";
+@import "grid/main.scss";
