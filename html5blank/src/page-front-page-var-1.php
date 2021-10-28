@@ -6,7 +6,9 @@
     <div class="hero-container col-lg-12 col-md-12 col-sm-12 col-xs-12 around">
         <h1>Your clean <br/><span class="hero-second"> energy future.</span></h1>
         
-        <p class="text-center">Starts today with zero money upfront. Solar adds about $15,000 in equity to your home’s value, and average rooftop solar customers save $26,000 on electricity costs over 20 years.</p>   
+    </div>    
+    <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-2">    
+        <p>Starts today with zero money upfront. Solar adds about $15,000 in equity to your home’s value, and average rooftop solar customers save $26,000 on electricity costs over 20 years.</p>   
         <p class="btn-wrap text-center">
     
     <!-- Calendly link widget begin -->
