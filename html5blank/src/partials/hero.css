@@ -12,14 +12,14 @@
 .hero-part {
   background: url("img/bg3.svg") bottom right no-repeat, url("img/bg7.svg") top left no-repeat;
   height: 100vh;
-  padding: 44vh 0 0; }
+  padding: 44vh 0 0 0; }
   /* line 84, ../css/sass/partials/hero.scss */
   .hero-part h1 {
     ext-indent: -3.3em;
     -webkit-transform: translate(125px, 0px);
             transform: translate(125px, 0px);
     color: #6884c7;
-    padding-botto: 4rem; }
+    padding-bottom: 8rem; }
     /* line 89, ../css/sass/partials/hero.scss */
     .hero-part h1 span {
       color: #fb6d86 !important; }

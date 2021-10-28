@@ -75,7 +75,7 @@ $tomato: #e5593f;
     url('img/bg3.svg') bottom right no-repeat, 
     url('img/bg7.svg') top left no-repeat;
     height: 100vh;
-    padding: 44vh 0 0;
+    padding: 44vh 0 0 0;
     
     .hero-container {
 
@@ -85,7 +85,7 @@ $tomato: #e5593f;
     ext-indent: -3.3em;
     transform: translate(125px, 0px);
         color: #6884c7;
-        padding-botto: 4rem; 
+        padding-bottom: 8rem; 
         span {
             color: #fb6d86 !important; 
        }
