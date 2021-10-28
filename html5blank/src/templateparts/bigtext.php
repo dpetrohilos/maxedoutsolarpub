@@ -4,11 +4,7 @@
         <h2 class="text-center">
         Lower Energy Bills, Build Community Wealth, And Invest In A Green Future.
         </h2>
-       
 <p class="btn-wrap text-center">
-    
-    <!-- Calendly link widget begin -->
-
 <a title="Lets Chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Chat</a>
 <!-- Calendly link widget end -->
     
