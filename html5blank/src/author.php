@@ -1,6 +1,6 @@
 <?php get_header('without'); ?>
 
-	<div class="core-message writing">
+	<div class="core-message wrapper">
 		<!-- section -->
 		<section class="section">
 
@@ -17,11 +17,11 @@
 			<?php echo wpautop( get_the_author_meta( 'description' ) ); ?>
 
 		<?php endif; ?>
-            
+                    </section></div>
+
+<main role="main" aria-label="Content"  class="writing wrapper"><section class="row">
 
 		<?php rewind_posts(); while ( have_posts() ) : the_post(); ?>
-        </section></div>
-<main role="main" aria-label="Content"  class="writing wrapper"><section class="row">
 			
     
     
