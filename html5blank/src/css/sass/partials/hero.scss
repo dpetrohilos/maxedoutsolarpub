@@ -86,9 +86,7 @@ $tomato: #e5593f;
     transform: translate(125px, 0px);
         color: #6884c7;
         padding-bottom: 8rem; 
-        span {
-            color: #fb6d86 !important; 
-       }
+        span {color: #fb6d86 !important; text-align: right; }
 @media screen and (min-width: $lg-max) {
 font-size: 14.8rem; 
 }
