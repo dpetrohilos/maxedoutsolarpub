@@ -20,7 +20,8 @@
   /* line 85, ../css/sass/partials/hero.scss */
   .hero-part h1 {
     color: #6884c7;
-    padding-bottom: 8rem; }
+    padding-bottom: 8rem;
+    line-height: 12rem; }
     @media screen and (min-width: 120rem) {
       /* line 85, ../css/sass/partials/hero.scss */
       .hero-part h1 {
