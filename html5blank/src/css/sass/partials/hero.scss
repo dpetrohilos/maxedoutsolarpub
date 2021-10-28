@@ -76,10 +76,9 @@ $tomato: #e5593f;
     url('img/bg7.svg') top left no-repeat;
     height: 100vh;
     padding: 25vh 0;
-    
-    .hero-container {
-    .hero-second { color: #fb6d86 !important; }
     .top-text {margin-top: 3.6rem;}       
+
+    .hero-container {.hero-second { color: #fb6d86 !important; }
     h1 {
     color: #6884c7;
 
