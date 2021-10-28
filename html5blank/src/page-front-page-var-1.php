@@ -1,7 +1,7 @@
 <?php /* Template Name: Front Page Option 2 */ get_header(); ?>
 <div class="wrapper-full hero-part">
 
-    <section class="row flex-column"><div class="hero-container col-12 text-center around">
+    <section class="row"><div class="hero-container col-12 text-center around center">
         <h1>Your clean energy future.</h1>
         
         <p class="text-center">Starts today with zero money upfront.</p>   
