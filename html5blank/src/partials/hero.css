@@ -22,7 +22,7 @@
     padding-botto: 4rem; }
     /* line 89, ../css/sass/partials/hero.scss */
     .hero-part h1 span {
-      color: #fb6d86; }
+      color: #fb6d86 !important; }
     @media screen and (min-width: 120rem) {
       /* line 84, ../css/sass/partials/hero.scss */
       .hero-part h1 {

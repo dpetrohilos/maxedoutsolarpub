@@ -87,7 +87,7 @@ $tomato: #e5593f;
         color: #6884c7;
         padding-botto: 4rem; 
         span {
-            color: #fb6d86; 
+            color: #fb6d86 !important; 
        }
 @media screen and (min-width: $lg-max) {
 font-size: 14.8rem; 
