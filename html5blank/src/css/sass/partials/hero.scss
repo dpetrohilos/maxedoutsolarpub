@@ -80,20 +80,23 @@ $tomato: #e5593f;
     .hero-container {
     .hero-second { color: #fb6d86 !important; }
     
-    h1 {
-        color: #6884c7;
+    p { padding-top: 3.6rem;}    
         
-@media screen and (min-width: $lg-max) {
+    h1 {
+    color: #6884c7;
+
+    @media screen and (min-width: $lg-max) {
     font-size: 14.8rem;
     color: #6884c7;
     padding-bottom: 8rem;
-    line-height: 12rem;
+    line-height: 11.8rem;
     max-width: 50vw;
     width: 100%;
     text-indent: -25vh;
     -webkit-transform: translate(125px, 0px);
     transform: translate(25vh, 0px);
-    text-transform: none !important
+    text-transform: none !important;
+    padding: 0;
         
         }    
 
