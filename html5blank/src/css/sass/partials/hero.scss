@@ -78,9 +78,10 @@ $tomato: #e5593f;
     min-height: 80rem;
     
     .hero-container {
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    
     }
     
     h1 {
