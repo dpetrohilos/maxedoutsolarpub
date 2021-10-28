@@ -84,7 +84,7 @@
         padding-bottom: 8rem;
         width: 100%;
         text-indent: 0;
-        -webkit-transform: none;
-                transform: none;
+        -webkit-transform: translate(0px, 0px);
+                transform: translate(0px, 0px);
         text-transform: none !important;
         padding: 0; } }
