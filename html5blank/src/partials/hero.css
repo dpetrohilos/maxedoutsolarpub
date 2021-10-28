@@ -64,12 +64,11 @@
     @media screen and (max-width: 64rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 6rem;
-        line-height: 4.8rem;
+        font-size: 7.2rem;
+        line-height: 6rem;
         font-size: 12rem;
         color: #6884c7;
         padding-bottom: 8rem;
-        line-height: 10.6rem;
         width: 100%;
         text-indent: -4vh;
         -webkit-transform: translate(4vh, 0px);
@@ -79,12 +78,10 @@
     @media screen and (max-width: 40rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 4.8rem;
-        line-height: 3.6rem;
-        font-size: 12rem;
+        font-size: 7.2rem;
+        line-height: 6rem;
         color: #6884c7;
         padding-bottom: 8rem;
-        line-height: 10.6rem;
         width: 100%;
         text-indent: -4vh;
         -webkit-transform: translate(4vh, 0px);
