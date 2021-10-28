@@ -72,8 +72,8 @@ $tomato: #e5593f;
 
 .hero-part {
     background: 
-    url('/img/bg3.svg') bottom right, 
-    url('/img/bg7.svg') top left;
+    url('img/bg3.svg') bottom right no-repeat, 
+    url('img/bg7.svg') top left no-repeat;
     padding: 0;
     
     .hero-container {

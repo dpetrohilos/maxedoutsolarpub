@@ -10,7 +10,7 @@
  */
 /* line 73, ../css/sass/partials/hero.scss */
 .hero-part {
-  background: url("/img/bg3.svg") bottom right, url("/img/bg7.svg") top left;
+  background: url("img/bg3.svg") bottom right no-repeat, url("img/bg7.svg") top left no-repeat;
   padding: 0; }
   /* line 79, ../css/sass/partials/hero.scss */
   .hero-part .hero-container {
