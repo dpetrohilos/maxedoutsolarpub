@@ -18,18 +18,19 @@
     color: #fb6d86 !important; }
   /* line 83, ../css/sass/partials/hero.scss */
   .hero-part .hero-container h1 {
-    color: #6884c7;
-    padding-bottom: 8rem;
-    line-height: 12rem;
-    max-width: 60rem;
-    width: 100%;
-    text-indent: -3.3em;
-    -webkit-transform: translate(125px, 0px);
-            transform: translate(125px, 0px); }
+    color: #6884c7; }
     @media screen and (min-width: 120rem) {
       /* line 83, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
-        font-size: 14.8rem; } }
+        font-size: 14.8rem;
+        color: #6884c7;
+        padding-bottom: 8rem;
+        line-height: 12rem;
+        max-width: 105rem;
+        width: 100%;
+        text-indent: -3.3em;
+        -webkit-transform: translate(125px, 0px);
+        transform: translate(125px, 0px); } }
     @media screen and (max-width: 120rem) {
       /* line 83, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
