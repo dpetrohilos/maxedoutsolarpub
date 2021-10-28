@@ -1,7 +1,7 @@
 <?php /* Template Name: Front Page Option 2 */ get_header(); ?>
 <div class="wrapper-full hero-part">
 
-    <section class="row hero-container type-element en-lie-copy">
+    <section class="row"><div class="hero-container type-element en-lie-copy col-12">
         <h1>Your clean energy future.</h1>
         
         <p class="text-center">Starts today with zero money upfront.</p>   
@@ -13,7 +13,7 @@
             <!-- Calendly link widget end --> <span>No money up front</span>
     
         </p> 
-
+        </div>
     </section>
 </div>
 <?php get_footer(); ?>
