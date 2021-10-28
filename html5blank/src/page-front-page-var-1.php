@@ -2,7 +2,7 @@
 <div class="wrapper-full hero-part">
 
     <section class="row"><div class="hero-container col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center around center">
-        <h1>Your clean <span>energy future.</span></h1>
+        <h1>Your clean <br><span>energy future.</span></h1>
         
         <p class="text-center">Starts today with zero money upfront.</p>   
         <p class="btn-wrap text-center">
