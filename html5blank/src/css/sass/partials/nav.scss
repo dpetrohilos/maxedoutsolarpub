@@ -177,6 +177,9 @@ $xl-start: ($lg-max + 1); // Generate xl breakpoint's min width
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
               background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
               opacity 0.55s ease;
+    span {
+        color: $tomato; 
+    }
 }
 
 #menuToggle span:first-child
