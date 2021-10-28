@@ -50,58 +50,14 @@ $lg-start: ($md-max + 1); // Generate lg breakpoint's min width
 $xl-start: ($lg-max + 1); // Generate xl breakpoint's min width
 
 .hamburger{
-    
-    
-    @media screen and (min-width: $lg-max) {
-    width: 13.2rem; 
+        width: 100vw; 
     height: 8.4rem; 
     position: fixed; 
     display: block; 
-    background-color: #fff;
-
-}
-    
-@media screen and (max-width: $lg-max) {
-               
-    width: 13.2rem; 
-    height: 8.4rem; 
-    position: fixed; 
-    display: block; 
-    background-color: #fff;
-
-}
-  
-
-@media screen and (max-width: $md-max) {
-    width: 13.2rem; 
-    height: 8.4rem; 
-    position: fixed; 
-    display: block; 
-    background-color: #fff;
-
-}
+    background-color: $body-bg;
 
     
-@media screen and (max-width: $sm-max) {
-    width: 13.2rem; 
-    height: 8.4rem; 
-    position: fixed; 
-    display: block; 
-    background-color: #fff;
-
-}
-
     
-@media screen and (max-width: $xs-max) {
-
-    width: 13.2rem; 
-    height: 8.4rem; 
-    position: fixed; 
-    display: block; 
-    background-color: #fff;
-
-    
-  }
     
 
 #menuToggle

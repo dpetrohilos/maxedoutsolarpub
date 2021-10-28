@@ -1,0 +1,49 @@
+/**
+ * partials/wrapper
+ * ---
+ */
+/**
+ * Colors
+ */
+/**
+ * Grid
+ */
+/* line 73, ../css/sass/partials/hero.scss */
+.hero-part {
+  background: url("/img/bg3.svg") bottom right, url("/ing/bg7.svg") top left;
+  padding: 0; }
+  /* line 77, ../css/sass/partials/hero.scss */
+  .hero-part .hero-container {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    min-height: 839px;
+    max-width: 80rem;
+    min-width: 10rem;
+    maring: 2.4rem auto;
+    padding: 2.4rem 1.2rem; }
+  /* line 88, ../css/sass/partials/hero.scss */
+  .hero-part h1 {
+    text-indent: -3.3rem;
+    -webkit-transform: translate(125px, 0px);
+            transform: translate(125px, 0px); }
+    @media screen and (min-width: 120rem) {
+      /* line 88, ../css/sass/partials/hero.scss */
+      .hero-part h1 {
+        font-size: 14.8rem; } }
+    @media screen and (max-width: 120rem) {
+      /* line 88, ../css/sass/partials/hero.scss */
+      .hero-part h1 {
+        font-size: 10.8rem; } }
+    @media screen and (max-width: 90rem) {
+      /* line 88, ../css/sass/partials/hero.scss */
+      .hero-part h1 {
+        font-size: 8.4rem; } }
+    @media screen and (max-width: 64rem) {
+      /* line 88, ../css/sass/partials/hero.scss */
+      .hero-part h1 {
+        font-size: 6rem; } }
+    @media screen and (max-width: 40rem) {
+      /* line 88, ../css/sass/partials/hero.scss */
+      .hero-part h1 {
+        font-size: 4.8rem; } }

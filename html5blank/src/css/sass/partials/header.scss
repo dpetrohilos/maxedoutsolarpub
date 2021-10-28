@@ -37,13 +37,15 @@ background: transparent;
 // Logo
 .logo {
 padding: 0;
+position: relative; 
+top: 1.2rem; 
+position: fixed; 
+    
     
 }
 .logo-img {
 height: 6rem;
 width: auto; 
-position: relative; 
-top: 1.2rem; 
     
     
 }
