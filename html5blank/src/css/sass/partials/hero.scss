@@ -75,7 +75,7 @@ $tomato: #e5593f;
     url('img/bg3.svg') bottom right no-repeat, 
     url('img/bg7.svg') top left no-repeat;
     height: 100vh;
-    padding: 44vh 0 0 0;
+    padding: 25vh 0;
     
     .hero-container {
     .hero-second { color: #fb6d86 !important; }
@@ -84,16 +84,17 @@ $tomato: #e5593f;
         color: #6884c7;
         
 @media screen and (min-width: $lg-max) {
-    font-size: 14.8rem; 
+    font-size: 14.8rem;
     color: #6884c7;
     padding-bottom: 8rem;
     line-height: 12rem;
-    max-width: 105rem;
+    max-width: 50vw;
     width: 100%;
-    text-indent: -3.3em;
+    text-indent: -25vh;
     -webkit-transform: translate(125px, 0px);
-    transform: translate(125px, 0px);
-}    
+    transform: translate(25vh, 0px);
+        
+        }    
 
     
 @media screen and (max-width: $lg-max) {
