@@ -1,7 +1,7 @@
 <?php /* Template Name: Front Page Option 2 */ get_header(); ?>
 <div class="wrapper-full hero-part">
 
-    <section class="row"><div class="hero-container type-element en-lie-copy col-12 text-center">
+    <section class="row"><div class="hero-container col-12 text-center">
         <h1>Your clean energy future.</h1>
         
         <p class="text-center">Starts today with zero money upfront.</p>   

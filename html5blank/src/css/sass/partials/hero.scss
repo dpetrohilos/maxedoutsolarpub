@@ -71,24 +71,19 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 $tomato: #e5593f;
 
 .hero-part {
-    background: url('/img/bg3.svg') bottom right, url('/ing/bg7.svg') top left;
+    background: 
+    url('/img/bg3.svg') bottom right, 
+    url('/img/bg7.svg') top left;
     padding: 0;
     
     .hero-container {
     justify-content: center;
-    min-height: 839px;
-    max-width: 80rem;
-    min-width: 10rem; 
-    maring: 2.4rem auto; 
-    padding: 2.4rem 1.2rem; 
 
     
     }
     
     h1 {
     
-    text-indent: -3.3rem;
-    transform: translate(125px, 0px);
     
        
 @media screen and (min-width: $lg-max) {
