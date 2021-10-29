@@ -149,6 +149,24 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
     </section>
     
 </div>
+
+<div class="main-content">
+            <dt class="description-title">Dragon <span class="expand-collapse">&#10133;</span></dt>
+            <dd class="description">This is quite obviously the best of all the creatures. My one true love.
+            <p> Examples include Smaug (The Hobbit), Tintaglia (The Liveship Traders) and Spyro (Spyro video games).</p></dd>
+            <dt class="description-title">Mermaid<span class="expand-collapse">&#10133;</span></dt>
+            <dd class="description">Mermaids in stories are either super cute or super scary. They're popular in YA at the moment.
+            <p>Examples include Ariel (The Little Mermaid), Sh'eenaz (The Witcher).</p></dd>
+            <dt class="description-title">Siren<span class="expand-collapse">&#10133;</span></dt>
+            <dd class="description">Sirens are not the same as mermaids. They are totally badass and lure men to their deaths.
+            <p> Sirens don't usually get names.... sad face.</p></dd>
+            <dt class="description-title">Pegasus<span class="expand-collapse">&#10133;</span></dt>
+            <dd class="description">Better than a horse.
+            <p>I think these appear in Greek mythology?</p></dd>
+
+
+        </div>
+
 <script>
 
 if (document.readyState !== 'loading') {
