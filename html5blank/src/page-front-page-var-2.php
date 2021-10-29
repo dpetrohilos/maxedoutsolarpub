@@ -17,7 +17,7 @@
         </div>
     </section>
     </div></div>
-<div class="wrapper-full hero-part">
+<div class="wrapper-full divided">
 <div class="wrapper">    
 <section class="row content">
     
