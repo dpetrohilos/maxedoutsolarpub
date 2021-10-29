@@ -88,11 +88,8 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
 
     
 </section></div></div>    
-<div class="wrapper faq">
     
-<section class="row content">
-    
-<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 main-content">
+<div class="main-content">
 <dt class="description-title">How Much Does It Cost To Get Solar Panels Installed?
  <span class="expand-collapse">&#10133;</span></dt>
             <dd class="description">
@@ -124,11 +121,6 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
     
 
     
-</section>
-
-
-
-</div>
 <div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
