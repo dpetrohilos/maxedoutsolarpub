@@ -92,7 +92,7 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
     
 <section class="row content">
     
-<div class="col-xl-8 col-lg-8 col-md-10 col-sm-12 col-xs-12 col-xl-offset-2 col-lg-ofsset-2 col-md-offset-1">
+<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 main-content">
 <dt class="description-title">How Much Does It Cost To Get Solar Panels Installed?
  <span class="expand-collapse">&#10133;</span></dt>
             <dd class="description">
@@ -150,80 +150,5 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
     
 </div>
 
-<div class="main-content">
-            <dt class="description-title">Dragon <span class="expand-collapse">&#10133;</span></dt>
-            <dd class="description">This is quite obviously the best of all the creatures. My one true love.
-            <p> Examples include Smaug (The Hobbit), Tintaglia (The Liveship Traders) and Spyro (Spyro video games).</p></dd>
-            <dt class="description-title">Mermaid<span class="expand-collapse">&#10133;</span></dt>
-            <dd class="description">Mermaids in stories are either super cute or super scary. They're popular in YA at the moment.
-            <p>Examples include Ariel (The Little Mermaid), Sh'eenaz (The Witcher).</p></dd>
-            <dt class="description-title">Siren<span class="expand-collapse">&#10133;</span></dt>
-            <dd class="description">Sirens are not the same as mermaids. They are totally badass and lure men to their deaths.
-            <p> Sirens don't usually get names.... sad face.</p></dd>
-            <dt class="description-title">Pegasus<span class="expand-collapse">&#10133;</span></dt>
-            <dd class="description">Better than a horse.
-            <p>I think these appear in Greek mythology?</p></dd>
-
-
-        </div>
-
-<script>
-
-if (document.readyState !== 'loading') {
-    console.log("ready!");
-    ready();
-} else {
-    document.addEventListener('DOMContentLoaded', ready);
-}
-
-function ready() {
-    var accordion = document.getElementsByTagName("dt");
-
-    for (var i = 0; i<accordion.length; i++){
-        accordion[i].addEventListener('click', function(){
-            accordionClick(event);
-        
-        });
-    }
-}
-
-var accordionClick = (eventHappened) => {
-    console.log(eventHappened);
-    var targetClicked =event.target;
-    console.log(targetClicked);
-    var classClicked = targetClicked.classList;
-    console.log("target clicked: " + targetClicked);
-    console.log(classClicked[0]);
-    while ((classClicked[0] !="description-title")){
-        console.log("parent element: " + targetClicked.parentElement);
-        targetClicked = targetClicked.parentElement;
-        classClicked = targetClicked.classList;
-        console.log("target clicked while in loop:" + targetClicked);
-        console.log("class clicked while in loop: " + classClicked);
-    }
-    var description = targetClicked.nextElementSibling;
-    console.log(description);
-    var expander = targetClicked.children[0];
-    if (description.style.maxHeight){
-        description.style.maxHeight = null;
-        expander.innerHTML = "&#10133;"
-        
-    }
-    else {
-        var allDescriptions = document.getElementsByTagName("dd");
-        for (var i = 0; i < allDescriptions.length; i++){
-            console.log("current description: " + allDescriptions[i]);
-            if (allDescriptions[i].style.maxHeight){
-                console.log("there is a description already open");
-                allDescriptions[i].style.maxHeight = null;
-                allDescriptions[i].previousElementSibling.children[0].innerHTML = "&#10133;"
-            }
-        }
-        description.style.maxHeight = description.scrollHeight + "px";
-        expander.innerHTML = "&#10134;";
-        
-    }
-}
-</script>
 
 <?php get_footer('eco'); ?>
