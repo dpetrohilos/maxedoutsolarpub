@@ -70,6 +70,49 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 
 $tomato: #e5593f;
 
-.hero-part {
-    
+.divided {
+    padding: 6rem 0; 
+    border-top: $tomato solid 1px; 
+    border-bottom: $tomato solid 1px; 
+
 }
+
+
+
+$heading-color: rgb(125, 175, 190);
+$description-title-color: rgb(255, 255, 255);
+$default-text-color: rgb(53, 53, 63);
+$background-color-2: rgb(55, 154, 184);
+$background-color-3: rgb(125, 175, 190);
+
+
+    .description-title {
+        font-size: 26px;
+        background-color: $background-color-2;
+        line-height: 55px;
+        transition: 0.3s;
+        margin-top: 2px;
+        margin-bottom: 2px;
+        &:hover {
+            background-color: $background-color-3;
+            cursor: pointer;
+        }
+         
+    }
+    .expand-collapse{
+            float: right;
+            margin-right: 8px;
+        }
+    .description {
+        font-size: 18px;
+        max-height: 0;
+        overflow: hidden;
+        margin-left: 0px;
+        transition: max-height 0.2s ease-out;
+        p {
+            margin-top: 4px;
+        }
+}
+
+
+

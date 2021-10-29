@@ -1,7 +1,6 @@
 <?php /* Template Name: Front Page Option 3 */ get_header(); ?>
-<div class="wrapper-full hero-part">
-    
-    <div class="wrapper">
+<div class="wrapper-full hero-part">   
+<div class="wrapper">
     <section class="row">
     <div class="hero-container col-lg-12 col-md-12 col-sm-12 col-xs-12 around">
         <h1>Your clean <br/><span class="hero-second"> energy future.</span></h1>
@@ -18,9 +17,8 @@
         </div>
     </section>
     </div></div>
-
-<div class="wrapper divided">
-    
+<div class="wrapper-full hero-part">
+<div class="wrapper">    
 <section class="row content">
     
 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">    
@@ -34,9 +32,9 @@
 </div>    
 
     
-</section>
-    
-<div class="wrapper divided">
+    </section></div></div>  
+<div class="wrapper-full divided">
+<div class="wrapper">    
     
 <section class="row content">
     
@@ -52,9 +50,9 @@
 </div>    
 
     
-</section>
-    
-<div class="wrapper divided">
+    </section></div></div>
+<div class="wrapper-full divided">
+<div class="wrapper">    
     
 <section class="row content">
     
@@ -71,9 +69,9 @@
 
     
 </section>
-
-<div class="wrapper divided">
-    
+    </div></div>
+<div class="wrapper-full divided">
+<div class="wrapper">      
 <section class="row content">
     
 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">    
@@ -89,8 +87,7 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
 </div>    
 
     
-</section>
-    
+</section></div></div>    
 <div class="wrapper faq">
     
 <section class="row content">
@@ -131,15 +128,25 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
 
 
 
+</div>
+<div class="wrapper footer-top">
+    <section class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+            <h3>
+            Refer a friend and you will get $1,000 if they put solar on their rooftop 
+            </h3>
+            
+                       
+<p class="btn-wrap">
+    
+    <!-- Calendly link widget begin -->
 
-
-
-
-
-
-
-
-
-
-
+<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
+<!-- Calendly link widget end -->
+    
+        </p> 
+        </div>
+    </section>
+    
+</div>
 <?php get_footer('eco'); ?>

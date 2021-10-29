@@ -8,3 +8,39 @@
 /**
  * Grid
  */
+/* line 73, ../css/sass/partials/splash.scss */
+.divided {
+  padding: 6rem 0;
+  border-top: #e5593f solid 1px;
+  border-bottom: #e5593f solid 1px; }
+
+/* line 89, ../css/sass/partials/splash.scss */
+.description-title {
+  font-size: 26px;
+  background-color: #379ab8;
+  line-height: 55px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  margin-top: 2px;
+  margin-bottom: 2px; }
+  /* line 96, ../css/sass/partials/splash.scss */
+  .description-title:hover {
+    background-color: #7dafbe;
+    cursor: pointer; }
+
+/* line 102, ../css/sass/partials/splash.scss */
+.expand-collapse {
+  float: right;
+  margin-right: 8px; }
+
+/* line 106, ../css/sass/partials/splash.scss */
+.description {
+  font-size: 18px;
+  max-height: 0;
+  overflow: hidden;
+  margin-left: 0px;
+  -webkit-transition: max-height 0.2s ease-out;
+  transition: max-height 0.2s ease-out; }
+  /* line 112, ../css/sass/partials/splash.scss */
+  .description p {
+    margin-top: 4px; }
