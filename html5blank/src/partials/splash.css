@@ -25,19 +25,22 @@
   line-height: 2.4rem;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  padding-left: 1.2rem;
+  padding: 1.2rem;
   color: #ffffff; }
-  /* line 99, ../css/sass/partials/splash.scss */
+  /* line 100, ../css/sass/partials/splash.scss */
+  .description-title span {
+    color: #fff; }
+  /* line 104, ../css/sass/partials/splash.scss */
   .description-title:hover {
     background-color: tomato;
     cursor: pointer; }
 
-/* line 106, ../css/sass/partials/splash.scss */
+/* line 111, ../css/sass/partials/splash.scss */
 .expand-collapse {
   float: right;
   margin-right: 1.2rem; }
 
-/* line 110, ../css/sass/partials/splash.scss */
+/* line 115, ../css/sass/partials/splash.scss */
 .description {
   font-size: 1.8rem;
   max-height: 0;
@@ -45,11 +48,11 @@
   margin-left: 0px;
   -webkit-transition: max-height 0.2s ease-out;
   transition: max-height 0.2s ease-out; }
-  /* line 116, ../css/sass/partials/splash.scss */
+  /* line 121, ../css/sass/partials/splash.scss */
   .description p {
     margin-top: .6rem; }
 
-/* line 122, ../css/sass/partials/splash.scss */
+/* line 127, ../css/sass/partials/splash.scss */
 .ghost-center {
   display: -webkit-box;
   display: -ms-flexbox;
