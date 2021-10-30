@@ -65,3 +65,6 @@
       -ms-flex-direction: column;
           flex-direction: column;
   height: 50vh; }
+  /* line 133, ../css/sass/partials/splash.scss */
+  .ghost-center span {
+    color: #fff !important; }

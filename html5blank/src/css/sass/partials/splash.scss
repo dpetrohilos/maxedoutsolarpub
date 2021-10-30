@@ -129,6 +129,10 @@ $background-color-3: rgb(125, 175, 190);
   justify-content: center;
   flex-direction: column;
   height: 50vh;
+    
+    span {
+        color: #fff !important;
+    }
 }
 
 
