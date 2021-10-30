@@ -20,36 +20,36 @@
 
 /* line 92, ../css/sass/partials/splash.scss */
 .description-title {
-  font-size: 26px;
-  background-color: #379ab8;
-  line-height: 55px;
+  font-size: 2.2rem;
+  background-color: #e5593f;
+  line-height: 2.4rem;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  margin-top: 2px;
-  margin-bottom: 2px; }
+  padding-left: 1.2rem;
+  color: #ffffff; }
   /* line 99, ../css/sass/partials/splash.scss */
   .description-title:hover {
-    background-color: #7dafbe;
+    background-color: tomato;
     cursor: pointer; }
 
-/* line 105, ../css/sass/partials/splash.scss */
+/* line 106, ../css/sass/partials/splash.scss */
 .expand-collapse {
   float: right;
-  margin-right: 8px; }
+  margin-right: 1.2rem; }
 
-/* line 109, ../css/sass/partials/splash.scss */
+/* line 110, ../css/sass/partials/splash.scss */
 .description {
-  font-size: 18px;
+  font-size: 1.8rem;
   max-height: 0;
   overflow: hidden;
   margin-left: 0px;
   -webkit-transition: max-height 0.2s ease-out;
   transition: max-height 0.2s ease-out; }
-  /* line 115, ../css/sass/partials/splash.scss */
+  /* line 116, ../css/sass/partials/splash.scss */
   .description p {
-    margin-top: 4px; }
+    margin-top: .6rem; }
 
-/* line 121, ../css/sass/partials/splash.scss */
+/* line 122, ../css/sass/partials/splash.scss */
 .ghost-center {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -61,4 +61,4 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  height: 400px; }
+  height: 54rem; }
