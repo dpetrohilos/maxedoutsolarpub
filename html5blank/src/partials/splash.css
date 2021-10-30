@@ -25,11 +25,11 @@
   line-height: 2.4rem;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  padding: 1.2rem;
-  color: #ffffff; }
+  padding: 1.6rem 1.2rem 1.2rem 1.2rem;
+  color: #ffffff !important; }
   /* line 100, ../css/sass/partials/splash.scss */
   .description-title span {
-    color: #fff; }
+    color: #fff !important; }
   /* line 104, ../css/sass/partials/splash.scss */
   .description-title:hover {
     background-color: tomato;

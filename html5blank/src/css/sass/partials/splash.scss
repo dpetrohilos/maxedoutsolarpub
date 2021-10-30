@@ -94,11 +94,11 @@ $background-color-3: rgb(125, 175, 190);
         background-color: $tomato;
         line-height: 2.4rem;
         transition: 0.3s;
-        padding: 1.2rem;
-        color: #ffffff;
+        padding: 1.6rem 1.2rem 1.2rem 1.2rem;
+        color: #ffffff !important;
         
         span {
-            color: #fff;
+            color: #fff !important;
         }
         
         &:hover {
@@ -111,7 +111,7 @@ $background-color-3: rgb(125, 175, 190);
     .expand-collapse{
             float: right;
             margin-right: 1.2rem;
-        color: #fff !important; 
+            color: #fff !important; 
         }
     .description {
         font-size: 1.8rem;
