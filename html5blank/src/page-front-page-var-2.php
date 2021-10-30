@@ -95,13 +95,13 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
     
 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 main-content">
 <dt class="description-title">How Much Does It Cost To Get Solar Panels Installed?
- <span class="expand-collapse">&#10133;</span></dt>
+ <span style="color:#ffffff" class="expand-collapse">&#10133;</span></dt>
             <dd class="description">
             <p> Every home’s roof is different. Some people work from home and run screens all day, some people have an electric vehicle to charge. Some people take extra care to conserve electricity! Your free quote will reflect your home’s unique needs.
 
 </p></dd>
     
-    <dt class="description-title">How Long Does It Take To Get Solar Panels Installed? <span class="expand-collapse">&#10133;</span></dt>
+    <dt class="description-title">How Long Does It Take To Get Solar Panels Installed? <span style="color:#ffffff" class="expand-collapse">&#10133;</span></dt>
             <dd class="description">
             <p> As a general rule, between 1-3 months.* Of course, we want to move fast, but we don’t want to be pushy. It’s important to us to do a good job and make sure we get everything right the first time.
 
@@ -110,13 +110,13 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
 </p></dd>
     
     <dt class="description-title">Do You Offer An Extended Warranty To Cover My Investment?
- <span class="expand-collapse">&#10133;</span></dt>
+ <span style="color:#ffffff" class="expand-collapse">&#10133;</span></dt>
             <dd class="description"><p>One of the best available! Our extended warranty lasts for 30 years and covers solar panels, inverters, mounting systems, all labor costs, and includes gap coverage. The warranty is transferable to new homeowners in the event you sell your home.
 
 </p></dd>
     
     <dt class="description-title">What Is Net Metering And How Does Net Metering Work?
- <span class="expand-collapse">&#10133;</span></dt>
+ <span style="color:#ffffff" class="expand-collapse">&#10133;</span></dt>
             <dd class="description"><p>Net metering is a policy that credits you for every kilowatt-hour your system overproduces and puts extra power back into the grid. When your system overproduces, you can bank extra credits to use on a cloudy day, or at night.
 
 </p></dd>    
