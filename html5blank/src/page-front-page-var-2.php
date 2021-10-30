@@ -26,7 +26,7 @@
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/chart1.svg" alt="KPH solar vs. fossil fuels">
 </div>
     
-<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">    
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ghost-center">    
     <h2>Solar means you spend less</h2>
     <p>The price of solar KPH is over half the price of dirty fossil fuels. Stop paying for pollution and save money and the planet.</p>
 </div>    
@@ -38,7 +38,7 @@
     
 <section class="row content">
     
-<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12"> 
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ghost-center"> 
 <h2>Professional rooftop solar panel installation significantly increases your home’s value
     </h2>    
     <p>Don’t cut corners and try to DIY. Solar panel installation should be done by qualified experts, like any other home improvement project. In addition to lowering your energy bills, rooftop solar panels will add $15,000 to your home's value. </p>
@@ -60,7 +60,7 @@
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/chart3.svg" alt="Average price of installs have gone down over 11 years">
 </div>
     
-<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ghost-center">
     <h2>Solar install prices are half what they used to be </h2>
 
     <p>In 2010, the average price of rooftop solar panel installation was $40,000. By 2021, this figure has dropped to around $20,000. Hiring professional solar installation experts to install solar panels on your roof has never been more affordable.</p>
@@ -74,7 +74,7 @@
 <div class="wrapper">      
 <section class="row content">
     
-<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">    
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ghost-center">    
     <h2>You’re already spending thousands of dollars annually on energy costs </h2>
 <p>
 Oftentimes, one thing we hear from people interested in solar is concern over spending too much money. Solar panels can reduce your energy bills by up to 90% annually. Our average rooftop solar customers save $26,000 over 20 years.

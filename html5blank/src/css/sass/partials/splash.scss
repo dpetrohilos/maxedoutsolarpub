@@ -118,5 +118,23 @@ $background-color-3: rgb(125, 175, 190);
 }
 
 
+.ghost-center {
+  position: relative;
+    h2, p {
+  display: inline-block;
+  vertical-align: middle;
+}
+    
+}
+.ghost-center::before {
+  content: " ";
+  display: inline-block;
+  height: 100%;
+  width: 1%;
+  vertical-align: middle;
+}
+
+
+
 
 

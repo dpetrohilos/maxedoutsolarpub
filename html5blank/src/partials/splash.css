@@ -48,3 +48,19 @@
   /* line 115, ../css/sass/partials/splash.scss */
   .description p {
     margin-top: 4px; }
+
+/* line 121, ../css/sass/partials/splash.scss */
+.ghost-center {
+  position: relative; }
+  /* line 123, ../css/sass/partials/splash.scss */
+  .ghost-center h2, .ghost-center p {
+    display: inline-block;
+    vertical-align: middle; }
+
+/* line 129, ../css/sass/partials/splash.scss */
+.ghost-center::before {
+  content: " ";
+  display: inline-block;
+  height: 100%;
+  width: 1%;
+  vertical-align: middle; }
