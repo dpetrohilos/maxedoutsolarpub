@@ -38,9 +38,10 @@
 /* line 111, ../css/sass/partials/splash.scss */
 .expand-collapse {
   float: right;
-  margin-right: 1.2rem; }
+  margin-right: 1.2rem;
+  color: #fff !important; }
 
-/* line 115, ../css/sass/partials/splash.scss */
+/* line 116, ../css/sass/partials/splash.scss */
 .description {
   font-size: 1.8rem;
   max-height: 0;
@@ -48,11 +49,11 @@
   margin-left: 0px;
   -webkit-transition: max-height 0.2s ease-out;
   transition: max-height 0.2s ease-out; }
-  /* line 121, ../css/sass/partials/splash.scss */
+  /* line 122, ../css/sass/partials/splash.scss */
   .description p {
     margin-top: .6rem; }
 
-/* line 127, ../css/sass/partials/splash.scss */
+/* line 128, ../css/sass/partials/splash.scss */
 .ghost-center {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -65,6 +66,6 @@
       -ms-flex-direction: column;
           flex-direction: column;
   height: 50vh; }
-  /* line 133, ../css/sass/partials/splash.scss */
+  /* line 134, ../css/sass/partials/splash.scss */
   .ghost-center span {
     color: #fff !important; }
