@@ -95,11 +95,9 @@ $background-color-3: rgb(125, 175, 190);
         line-height: 2.4rem;
         transition: 0.3s;
         padding: 1.6rem 1.2rem 1.2rem 1.2rem;
-        color: #ffffff !important;
+        color: #ffffff;
         
-        span {
-            color: #fff !important;
-        }
+       
         
         &:hover {
             background-color: tomato;
@@ -111,7 +109,8 @@ $background-color-3: rgb(125, 175, 190);
     .expand-collapse{
             float: right;
             margin-right: 1.2rem;
-            color: #fff !important; 
+            color: transparent;  
+            text-shadow: 0 0 0 white; 
         }
     .description {
         font-size: 1.8rem;
@@ -119,7 +118,7 @@ $background-color-3: rgb(125, 175, 190);
         overflow: hidden;
         margin-left: 0px;
         transition: max-height 0.2s ease-out;
-        p{
+        p {
             margin-top: .6rem;
         }
 }
