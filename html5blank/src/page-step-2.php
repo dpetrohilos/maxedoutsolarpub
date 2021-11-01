@@ -1,10 +1,11 @@
 <?php /* Template Name: Step 2 */ get_header('no-nav'); ?>
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 
-<div class="wrapper-fluid bg-splash middle-line">
-        <section class="row">
+
+<div class="wrapper-fluid p0">
+        <section class="row p0">
             
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm">
+          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm p0">
     
                 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
@@ -13,8 +14,9 @@
 
             </article>
             
-            <aside class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-2 first-sm first-xs">
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-2 first-sm first-xs">
+                
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
 	region: "na1",
