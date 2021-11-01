@@ -11,7 +11,10 @@
               
             </article>
             
-            <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
+            <aside class="col-lg-5 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
+                
+<section class="row">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
                            <h1><?php the_title(); ?></h1>
                 <?php the_content(); ?>
@@ -25,6 +28,8 @@
 	formId: "f784b239-4aec-4447-a0d1-8252de95cc91"
 });
 </script>
+        
+    </div></section>
             </aside>
 		
             
