@@ -21,8 +21,13 @@
  <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-9' ) ) ?>
         <p class="btn-wrap">
 
-<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get a free roof check</a>
-<!-- Calendly link widget end -->
+    
+    <!-- Calendly link widget begin -->
+
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Schedule A consulation 
+            </a>
+    
+    <!-- Calendly link widget end -->
         </p>
         
         </div>

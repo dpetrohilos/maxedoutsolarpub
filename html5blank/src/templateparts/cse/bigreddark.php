@@ -14,8 +14,8 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Make the switch</a><span>No upfront cost.</span>
-<!-- Calendly link widget end -->
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Make The Switch 
+            </a><!-- Calendly link widget end -->
     
         </p>
         

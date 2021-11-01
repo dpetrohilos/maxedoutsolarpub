@@ -5,10 +5,11 @@
         </h2>
        
 <p class="btn-wrap text-center">
-<a title="Lets Chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Chat</a>
-<!-- Calendly link widget end -->
     
-        </p>        
+    <!-- Calendly link widget begin -->
+
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Free Consultation 
+            </a></p> 
       
 
     </div>

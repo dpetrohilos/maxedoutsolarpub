@@ -14,8 +14,8 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Talk With Us</a>
-<!-- Calendly link widget end -->
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Talk With Us
+            </a><!-- Calendly link widget end -->
     
         </p>
 

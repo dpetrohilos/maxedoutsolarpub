@@ -15,10 +15,13 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Make The Switch" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Schedule a consultation</a><span>No credit card required.</span>
-<!-- Calendly link widget end -->
+<p class="btn-wrap">
     
-        </p>
+    <!-- Calendly link widget begin -->
+
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Schedule A Consulation 
+            </a></p> <!-- Calendly link widget end -->
+    
         
    <p class="btn-wrap hide-xs hide-sm hide-md show-lg show-xl">
     

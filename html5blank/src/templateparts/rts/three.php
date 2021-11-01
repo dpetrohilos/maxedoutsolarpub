@@ -10,15 +10,12 @@
         </div>
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 last-sm xs-first">
     
-   <p class="btn-wrap">
+<p class="btn-wrap">
     
     <!-- Calendly link widget begin -->
 
-<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Invest in yourself</a>
-<!-- Calendly link widget end -->
-    
-        </p>
-
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Make A home Investment 
+            </a></p> 
         </div>
         
         

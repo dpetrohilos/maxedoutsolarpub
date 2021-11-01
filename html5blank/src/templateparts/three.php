@@ -14,11 +14,12 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="chat" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get A Free Roof Check</a>
-<!-- Calendly link widget end -->
+<p class="btn-wrap">
     
-        </p>
+    <!-- Calendly link widget begin -->
 
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
+            </a></p> 
         </div>
         
         
