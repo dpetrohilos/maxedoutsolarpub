@@ -1,6 +1,6 @@
 <?php /* Template Name: Step 3 */ get_header('no-nav'); ?>
-<div class="container-fluid bg-splash middle-line">
-    <div class="container">
+<div class="wrapper-fluid bg-splash middle-line">
+    <div class="wrapper">
         <section class="row">
             
             <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 first-md first-lg first-xl last-xs last-sm">

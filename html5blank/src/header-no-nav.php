@@ -14,3 +14,12 @@
 <!-- End Facebook Pixel Code -->
 	</head>
 	<body <?php body_class(); ?>>
+<header class="wrapper-fluid steps-header">
+    <div class="wrapper">
+        <section class="row">
+            <div class="col-lg-3">
+                
+            </div>
+        </section>
+    </div>
+</header>
