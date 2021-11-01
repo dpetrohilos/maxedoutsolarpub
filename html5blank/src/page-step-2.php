@@ -14,7 +14,7 @@
 
             </article>
             
-            <aside class="col-lg-4 col-md-6 col-sm-12 col-xs-12 first-sm first-xs">
+            <aside class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-2 col-md-offset-2 first-sm first-xs">
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
