@@ -22,9 +22,9 @@
         
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
             
-            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/timeline.svg" alt="Our three step process">
+            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/timeline.svg" alt="Our three step process" class="process-img">
             
-            <p class="btn-wrap">
+            <p class="btn-wrap text-center">
     
     <!-- Calendly link widget begin -->
 
