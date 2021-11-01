@@ -4,7 +4,6 @@
 
 
 <div class="wrapper-fluid bg-splash middle-line">
-    <div class="wrapper">
         <section class="row">
             
           <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm">
@@ -42,6 +41,6 @@
 
 		<?php endif; ?>
 
-        </section></div></div>
+        </section></div>
 
 <?php get_footer('eco'); ?>
