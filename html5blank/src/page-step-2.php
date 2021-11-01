@@ -8,7 +8,7 @@
     
                 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('responsive-img'); // Fullsize image for the single post. ?>
+					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
 			<?php endif; ?>
 
             </article>
@@ -41,4 +41,4 @@
 
         </section></div>
 
-		<?php wp_footer(); ?>
+<?php get_footer('bottom'); ?>
