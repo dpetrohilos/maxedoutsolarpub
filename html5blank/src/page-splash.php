@@ -1,10 +1,10 @@
 <?php /* Template Name: Page Splash */ get_header(); ?>
-<div class="contaienr-fluid bg-splash">
+<div class="container-fluid bg-splash">
     <div class="container">
         <section class="row">
             
             <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 last-xs last-sm">
-            <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
+    <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
     
                 <h1><?php the_title(); ?></h1>
                 <?php the_content(); ?>
@@ -26,7 +26,19 @@
             </aside>
 		
             
-        <?php endif; endwhile;?>
+		<?php endwhile; ?>
+
+		<?php else : ?>
+
+			<!-- article -->
+			<article>
+
+				<h2><?php esc_html_e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
+
+			</article>
+			<!-- /article -->
+
+		<?php endif; ?>
 
         </section></div></div>
 
