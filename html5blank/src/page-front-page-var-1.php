@@ -8,11 +8,11 @@
         
     </div>    
     <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-2"><p class="top-text">Starts today with zero money upfront. Solar adds about $15,000 in equity to your home’s value, and average rooftop solar customers save $26,000 on electricity costs over 20 years.</p>   
-        <p class="btn-wrap">
+                <p class="btn-wrap">
     
     <!-- Calendly link widget begin -->
 
-<a title="Free" class="btn-alpha" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Get Started </a>
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get Started </a>
             <!-- Calendly link widget end --> <span>Set up a free consultation today</span>
         </p> 
         </div>
