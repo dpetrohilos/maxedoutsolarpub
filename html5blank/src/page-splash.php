@@ -1,5 +1,5 @@
 <?php /* Template Name: Page Splash */ get_header(); ?>
-<div class="container-fluid bg-splash">
+<div class="container-fluid bg-splash middle-line">
     <div class="container">
         <section class="row">
             
