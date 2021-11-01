@@ -1,4 +1,4 @@
-<?php /* Template Name: Page Splash */ get_header(); ?>
+<?php /* Template Name: Page Splash */ get_header('no-nav'); ?>
 <div class="container-fluid bg-splash middle-line">
     <div class="container">
         <section class="row">
