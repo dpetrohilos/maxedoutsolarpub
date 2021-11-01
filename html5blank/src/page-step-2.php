@@ -7,10 +7,7 @@
     
     <section class="row">
             
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            </article>
-            
-             <aside class="col-lg-5 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
+<article class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-lg-offset-8 col-md-offset-8">
                 
 <section class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -29,7 +26,7 @@
 </script>
         
     </div></section>
-            </aside>
+            </article>
 		
             
 		<?php endwhile; ?>

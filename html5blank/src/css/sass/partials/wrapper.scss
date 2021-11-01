@@ -1490,28 +1490,13 @@ margin-bottom: 0;
     padding:    0px auto;
     background-size: cover; 
     
-    aside {
+    article {
         
         background-color: #f7f6f1; 
         
     }
     
-    article {
-        
-        overflow: hidden;
-        height: 100vh;    
-        min-height: 100%;
-        text-align: center; 
 
-        
-        img {
-            max-width: 120vw !important; 
-            width: 100vw; 
-            height: auto; 
-            margin-left: -20vw;
-        }
-        
-    }
     
     
     .logo-img {

@@ -7,17 +7,11 @@
         
 
 <div class="wrapper-fluid sign-up-pages" style="background: url('<?php echo $backgroundImg[0]; ?>') no-repeat;">        
-    
-    <section class="row">
-            
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-    
-            </article>
-            
-                        <aside class="col-lg-5 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
+<section class="row">
+<article class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-lg-offset-8 col-md-offset-8">
                 
 <section class="row">
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
                            <h1><?php the_title(); ?></h1>
                 <?php the_content(); ?>
@@ -32,7 +26,7 @@
 });
 </script>        
     </div></section>
-            </aside>
+</article>
 		
             
 		<?php endwhile; ?>
