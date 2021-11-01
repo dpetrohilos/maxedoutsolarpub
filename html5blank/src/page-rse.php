@@ -1,9 +1,7 @@
-<?php /* Template Name: Savings Community Solar */ get_header(); ?>
-
-<?php get_template_part( 'templateparts/css/bigred' ); ?>
-<?php get_template_part( 'templateparts/guarantee-community' ); ?>
-<?php get_template_part( 'templateparts/css/three' ); ?>
-
+<?php /* Template Name: Eco Rooftop Solar Splash */ get_header(); ?>
+<?php get_template_part( 'templateparts/rte/bigred' ); ?>
+<?php get_template_part( 'templateparts/guarantee' ); ?>
+<?php get_template_part( 'templateparts/rte/three' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -39,14 +37,14 @@
 		<!-- /section -->
 	</main>
 <?php get_template_part( 'templateparts/introduction' ); ?>
-<?php get_template_part( 'templateparts/css/two' ); ?>
-<?php get_template_part( 'templateparts/core-message-community' ); ?>
-<?php get_template_part( 'templateparts/css/line-middle' ); ?>
-<?php get_template_part( 'templateparts/css/bigtext' ); ?>
-
-<div role="main" aria-label="Content" class="wrapper writing">
+<?php get_template_part( 'templateparts/rte/two' ); ?>
+<?php get_template_part( 'templateparts/core-message' ); ?>
+<?php get_template_part( 'templateparts/rte/line-middle' ); ?>
+<?php get_template_part( 'templateparts/rte/bigtext' ); ?>
+<main role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
- <?php $my_query = new WP_Query( 'posts_per_page=6' );
+            
+<?php $my_query = new WP_Query( 'posts_per_page=6' );
 while ( $my_query->have_posts() ) : $my_query->the_post();
 $do_not_duplicate = $post->ID; ?>
     
@@ -85,7 +83,12 @@ $do_not_duplicate = $post->ID; ?>
 				</time>
             </span>
            
-            </p></div>        
+            </p>
+
+
+
+            
+            </div></div>        
             <div class="blog-footer">
 
         <p class="info">
@@ -93,14 +96,13 @@ $do_not_duplicate = $post->ID; ?>
             <span class="author"><?php esc_html_e( 'By', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>  
         </p>            
 
-                    </div></div></div>
+                    </div></div>
             </article>        
   <?php endwhile; ?>
 
    
             
-    </section></div>
-
+        </section></main>
 <div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
