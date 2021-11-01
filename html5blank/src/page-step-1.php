@@ -1,23 +1,4 @@
 <?php /* Template Name: Step 1 */ get_header('no-nav'); ?>
-        
-<header class="wrapper-fluid steps-header">
-        <section class="row">
-            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 bg-red">
-            
-            <h1><?php the_title(); ?></h1>
-
-            </div>
-            
-            <div class="col-lg-9 col-md-6 col-lg-3 col-md-6 col-sm-12 col-xs-12">
-            
-                
-    			<?php if ( has_post_thumbnail(1200,600) ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
-			<?php endif; ?>
-                
-            </div>
-        </section>
-</header>
 
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 
@@ -26,12 +7,12 @@
     <div class="wrapper">
         <section class="row">
             
-            <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 first-md first-lg first-xl last-xs last-sm">
+          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm">
     
-                <?php the_content(); ?>
-
-
-                <p><?php edit_post_link(); ?></p>
+                
+    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
+					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
+			<?php endif; ?>
 
             </article>
             
