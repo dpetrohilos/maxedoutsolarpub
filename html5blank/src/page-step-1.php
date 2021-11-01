@@ -4,7 +4,7 @@
 <div class="wrapper-fluid sign-up-pages">
         <section class="row">
             
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm p0">
+          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
     
                 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
@@ -13,7 +13,7 @@
 
             </article>
             
-            <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 first-sm first-xs">
+            <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
                 
                 
                 
