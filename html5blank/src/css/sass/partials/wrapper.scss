@@ -1483,61 +1483,19 @@ margin-bottom: 0;
 
 // bg 
 
-.bg-red {
+.sign-up-pages {
     background: $tomato; 
     padding: 1.2rem;
     color: #fff !important; 
     
-    h1 {
-
+    article { overflow: hidden; 
         
-        @media screen and (min-width: $lg-max) {
-
-        font-size: 4.8rem; 
-        font-weight: bolder; 
-        line-height: 4.8rem;
-
-    }
-    
-@media screen and (max-width: $lg-max) {
-               
-        font-size: 4.8rem; 
-        font-weight: bolder; 
-        line-height: 4.8rem;
-
-
-  }
-  
-
-@media screen and (max-width: $md-max) {
-        font-size: 4.8rem; 
-        font-weight: bolder; 
-        line-height: 4.8rem;
-
-
-}
-
-    
-@media screen and (max-width: $sm-max) {
-
-        font-size: 3.6rem; 
-        font-weight: bolder; 
-        line-height: 3.6rem;
-
-
-
+        img {
+            width: 150%; 
+            height: 150%; 
         }
-
-    
-  @media screen and (max-width: $xs-max) {
-        font-size: 3.6rem; 
-        font-weight: bolder; 
-        line-height: 2.4rem;
-
-  }
         
     }
-    
 }
 
 .bg-solar {
