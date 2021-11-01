@@ -87,3 +87,11 @@
                 transform: translate(0px, 0px);
         text-transform: none !important;
         padding: 0; } }
+
+/* line 159, ../css/sass/partials/hero.scss */
+.process-img {
+  text-align: center;
+  max-width: 36rem;
+  margin: 0 auto;
+  width: 100%;
+  min-width: 20rme; }
