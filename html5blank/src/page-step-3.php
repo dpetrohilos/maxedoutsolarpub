@@ -41,4 +41,4 @@
 
         </section></div>
 
-<?php get_footer('eco'); ?>
+		<?php wp_footer(); ?>
