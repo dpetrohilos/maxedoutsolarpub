@@ -1,5 +1,4 @@
 <?php /* Template Name: Step 3 */ get_header('no-nav'); ?>
-    <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
         
 <header class="wrapper-fluid steps-header">
         <section class="row">
@@ -19,6 +18,7 @@
             </div>
         </section>
 </header>
+    <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 
 <div class="wrapper-fluid bg-splash middle-line">
     <div class="wrapper">
