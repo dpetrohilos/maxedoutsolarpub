@@ -15,6 +15,8 @@
             <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 first-sm first-xs">
                 
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
+                <h1><?php the_title(); ?></h1>
+                <?php the_content(); ?>
                 
                 
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
