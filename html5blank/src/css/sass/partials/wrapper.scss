@@ -1484,9 +1484,10 @@ margin-bottom: 0;
 // bg 
 
 .sign-up-pages {
-    background: $tomato; 
-    padding: 1.2rem;
-    color: #fff !important; 
+    height:     auto;    
+    min-height: 100%;
+    margin:     0px auto;
+    padding:    0px auto;
     
     article { overflow: hidden; 
         
