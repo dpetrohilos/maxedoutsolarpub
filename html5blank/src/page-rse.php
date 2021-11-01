@@ -1,4 +1,4 @@
-<?php /* Template Name: Eco Rooftop Solar Splash */ get_header(); ?>
+<?php /* Template Name: Eco Rooftop Solar */ get_header(); ?>
 <?php get_template_part( 'templateparts/rte/bigred' ); ?>
 <?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/rte/three' ); ?>

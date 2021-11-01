@@ -1,10 +1,11 @@
 <?php /* Template Name: Page Splash */ get_header(); ?>
-<?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 <div class="contaienr-fluid bg-splash">
     <div class="container">
         <section class="row">
             
             <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 last-xs last-sm">
+            <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
+    
                 <h1><?php the_title(); ?></h1>
                 <?php the_content(); ?>
 
@@ -25,9 +26,8 @@
             </aside>
 		
             
-        <?php endwhile; ?>
+        <?php endif; endwhile;?>
 
-		<?php else : ?>
         </section></div></div>
 
 <?php get_footer('eco'); ?>
