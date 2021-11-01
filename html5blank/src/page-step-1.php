@@ -12,11 +12,6 @@
             
           <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
     
-                
-    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
-			<?php endif; ?>
-
             </article>
             
             <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
