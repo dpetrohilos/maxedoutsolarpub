@@ -1,4 +1,27 @@
 <?php /* Template Name: Step 1 */ get_header('no-nav'); ?>
+    <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
+        
+<header class="wrapper-fluid steps-header">
+    <div class="wrapper">
+        <section class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 bg-red">
+            
+            <h1><?php the_title(); ?></h1>
+
+            </div>
+            
+            <div class="col-lg-9 col-md-6 col-lg-3 col-md-6 col-sm-12 col-xs-12">
+            
+                
+    			<?php if ( has_post_thumbnail(1200,600) ) : // Check if Thumbnail exists. ?>
+					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
+			<?php endif; ?>
+                
+            </div>
+        </section>
+    </div>
+</header>
+
 <div class="wrapper-fluid bg-splash middle-line">
     <div class="wrapper">
         <section class="row">
