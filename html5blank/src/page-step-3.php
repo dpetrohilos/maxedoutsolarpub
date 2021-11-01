@@ -2,10 +2,10 @@
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
 
 
-<div class="wrapper-fluid p0">
-        <section class="row p0">
+<div class="wrapper-fluid">
+        <section class="row">
             
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm p0">
+          <article style="padding: 0;" class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md first-lg first-xl last-xs last-sm p0">
     
                 
     			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
