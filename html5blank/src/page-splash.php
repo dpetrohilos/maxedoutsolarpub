@@ -3,7 +3,7 @@
     <div class="container">
         <section class="row">
             
-            <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 last-xs last-sm">
+            <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-lg-offset-1 first-md first-lg first-xl last-xs last-sm">
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
     
                 <h1><?php the_title(); ?></h1>
