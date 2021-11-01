@@ -2,7 +2,6 @@
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
         
 <header class="wrapper-fluid steps-header">
-    <div class="wrapper">
         <section class="row">
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 bg-red">
             
@@ -19,7 +18,6 @@
                 
             </div>
         </section>
-    </div>
 </header>
 
 <div class="wrapper-fluid bg-splash middle-line">
