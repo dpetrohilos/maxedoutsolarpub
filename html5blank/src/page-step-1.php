@@ -1,8 +1,14 @@
 <?php /* Template Name: Step 1 */ get_header('no-nav'); ?>
 
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
-<div class="wrapper-fluid sign-up-pages">
-        <section class="row">
+
+
+<?php $backgroundImg = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );?>
+        
+
+<div class="wrapper-fluid sign-up-pages" style="background: url('<?php echo $backgroundImg[0]; ?>') no-repeat;">        
+    
+    <section class="row">
             
           <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
     

@@ -1488,6 +1488,13 @@ margin-bottom: 0;
     min-height: 100vh;
     margin:     0px auto;
     padding:    0px auto;
+    background-size: cover; 
+    
+    aside {
+        
+        background-color: #f7f6f1; 
+        
+    }
     
     article {
         
@@ -1517,6 +1524,8 @@ margin-bottom: 0;
     .hbspt-form {
         padding: 2.4rem 0; 
     }
+    
+    
     
 }
 

@@ -1,15 +1,13 @@
 <?php /* Template Name: Step 2 */ get_header('no-nav'); ?>
     <?php if ( have_posts()) : while ( have_posts() ) : the_post(); ?>
-<div class="wrapper-fluid sign-up-pages">
-        <section class="row">
-            
-          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-md">
-    
-                
-    			<?php if ( has_post_thumbnail() ) : // Check if Thumbnail exists. ?>
-					<?php the_post_thumbnail('radius-both responsive-img'); // Fullsize image for the single post. ?>
-			<?php endif; ?>
+<?php $backgroundImg = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );?>
+        
 
+<div class="wrapper-fluid sign-up-pages" style="background: url('<?php echo $backgroundImg[0]; ?>') no-repeat;">        
+    
+    <section class="row">
+            
+          <article class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             </article>
             
             <aside class="col-lg-3 col-md-4 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1">
