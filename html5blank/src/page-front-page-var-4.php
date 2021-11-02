@@ -6,7 +6,7 @@
         <h1>Save With<br/><span class="hero-second">Community Solar</span></h1>
         
     </div>    
-    <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-2"><p class="top-text">Switching to community solar is easy, free, and simple, and only takes five minutes. Read on below to learn more about why you need to make sure you take advantage of this revolutionary new technology. Save money, save the planet.</p>   
+    <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-2"><p class="top-text">Switching to community solar is easy, free, and simple, and only takes five minutes. Save money, save the planet.</p>   
 <p class="btn-wrap">
     
     <!-- Calendly link widget begin -->
