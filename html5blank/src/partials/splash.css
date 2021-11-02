@@ -67,3 +67,11 @@
   /* line 133, ../css/sass/partials/splash.scss */
   .ghost-center span {
     color: #fff !important; }
+
+/* line 139, ../css/sass/partials/splash.scss */
+#hs_cos_wrapper_widget_1632277226579 {
+  padding: 1.2rem;
+  background-color: #043ff8;
+  border-radius: 2rem;
+  -webkit-box-shadow: 0 2px 6px -2px;
+          box-shadow: 0 2px 6px -2px; }
