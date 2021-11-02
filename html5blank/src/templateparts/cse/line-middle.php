@@ -11,7 +11,7 @@
 <p class="btn-wrap">
     
 
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Get To It</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Get To It</a>
 <!-- Calendly link widget end -->
     
         </p>       </div>

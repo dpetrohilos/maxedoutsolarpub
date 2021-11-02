@@ -138,13 +138,9 @@ Oftentimes, one thing we hear from people interested in solar is concern over sp
             </h3>
             
                        
-        <p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get Started </a>
-            <!-- Calendly link widget end --> <span>Set up a free consultation today</span>
-        </p>  
+<p class="btn-wrap">
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Lets Go 
+            </a>        </p> 
          
         </div>
     </section>

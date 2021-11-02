@@ -110,15 +110,9 @@ $do_not_duplicate = $post->ID; ?>
             Refer a friend and you will get $1,000 if they put solar on their rooftop 
             </h3>
             
-                       
 <p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
-    
-        </p> 
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Lets Go 
+            </a>        </p> 
         </div>
     </section>
     

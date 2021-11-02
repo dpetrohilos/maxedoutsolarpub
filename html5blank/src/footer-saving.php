@@ -8,8 +8,8 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
+            </a><!-- Calendly link widget end -->
     
         </p> 
         </div>

@@ -2,7 +2,7 @@
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
             <h3>
-            Ready To Talk To Us?
+            Schedule A Time To Talk?
             </h3>
             
                        
@@ -10,8 +10,8 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
+            </a>
     
         </p> 
         </div>

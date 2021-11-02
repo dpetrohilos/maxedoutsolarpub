@@ -8,7 +8,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
             </a><!-- Calendly link widget end -->
     
         </p>        

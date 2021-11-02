@@ -6,7 +6,7 @@
         </h2>
        
 <p class="btn-wrap text-center">
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make The Switch</a>  
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make The Switch</a>  
         </p>        
       
 

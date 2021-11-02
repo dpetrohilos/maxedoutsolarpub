@@ -14,7 +14,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make The Switch 
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make The Switch 
             </a><!-- Calendly link widget end -->
     
         </p>
@@ -23,7 +23,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make the switch</a><span>No upfront cost.</span>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make the switch</a><span>No upfront cost.</span>
     
         </p>   
 

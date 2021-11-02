@@ -12,6 +12,4 @@
 			<?php get_template_part( 'loop' ); ?>
 		</section>
     </div>
-
-
 <?php get_footer('home'); ?>

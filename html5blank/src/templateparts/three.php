@@ -9,16 +9,8 @@
 
         </div>
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 last-sm xs-first">
-    
-   <p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
+    <p class="btn-wrap">
+    <a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
             </a></p> 
         </div>
         

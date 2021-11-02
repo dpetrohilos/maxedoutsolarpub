@@ -42,24 +42,4 @@
 <?php get_template_part( 'templateparts/core-message-community' ); ?>
 <?php get_template_part( 'templateparts/cse/line-middle' ); ?>
 <?php get_template_part( 'templateparts/cse/bigtext' ); ?>
-<div class="wrapper footer-top">
-    <section class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-            <h3>
-            Refer a friend and you will get $1,000 if they put solar on their rooftop 
-            </h3>
-            
-                       
-<p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
-
-<a title="Talk With Us" class="btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/max-neely/free-roof-check'});return false;">Lets Talk</a>
-<!-- Calendly link widget end -->
-    
-        </p> 
-        </div>
-    </section>
-    
-</div>
 <?php get_footer('eco'); ?>
