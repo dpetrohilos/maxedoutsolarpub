@@ -12,8 +12,14 @@
 <section class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
-                           <h1><?php the_title(); ?></h1>
-                <?php the_content(); ?>
+
+<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/timeline3.svg" alt="Step 3">
+
+    
+    <h1><?php the_title(); ?></h1>
+            
+    
+    <?php the_content(); ?>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
