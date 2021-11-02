@@ -20,15 +20,16 @@
         
         
         
+            
+        
 <p class="btn-wrap">
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find a project near you</a>
-<!-- Calendly link widget end -->
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
+            </a><!-- Calendly link widget end -->
     <span>No cost. No risk.</span>        
         </p> 
-        
         
         </div>
     </section>

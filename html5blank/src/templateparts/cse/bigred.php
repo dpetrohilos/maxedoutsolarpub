@@ -25,7 +25,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get A free Roof Check 
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
             </a><!-- Calendly link widget end -->
     <span>No cost. No risk.</span>        
         </p> 

@@ -23,7 +23,7 @@
 
             <p class="btn-wrap">
 
-<a title="Find a project near you" class="btn" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Go Green</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Go Green</a>
 <!-- Calendly link widget end -->
     
         </p>
