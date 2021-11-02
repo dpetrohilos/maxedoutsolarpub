@@ -12,7 +12,6 @@
 <section class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
-                           <h1><?php the_title(); ?></h1>
                 <?php the_content(); ?>
 
     <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
