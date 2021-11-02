@@ -82,7 +82,7 @@ $tomato: #e5593f;
     h1 {
     color: #6884c7;
 
-    @media screen and (min-width: $lg-max) {
+@media screen and (min-width: $lg-max) {
     font-size: 14.8rem;
     color: #6884c7;
     padding-bottom: 8rem;
@@ -93,9 +93,7 @@ $tomato: #e5593f;
     text-transform: none !important;
     padding: 0;
         
-        }    
-
-    
+        }       
 @media screen and (max-width: $lg-max) {
                
  font-size: 14.8rem;
@@ -111,26 +109,26 @@ $tomato: #e5593f;
   
 
 @media screen and (max-width: $md-max) {
-    font-size: 12rem;
+    font-size: 7.2rem;
     line-height: 10.6rem;
     color: #6884c7;
     padding-bottom: 8rem;
     width: 100%;
     text-indent: -26vh;
-    transform: translate(26vh, 0px);
+    transform: translate(12vh, 0px);
     text-transform: none !important;
     padding: 0;
 }
 
     
 @media screen and (max-width: $sm-max) {
-font-size: 7.2rem; 
-line-height: 6rem;
+font-size: 6rem; 
+line-height: 4.8rem;
     color: #6884c7;
     padding-bottom: 8rem;
     width: 100%;
-    text-indent: -12vh;
-    transform: translate(12vh, 0px);
+    text-indent: 0;
+    transform: translate(0, 0px);
     text-transform: none !important;
     padding: 0;
 
@@ -139,8 +137,8 @@ line-height: 6rem;
 
     
 @media screen and (max-width: $xs-max) {
-font-size: 6rem; 
-line-height: 4.8rem;
+font-size: 4.8rem; 
+line-height: 3.6rem;
     color: #6884c7;
     padding-bottom: 8rem;
     width: 100%;
