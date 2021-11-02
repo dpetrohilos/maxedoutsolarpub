@@ -1,6 +1,5 @@
 <?php /* Template Name: Eco Rooftop Solar */ get_header(); ?>
 <?php get_template_part( 'templateparts/rte/bigred' ); ?>
-<?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/rte/three' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->

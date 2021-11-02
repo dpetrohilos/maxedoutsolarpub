@@ -1,6 +1,5 @@
 <?php /* Template Name: Rooftop Solar Savings */ get_header(); ?>
 <?php get_template_part( 'templateparts/rts/bigred' ); ?>
-<?php get_template_part( 'templateparts/guarantee' ); ?>
 <?php get_template_part( 'templateparts/rts/three' ); ?>
 
 <main role="main" aria-label="Content" class="wrapper">
@@ -41,10 +40,7 @@
 <?php get_template_part( 'templateparts/rts/two' ); ?>
 <?php get_template_part( 'templateparts/core-message' ); ?>
 <?php get_template_part( 'templateparts/rts/line-middle' ); ?>
-
 <?php get_template_part( 'templateparts/rts/bigtext' ); ?>
-
-
 <main role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
             

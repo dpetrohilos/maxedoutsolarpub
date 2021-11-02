@@ -1,7 +1,6 @@
 <?php /* Template Name: Community Solar Saving */ get_header(); ?>
 
 <?php get_template_part( 'templateparts/css/bigred' ); ?>
-<?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <?php get_template_part( 'templateparts/css/three' ); ?>
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
