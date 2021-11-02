@@ -30,9 +30,9 @@
         padding-bottom: 8rem;
         line-height: 11.8rem;
         width: 100%;
-        text-indent: -26vh;
-        -webkit-transform: translate(26vh, 0px);
-                transform: translate(26vh, 0px);
+        text-indent: -26vw;
+        -webkit-transform: translate(26vw, 0px);
+                transform: translate(26vw, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 120rem) {
@@ -43,22 +43,22 @@
         padding-bottom: 8rem;
         line-height: 11.8rem;
         width: 100%;
-        text-indent: -26vh;
-        -webkit-transform: translate(26vh, 0px);
-                transform: translate(26vh, 0px);
+        text-indent: -26vw;
+        -webkit-transform: translate(26vw, 0px);
+                transform: translate(26vw, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 90rem) {
       /* line 82, ../css/sass/partials/hero.scss */
       .hero-part .hero-container h1 {
         font-size: 7.2rem;
-        line-height: 10.6rem;
+        line-height: 6rem;
         color: #6884c7;
         padding-bottom: 8rem;
         width: 100%;
-        text-indent: -26vh;
-        -webkit-transform: translate(12vh, 0px);
-                transform: translate(12vh, 0px);
+        text-indent: -12vw;
+        -webkit-transform: translate(12vw, 0px);
+                transform: translate(12vw, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 64rem) {
@@ -69,9 +69,9 @@
         color: #6884c7;
         padding-bottom: 8rem;
         width: 100%;
-        text-indent: 0;
-        -webkit-transform: translate(0, 0px);
-                transform: translate(0, 0px);
+        text-indent: -3vw;
+        -webkit-transform: translate(3vw, 0px);
+                transform: translate(3vw, 0px);
         text-transform: none !important;
         padding: 0; } }
     @media screen and (max-width: 40rem) {
