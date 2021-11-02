@@ -3,8 +3,6 @@
 <?php get_template_part( 'templateparts/cse/bigred' ); ?>
 <?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <?php get_template_part( 'templateparts/cse/three' ); ?>
-
-
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -44,7 +42,6 @@
 <?php get_template_part( 'templateparts/core-message-community' ); ?>
 <?php get_template_part( 'templateparts/cse/line-middle' ); ?>
 <?php get_template_part( 'templateparts/cse/bigtext' ); ?>
-
 <div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">

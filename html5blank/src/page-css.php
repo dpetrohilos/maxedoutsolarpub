@@ -3,7 +3,6 @@
 <?php get_template_part( 'templateparts/css/bigred' ); ?>
 <?php get_template_part( 'templateparts/guarantee-community' ); ?>
 <?php get_template_part( 'templateparts/css/three' ); ?>
-
 <main role="main" aria-label="Content" class="wrapper">
 		<!-- section -->
 		<section class="row content">
@@ -43,7 +42,6 @@
 <?php get_template_part( 'templateparts/core-message-community' ); ?>
 <?php get_template_part( 'templateparts/css/line-middle' ); ?>
 <?php get_template_part( 'templateparts/css/bigtext' ); ?>
-
 <div role="main" aria-label="Content" class="wrapper writing">
 <section class="row">
  <?php $my_query = new WP_Query( 'posts_per_page=6' );
@@ -100,7 +98,6 @@ $do_not_duplicate = $post->ID; ?>
    
             
     </section></div>
-
 <div class="wrapper footer-top">
     <section class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
@@ -121,5 +118,4 @@ $do_not_duplicate = $post->ID; ?>
     </section>
     
 </div>
-
 <?php get_footer('eco'); ?>
