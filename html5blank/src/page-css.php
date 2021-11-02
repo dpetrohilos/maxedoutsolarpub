@@ -98,7 +98,21 @@ $do_not_duplicate = $post->ID; ?>
    
             
     </section></div>
-
+<div class="wrapper footer-top">
+    <section class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+            <h3>
+            Refer a friend and you will get $1,000 if they put solar on their rooftop 
+            </h3>
+            
+                       
+<p class="btn-wrap">
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Lets Go 
+            </a>        </p> 
+        </div>
+    </section>
+    
+</div>
             
                        
 <?php get_footer('eco'); ?>
