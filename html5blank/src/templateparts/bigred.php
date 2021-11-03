@@ -16,8 +16,7 @@
     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 last-lg last-xl last-md first-sm first-xs">
                   
 
-<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/rtsolar-illustration.svg" alt="Happy Family In A sustainable Future" width="640" height="400">
-
+<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/rtsolar-illustration.svg" alt="Happy Family In A sustainable Future" width="1280" height="800">
         </div>
             
     </section></div>
