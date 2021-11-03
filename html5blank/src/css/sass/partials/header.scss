@@ -51,3 +51,21 @@ width: auto;
 }
     } 
 
+
+
+.home {
+    
+    .bg-solar {
+        background: url(img/bg-top-var-2.svg) right top no-repeat;
+        background-size: cover; 
+    }
+}
+
+.page {
+    
+    .bg-solar {
+        background: url(img/bg-top.png) center top no-repeat;
+        background-size: cover; 
+    }
+    
+}
