@@ -1,4 +1,4 @@
-<div class="wrapper-full hero"><div class="wrapper hero-container">
+<div class="wrapper-full hero bg-solar"><div class="wrapper hero-container">
     <section class="row">
         <div class="col-lg-12 col-sm-12 ">
             <h1>Your Clean <br> <span>Energy Future</span>
@@ -16,7 +16,7 @@
     </section></div>
 </div>
 
-<div class="wrapper-full bgred bg-solar" id="talk"><div class="wrapper">    
+<div class="wrapper-full bgred" id="talk"><div class="wrapper">    
     <section class="row">
     
 <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
