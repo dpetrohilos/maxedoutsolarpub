@@ -1,6 +1,6 @@
 <div class="wrapper-full hero bg-solar"><div class="wrapper hero-container">
     <section class="row">
-        <div class="col-lg-8 col-sm-12 ">
+        <div class="col-lg-12 col-sm-12 ">
 <h1>Your Clean <br> <span>Energy Future</span>
             </h1>
             
