@@ -168,3 +168,29 @@ padding: 6rem;
 
 
 }
+
+
+
+
+.home {
+    
+    .bg-solar {
+        background: url(img/bg-top-var-2.svg) right top no-repeat;
+        background-size: auto; 
+    }
+}
+
+.page {
+    
+    .bg-solar {
+        background: url(img/bg-top.png) center top no-repeat;
+        background-size: auto; 
+    }
+    
+}
+
+.three-across {
+    
+    background: url(img/bg-bottom.svg) center bottom no-repeat;
+
+}
