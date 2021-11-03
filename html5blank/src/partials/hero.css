@@ -58,7 +58,7 @@
 /* line 136, ../css/sass/partials/hero.scss */
 .bg-solar {
   background: url(img/bg-top-var-2.svg) right top no-repeat;
-  background-size: auto auto; }
+  background-size: auto contain; }
 
 /* line 141, ../css/sass/partials/hero.scss */
 .three-across {
