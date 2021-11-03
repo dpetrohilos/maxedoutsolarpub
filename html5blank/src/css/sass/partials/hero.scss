@@ -70,13 +70,12 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 
 $tomato: #e5593f;
 
-.hero {
+.hero-part {
     background: 
     url('img/bg3.svg') bottom right no-repeat, 
     url('img/bg7.svg') top left no-repeat;
     height: 100vh;
-    padding: 25vh 0;
-    .top-text {margin-top: 3.6rem;}       
+    padding: 7.2rem 0;
 
     .hero-container {.hero-second { color: #fb6d86 !important; }
     h1 {
@@ -85,37 +84,20 @@ $tomato: #e5593f;
 @media screen and (min-width: $lg-max) {
     font-size: 14.8rem;
     line-height: 11.8rem;
-    color: #6884c7;
     padding-bottom: 8rem;
-    width: 100%;
-    text-indent: -26vw;
-    transform: translate(26vw, 0px);
-    text-transform: none !important;
-    padding: 0;
         
         }       
 @media screen and (max-width: $lg-max) {
                
  font-size: 14.8rem;
-    color: #6884c7;
     padding-bottom: 8rem;
     line-height: 11.8rem;
-    width: 100%;
-    text-indent: -26vw;
-    transform: translate(26vw, 0px);
-    text-transform: none !important;
-    padding: 0;
+    
 }
 @media screen and (max-width: $md-max) {
     font-size: 7.2rem;
     line-height: 6rem;
-    color: #6884c7;
     padding-bottom: 8rem;
-    width: 100%;
-    text-indent: -12vw;
-    transform: translate(12vw, 0px);
-    text-transform: none !important;
-    padding: 0;
 }
 
     
@@ -124,11 +106,6 @@ font-size: 6rem;
 line-height: 4.8rem;
     color: #6884c7;
     padding-bottom: 8rem;
-    width: 100%;
-    text-indent:0;
-    transform: translate(0, 0);
-    text-transform: none !important;
-    padding: 0;
 
 
 }
@@ -139,11 +116,6 @@ font-size: 4.8rem;
 line-height: 3.6rem;
     color: #6884c7;
     padding-bottom: 4rem;
-    width: 100%;
-    text-indent: 0;
-    transform: translate(0px, 0px);; 
-    text-transform: none !important;
-    padding: 0;
 
     
   }    
@@ -176,7 +148,7 @@ padding: 6rem;
     
     .bg-solar {
         background: url(img/bg-top-var-2.svg) right top no-repeat;
-        background-size: 33vw auto; 
+        background-size: 66vw auto; 
     }
 }
 
@@ -184,7 +156,7 @@ padding: 6rem;
     
     .bg-solar {
         background: url(img/bg-top.png) center top no-repeat;
-        background-size: 33vh auto; 
+        background-size: 66vh auto; 
     }
     
 }

@@ -9,89 +9,53 @@
  * Grid
  */
 /* line 73, ../css/sass/partials/hero.scss */
-.hero {
+.hero-part {
   background: url("img/bg3.svg") bottom right no-repeat, url("img/bg7.svg") top left no-repeat;
   height: 100vh;
-  padding: 25vh 0; }
-  /* line 79, ../css/sass/partials/hero.scss */
-  .hero .top-text {
-    margin-top: 3.6rem; }
-  /* line 81, ../css/sass/partials/hero.scss */
-  .hero .hero-container .hero-second {
+  padding: 7.2rem 0; }
+  /* line 80, ../css/sass/partials/hero.scss */
+  .hero-part .hero-container .hero-second {
     color: #fb6d86 !important; }
-  /* line 82, ../css/sass/partials/hero.scss */
-  .hero .hero-container h1 {
+  /* line 81, ../css/sass/partials/hero.scss */
+  .hero-part .hero-container h1 {
     color: #6884c7; }
     @media screen and (min-width: 120rem) {
-      /* line 82, ../css/sass/partials/hero.scss */
-      .hero .hero-container h1 {
+      /* line 81, ../css/sass/partials/hero.scss */
+      .hero-part .hero-container h1 {
         font-size: 14.8rem;
         line-height: 11.8rem;
-        color: #6884c7;
-        padding-bottom: 8rem;
-        width: 100%;
-        text-indent: -26vw;
-        -webkit-transform: translate(26vw, 0px);
-                transform: translate(26vw, 0px);
-        text-transform: none !important;
-        padding: 0; } }
+        padding-bottom: 8rem; } }
     @media screen and (max-width: 120rem) {
-      /* line 82, ../css/sass/partials/hero.scss */
-      .hero .hero-container h1 {
+      /* line 81, ../css/sass/partials/hero.scss */
+      .hero-part .hero-container h1 {
         font-size: 14.8rem;
-        color: #6884c7;
         padding-bottom: 8rem;
-        line-height: 11.8rem;
-        width: 100%;
-        text-indent: -26vw;
-        -webkit-transform: translate(26vw, 0px);
-                transform: translate(26vw, 0px);
-        text-transform: none !important;
-        padding: 0; } }
+        line-height: 11.8rem; } }
     @media screen and (max-width: 90rem) {
-      /* line 82, ../css/sass/partials/hero.scss */
-      .hero .hero-container h1 {
+      /* line 81, ../css/sass/partials/hero.scss */
+      .hero-part .hero-container h1 {
         font-size: 7.2rem;
         line-height: 6rem;
-        color: #6884c7;
-        padding-bottom: 8rem;
-        width: 100%;
-        text-indent: -12vw;
-        -webkit-transform: translate(12vw, 0px);
-                transform: translate(12vw, 0px);
-        text-transform: none !important;
-        padding: 0; } }
+        padding-bottom: 8rem; } }
     @media screen and (max-width: 64rem) {
-      /* line 82, ../css/sass/partials/hero.scss */
-      .hero .hero-container h1 {
+      /* line 81, ../css/sass/partials/hero.scss */
+      .hero-part .hero-container h1 {
         font-size: 6rem;
         line-height: 4.8rem;
         color: #6884c7;
-        padding-bottom: 8rem;
-        width: 100%;
-        text-indent: 0;
-        -webkit-transform: translate(0, 0);
-                transform: translate(0, 0);
-        text-transform: none !important;
-        padding: 0; } }
+        padding-bottom: 8rem; } }
     @media screen and (max-width: 40rem) {
-      /* line 82, ../css/sass/partials/hero.scss */
-      .hero .hero-container h1 {
+      /* line 81, ../css/sass/partials/hero.scss */
+      .hero-part .hero-container h1 {
         font-size: 4.8rem;
         line-height: 3.6rem;
         color: #6884c7;
-        padding-bottom: 4rem;
-        width: 100%;
-        text-indent: 0;
-        -webkit-transform: translate(0px, 0px);
-                transform: translate(0px, 0px);
-        text-transform: none !important;
-        padding: 0; } }
+        padding-bottom: 4rem; } }
 
-/* line 155, ../css/sass/partials/hero.scss */
+/* line 127, ../css/sass/partials/hero.scss */
 .process {
   padding: 6rem; }
-  /* line 159, ../css/sass/partials/hero.scss */
+  /* line 131, ../css/sass/partials/hero.scss */
   .process .process-img {
     text-align: center;
     max-width: 36rem;
@@ -99,17 +63,17 @@
     width: 100%;
     min-width: 20rme; }
 
-/* line 177, ../css/sass/partials/hero.scss */
+/* line 149, ../css/sass/partials/hero.scss */
 .home .bg-solar {
   background: url(img/bg-top-var-2.svg) right top no-repeat;
-  background-size: 33vw auto; }
+  background-size: 66vw auto; }
 
-/* line 185, ../css/sass/partials/hero.scss */
+/* line 157, ../css/sass/partials/hero.scss */
 .page .bg-solar {
   background: url(img/bg-top.png) center top no-repeat;
-  background-size: 33vh auto; }
+  background-size: 66vh auto; }
 
-/* line 192, ../css/sass/partials/hero.scss */
+/* line 164, ../css/sass/partials/hero.scss */
 .three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat;
   background-size: 33vw auto; }
