@@ -70,7 +70,7 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 
 $tomato: #e5593f;
 
-.hero-part {
+.hero {
     background: 
     url('img/bg3.svg') bottom right no-repeat, 
     url('img/bg7.svg') top left no-repeat;
@@ -176,7 +176,7 @@ padding: 6rem;
     
     .bg-solar {
         background: url(img/bg-top-var-2.svg) right top no-repeat;
-        background-size: auto; 
+        background-size: 33vw auto; 
     }
 }
 
@@ -184,7 +184,7 @@ padding: 6rem;
     
     .bg-solar {
         background: url(img/bg-top.png) center top no-repeat;
-        background-size: auto; 
+        background-size: 33vh auto; 
     }
     
 }
@@ -192,5 +192,6 @@ padding: 6rem;
 .three-across {
     
     background: url(img/bg-bottom.svg) left bottom no-repeat;
+    background-size: 33vw auto; 
 
 }
