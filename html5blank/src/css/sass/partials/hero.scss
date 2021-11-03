@@ -73,7 +73,13 @@ $tomato: #e5593f;
 
 
 
-.hero-container {.hero-second { color: #fb6d86 !important; }
+.hero-container {
+    
+    padding: 6rem 0; 
+    
+    
+    
+    
     h1 {
 
 @media screen and (min-width: $lg-max) {
@@ -112,7 +118,9 @@ line-height: 3.6rem;
   }    
         
     }
-    }
+    
+
+}
 
 
 .process {

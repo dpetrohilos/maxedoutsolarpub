@@ -9,45 +9,45 @@
  * Grid
  */
 /* line 76, ../css/sass/partials/hero.scss */
-.hero-container .hero-second {
-  color: #fb6d86 !important; }
-@media screen and (min-width: 120rem) {
-  /* line 77, ../css/sass/partials/hero.scss */
-  .hero-container h1 {
-    font-size: 14.8rem;
-    line-height: 11.8rem;
-    padding-bottom: 8rem; } }
-@media screen and (max-width: 120rem) {
-  /* line 77, ../css/sass/partials/hero.scss */
-  .hero-container h1 {
-    font-size: 14.8rem;
-    padding-bottom: 8rem;
-    line-height: 11.8rem; } }
-@media screen and (max-width: 90rem) {
-  /* line 77, ../css/sass/partials/hero.scss */
-  .hero-container h1 {
-    font-size: 7.2rem;
-    line-height: 6rem;
-    padding-bottom: 8rem; } }
-@media screen and (max-width: 64rem) {
-  /* line 77, ../css/sass/partials/hero.scss */
-  .hero-container h1 {
-    font-size: 6rem;
-    line-height: 4.8rem;
-    color: #6884c7;
-    padding-bottom: 8rem; } }
-@media screen and (max-width: 40rem) {
-  /* line 77, ../css/sass/partials/hero.scss */
-  .hero-container h1 {
-    font-size: 4.8rem;
-    line-height: 3.6rem;
-    color: #6884c7;
-    padding-bottom: 4rem; } }
+.hero-container {
+  padding: 6rem 0; }
+  @media screen and (min-width: 120rem) {
+    /* line 83, ../css/sass/partials/hero.scss */
+    .hero-container h1 {
+      font-size: 14.8rem;
+      line-height: 11.8rem;
+      padding-bottom: 8rem; } }
+  @media screen and (max-width: 120rem) {
+    /* line 83, ../css/sass/partials/hero.scss */
+    .hero-container h1 {
+      font-size: 14.8rem;
+      padding-bottom: 8rem;
+      line-height: 11.8rem; } }
+  @media screen and (max-width: 90rem) {
+    /* line 83, ../css/sass/partials/hero.scss */
+    .hero-container h1 {
+      font-size: 7.2rem;
+      line-height: 6rem;
+      padding-bottom: 8rem; } }
+  @media screen and (max-width: 64rem) {
+    /* line 83, ../css/sass/partials/hero.scss */
+    .hero-container h1 {
+      font-size: 6rem;
+      line-height: 4.8rem;
+      color: #6884c7;
+      padding-bottom: 8rem; } }
+  @media screen and (max-width: 40rem) {
+    /* line 83, ../css/sass/partials/hero.scss */
+    .hero-container h1 {
+      font-size: 4.8rem;
+      line-height: 3.6rem;
+      color: #6884c7;
+      padding-bottom: 4rem; } }
 
-/* line 118, ../css/sass/partials/hero.scss */
+/* line 126, ../css/sass/partials/hero.scss */
 .process {
   padding: 6rem; }
-  /* line 122, ../css/sass/partials/hero.scss */
+  /* line 130, ../css/sass/partials/hero.scss */
   .process .process-img {
     text-align: center;
     max-width: 36rem;
@@ -55,12 +55,12 @@
     width: 100%;
     min-width: 20rme; }
 
-/* line 136, ../css/sass/partials/hero.scss */
+/* line 144, ../css/sass/partials/hero.scss */
 .bg-solar {
   background: url(img/bg-top-var-2.svg) right top no-repeat;
   background-size: auto contain; }
 
-/* line 141, ../css/sass/partials/hero.scss */
+/* line 149, ../css/sass/partials/hero.scss */
 .bg-red {
   background: url(img/bg-bottom.svg) left bottom no-repeat;
   background-size: 33vw auto; }
