@@ -70,14 +70,10 @@ $breakpoint-up-prefixes: ("xs", "sm", "md", "lg", "xl");
 
 $tomato: #e5593f;
 
-.hero-part {
-    background: 
-    url('img/bg3.svg') bottom right no-repeat, 
-    url('img/bg7.svg') top left no-repeat;
-    height: 100vh;
-    padding: 7.2rem 0;
 
-    .hero-container {.hero-second { color: #fb6d86 !important; }
+
+
+.hero-container {.hero-second { color: #fb6d86 !important; }
     h1 {
 
 @media screen and (min-width: $lg-max) {
@@ -117,7 +113,7 @@ line-height: 3.6rem;
         
     }
     }
-}
+
 
 .process {
 
