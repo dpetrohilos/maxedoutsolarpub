@@ -52,8 +52,8 @@
 .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
-  background-size: 50vw auto, 100vw auto;
-  background-attachment: fixed, fixed;
+  background-size: 100vw auto, 50vw auto;
+  background-attachment: inherit, fixed;
   background-position: bottom center, top right; }
 
 /* line 144, ../css/sass/partials/hero.scss */
