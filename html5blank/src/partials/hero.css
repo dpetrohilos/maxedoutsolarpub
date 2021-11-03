@@ -48,14 +48,14 @@
     width: 100%;
     min-width: 20rme; }
 
-/* line 137, ../css/sass/partials/hero.scss */
+/* line 136, ../css/sass/partials/hero.scss */
 .bg-solar {
   background: url(img/bg-bottom-var-3.svg) bottom center, url(img/bg-top-var-2.svg) top right;
   background-repeat: no-repeat;
   background-size: 50vw auto;
   background-attachment: fixed; }
 
-/* line 144, ../css/sass/partials/hero.scss */
+/* line 143, ../css/sass/partials/hero.scss */
 .three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat #f2f2f2;
   background-size: 33vw auto; }
