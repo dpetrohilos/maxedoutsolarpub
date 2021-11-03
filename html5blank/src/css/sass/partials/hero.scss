@@ -136,7 +136,8 @@ padding: 6rem;
 
 .bg-solar {
         background: url(img/bg-top-var-2.svg) right top no-repeat;
-        background-size: 50vw auto; 
+        background-size: 50vw auto;
+        background-attachment: fixed; 
     }
 
 .three-across {

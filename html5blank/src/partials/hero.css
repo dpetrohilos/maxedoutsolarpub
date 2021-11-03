@@ -51,9 +51,10 @@
 /* line 137, ../css/sass/partials/hero.scss */
 .bg-solar {
   background: url(img/bg-top-var-2.svg) right top no-repeat;
-  background-size: 50vw auto; }
+  background-size: 50vw auto;
+  background-attachment: fixed; }
 
-/* line 142, ../css/sass/partials/hero.scss */
+/* line 143, ../css/sass/partials/hero.scss */
 .three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat;
   background-size: 33vw auto; }
