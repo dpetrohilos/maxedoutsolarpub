@@ -182,12 +182,12 @@ $xl-start: ($lg-max + 1); // Generate xl breakpoint's min width
 {
   position: absolute;
   width: 110vw;
-  margin: -100px 0 0 90vw;
+  margin: -100px 0 0 -98vw;
   padding: 50px;
   padding-top: 125px;
     height: 110vh;
   
-  background: #ededed;
+  background: $body-bg;
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
   /* to stop flickering of text in safari */
