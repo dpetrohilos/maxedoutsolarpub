@@ -7,7 +7,7 @@
             </div>
     </section>
         <section clas="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 first-lg first-xl first-md last-sm last-xs">
             <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-1' ) ) ?>
                   <p class="btn-wrap">
     
@@ -17,5 +17,13 @@
             </a></p> 
             
             </div>
+            
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 last-lg last-xl last-md first-sm first-xs">
+                   
+        <img class="img-icon lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/family-illustration.svg" alt="Family happy proud to be going solar" />
+
+            
+        </div>
+            
     </section></div>
 </div>
