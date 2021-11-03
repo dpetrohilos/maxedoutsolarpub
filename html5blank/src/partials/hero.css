@@ -55,17 +55,12 @@
     width: 100%;
     min-width: 20rme; }
 
-/* line 140, ../css/sass/partials/hero.scss */
-.home .bg-solar {
+/* line 136, ../css/sass/partials/hero.scss */
+.bg-solar {
   background: url(img/bg-top-var-2.svg) right top no-repeat;
-  background-size: 66vw auto; }
+  background-size: auto auto; }
 
-/* line 148, ../css/sass/partials/hero.scss */
-.page .bg-solar {
-  background: url(img/bg-top.png) center top no-repeat;
-  background-size: 66vh auto; }
-
-/* line 155, ../css/sass/partials/hero.scss */
+/* line 141, ../css/sass/partials/hero.scss */
 .three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat;
   background-size: 33vw auto; }
