@@ -6,7 +6,7 @@
             
         </div></section><section class="row">
     
-    <div class="col-lg-4 col-sm-12">
+    <div class="col-lg-5 col-md-6 col-sm-12">
             
             <?php if ( ! function_exists( 'dynamic_sidebar' ) || ! dynamic_sidebar( 'widget-area-1' ) ) ?>
                   <p class="btn-wrap">
@@ -18,7 +18,7 @@
             
             </div>
             
-    <div class="col-lg-8 col-sm-12">
+    <div class="col-lg-7 col-md-6 col-sm-12">
                   
 
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/rtsolar-illustration.svg" alt="Happy Family In A sustainable Future" width="1280" height="800">
