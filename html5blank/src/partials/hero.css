@@ -61,6 +61,6 @@
   background-size: auto contain; }
 
 /* line 149, ../css/sass/partials/hero.scss */
-.bg-red {
+.three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat;
   background-size: 33vw auto; }
