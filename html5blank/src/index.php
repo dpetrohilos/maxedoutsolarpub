@@ -18,11 +18,10 @@
     </picture>
 </a>    
 
-    
     <p class="text-center">
     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img text-center">
     </p>
-    <h2>Your Green Future. Your Green Energy Community</h2>
+    <h2>Your Green Future Starts Today</h2>
     
     <p>Our cooperative was founded in 2020 during the Great Resignation and the Covid-19 pandemic.</p>
     
