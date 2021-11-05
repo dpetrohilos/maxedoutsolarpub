@@ -23,7 +23,7 @@
     
 
 
-    <h2>Your Green Future Starts Today</h2>
+    <h2>A message from our founders</h2>
     
     <p>Our cooperative was founded in 2020 during the Great Resignation and the Covid-19 pandemic.</p>
     
