@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <?php get_template_part( 'templateparts/bigred' ); ?>
-<div class="wrapper three-across"><section class="row">
-<div class="col-lg-6 col-md-8 col-sm-12 about-us offset-lg-3 offset-md-2">
+<div class="wrapper-full about-us"><div class="wrapper"><section class="row">
+<div class="col-lg-6 col-md-8 col-sm-12 offset-lg-3 offset-md-2">
     <p class="text-center">
     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img text-center">
     </p>
@@ -25,7 +25,7 @@
         <em>Founder, Max Neely</em>
     </p>
     
-    </div></section></div>
+    </div></section></div></div>
 
 <?php get_template_part( 'templateparts/three' ); ?>
 <?php get_template_part( 'templateparts/introduction' ); ?>
