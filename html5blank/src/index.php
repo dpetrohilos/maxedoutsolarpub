@@ -1,5 +1,32 @@
 <?php get_header(); ?>
 <?php get_template_part( 'templateparts/bigred' ); ?>
+<div class="wrapper"><section class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 about-us">
+    <p class="text-center">
+    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img text-center">
+    </p>
+    <h2>Your Green Future. Your Green Energy Community</h2>
+    
+    <p>Our cooperative was founded in 2020 during the Great Resignation and the Covid-19 pandemic.</p>
+    
+    <p>We're not just interested in putting solar on your roof, we're intersted in build stronger vibrant communities.</p>
+    
+    <p>Everyone deserves cleaner air, water, and communities.</p>
+    
+    <h2>We strive to give more than we take</h2>
+    
+    <p>We do this by donating money from your purchase towards community projects. We're looking to not just green your roof but connect you towards supporting activists on the ground.</p>
+    
+    <p>When you get solar from us, we'll make sure it's good for your neighbors and community members</p>
+    
+    <p class="text-center">
+    <img src="https://maxedoutsolar.com/wp-content/uploads/2021/04/Max-face-friendly.png" alt="Founder Of Maxed Out Solar" class="logo-img text-center">
+        <br/>
+        Founder, Max Neely
+    </p>
+    
+</div></section>
+
 <?php get_template_part( 'templateparts/three' ); ?>
 <?php get_template_part( 'templateparts/introduction' ); ?>
 <?php get_template_part( 'templateparts/two' ); ?>
