@@ -51,7 +51,7 @@
   .description p {
     margin-top: .6rem; }
 
-/* line 127, ../css/sass/partials/splash.scss */
+/* line 125, ../css/sass/partials/splash.scss */
 .ghost-center {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -64,11 +64,11 @@
       -ms-flex-direction: column;
           flex-direction: column;
   height: 50vh; }
-  /* line 133, ../css/sass/partials/splash.scss */
+  /* line 131, ../css/sass/partials/splash.scss */
   .ghost-center span {
     color: #fff !important; }
 
-/* line 139, ../css/sass/partials/splash.scss */
+/* line 137, ../css/sass/partials/splash.scss */
 #hs_cos_wrapper_widget_1632277226579 {
   padding: 1.2rem;
   background-color: #add7ff;
