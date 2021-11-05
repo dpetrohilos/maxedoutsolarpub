@@ -3,7 +3,7 @@
 <div class="wrapper-full about-us"><div class="wrapper">
     
     <section class="row">
-        <div class="col-lg-8 col-md-10 col-sm-12 col-lg-offset-2 col-md-offset-1">
+        <div class="col-lg-12 col-md-12 col-sm-12">
             <a href="https://www.youtube.com/embed/_VNx83azM5M" class="glightbox3"> <!----change after videos are made!---->
         
     <picture>    
