@@ -13,12 +13,10 @@
 <div class="col-xl-6 col-lg-9 col-md-12 col-sm-12 col-xs-12">
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
                 <?php the_content(); ?>
-
+    <div class="form-import">
+    <div data-prefill-inherit="1" data-paperform-id="find-my-local-community-solar-project" data></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
     
-    
-<div class="form-import"></div><script data-paperform-id="find-my-local-community-solar-project" bg_id="maxedoutsolar" bgc_id="solar-with-no-panels" bg_pid="swnp-opt-in">(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
-    
-    </div></section>
+    </div></div></section>
             </article>
 		
             
