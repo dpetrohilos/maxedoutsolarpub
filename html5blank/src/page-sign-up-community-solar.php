@@ -14,14 +14,7 @@
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
                 <?php the_content(); ?>
 
-    <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
-<div id="hs_cos_wrapper_widget_1632277226579" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div data-prefill-inherit="1" data-paperform-id="find-my-local-community-solar-project"> <iframe title="Embedded form" frameborder="0" src="https://find-my-local-community-solar-project.paperform.co?embed=1&amp;takeover=0&amp;inline=1&amp;popup=0&amp;_d=www.myutilityadvisor.com&amp;_in=0&amp;bg_id=maxedoutsolar&amp;bg_cid=solar-with-no-panels&amp;bg_pid=swnp-opt-in&amp;" data-src="" allowfullscreen="" allowpaymentrequest="" width="100%" allow="geolocation *;camera *;microphone *;" style="
-        width: 100%;
-        box-sizing: border-box;
-        
-        height: 327px;"></iframe>   </div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script></div>
-
-</div>
+<div data-paperform-id="find-my-local-community-solar-project" bg_id="maxedoutsolar" bgc_id="solar-with-no-panels" bg_pid="swnp-opt-in"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
     
     </div></section>
             </article>
