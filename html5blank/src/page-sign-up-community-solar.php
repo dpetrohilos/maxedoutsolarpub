@@ -25,7 +25,6 @@
 
 			<!-- article -->
 			<article>
-
 				<h2><?php esc_html_e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
 
 			</article>
