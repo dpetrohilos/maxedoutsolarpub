@@ -21,8 +21,8 @@
     
     <p class="text-center">
     <img src="https://maxedoutsolar.com/wp-content/uploads/2021/04/Max-face-friendly.png" alt="Founder Of Maxed Out Solar" class="logo-img text-center">
-        <br/>
-        Founder, Max Neely
+    <br/>
+        <em>Founder, Max Neely</em>
     </p>
     
 </div></section>
