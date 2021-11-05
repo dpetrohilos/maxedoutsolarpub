@@ -16,12 +16,7 @@
 
     
     
-    <div class="span12 widget-span widget-type-custom_widget dnd-module">
-        
-    <div data-paperform-id="find-my-local-community-solar-project" bg_id="maxedoutsolar" bgc_id="solar-with-no-panels" bg_pid="swnp-opt-in"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
-    
-
-</div>
+<div class="form-import" data-paperform-id="find-my-local-community-solar-project" bg_id="maxedoutsolar" bgc_id="solar-with-no-panels" bg_pid="swnp-opt-in"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
     
     </div></section>
             </article>
