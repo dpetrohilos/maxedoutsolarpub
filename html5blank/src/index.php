@@ -1,9 +1,10 @@
 <?php get_header(); ?>
 <?php get_template_part( 'templateparts/bigred' ); ?>
-<div class="wrapper-full about-us"><div class="wrapper"><section class="row">
-<div class="col-lg-6 col-md-8 col-sm-12 col-lg-offset-3 col-lg-offset-2">
+<div class="wrapper-full about-us"><div class="wrapper">
     
-<a href="https://www.youtube.com/embed/_VNx83azM5M" class="glightbox3"> <!----change after videos are made!---->
+    <section class="row">
+        <div class="col-lg-8 col-md-10 col-sm-12 col-lg-offset-2 col-md-offset-1">
+            <a href="https://www.youtube.com/embed/_VNx83azM5M" class="glightbox3"> <!----change after videos are made!---->
         
     <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
@@ -12,11 +13,14 @@
 <source class="lazy" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5-50.jpg" media="(min-width: 800px)">
   
 <img width="624" class="responsive-img radius-both lazy" src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/video-5@1.5x-50.jpg" alt="Featured video" />
-
-        
         
     </picture>
 </a>    
+        </div></section>
+    
+    <section class="row">
+<div class="col-lg-6 col-md-8 col-sm-12 col-lg-offset-3 col-lg-offset-2">
+    
 
     <p class="text-center">
     <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img text-center">
