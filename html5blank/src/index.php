@@ -23,11 +23,11 @@
     
 
 
-    <h2>A message from our founders</h2>
+    <h2>A message from our founder</h2>
     
     <p>Our cooperative was founded in 2020 during the Great Resignation and the Covid-19 pandemic.</p>
     
-    <p>We're not just interested in putting solar on your roof, we're intersted in build stronger vibrant communities.</p>
+    <p>We're not just interested in putting solar on your roof, we're interested in building stronger vibrant communities.</p>
     
     <p>Everyone deserves cleaner air, water, and communities.</p>
     
