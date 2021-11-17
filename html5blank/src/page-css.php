@@ -111,7 +111,5 @@ $do_not_duplicate = $post->ID; ?>
         </div>
     </section>
     
-</div>
-            
-                       
+</div>                  
 <?php get_footer('eco'); ?>

@@ -1,7 +1,9 @@
+<!----Community Solar!---->
+
 <div class="wrapper-full bgred bg-solar" id="talk"><div class="wrapper">
     <section class="row">
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
-<a href="https://www.youtube.com/embed/NudelFOaDVI" class="glightbox3"> <!----change after videos are made!---->
+<a href="https://www.youtube.com/embed/NudelFOaDVI" class="glightbox3"> 
         
     <picture>    
 <source class="lazy" sizes="(min-width: 40rem) 80vw, 100vw" 
