@@ -49,7 +49,7 @@
     min-width: 20rme; }
 
 /* line 128, ../css/sass/partials/hero.scss */
-.bg-solar {
+.home > .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
   background-size: 100vw auto, 50vw auto;
