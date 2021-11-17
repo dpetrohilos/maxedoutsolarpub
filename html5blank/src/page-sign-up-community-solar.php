@@ -14,7 +14,7 @@
 <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="Maxed Out Solar" class="logo-img">
                 <?php the_content(); ?>
     <div class="form-import">
-    <div data-prefill-inherit="1" data-paperform-id="find-my-local-community-solar-project" data></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+    <div data-prefill-inherit="1" data-paperform-id="find-my-local-community-solar-project"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
     
     </div></div></section>
             </article>
