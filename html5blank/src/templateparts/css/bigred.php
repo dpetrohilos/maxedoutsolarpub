@@ -18,7 +18,6 @@
 </div>
 </div>
 
-
 <div class="wrapper-full bgred" id="talk"><div class="wrapper">
     <section class="row">
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
