@@ -125,6 +125,18 @@ padding: 6rem;
 
 }
 
+
+
+.page > .bg-solar {
+    
+    background: url(img/gradient-internal-bg.svg);
+    background-repeat: no-repeat; 
+    background-size: 100vw auto; 
+    background-position: top center; 
+    
+}
+
+
 .home > .bg-solar {
         background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
         background-repeat: no-repeat, no-repeat; 

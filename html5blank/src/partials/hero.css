@@ -48,7 +48,14 @@
     width: 100%;
     min-width: 20rme; }
 
-/* line 128, ../css/sass/partials/hero.scss */
+/* line 130, ../css/sass/partials/hero.scss */
+.page > .bg-solar {
+  background: url(img/gradient-internal-bg.svg);
+  background-repeat: no-repeat;
+  background-size: 100vw auto;
+  background-position: top center; }
+
+/* line 140, ../css/sass/partials/hero.scss */
 .home > .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
@@ -56,12 +63,12 @@
   background-attachment: fixed, fixed;
   background-position: bottom center, top right; }
 
-/* line 136, ../css/sass/partials/hero.scss */
+/* line 148, ../css/sass/partials/hero.scss */
 .three-across {
   background: url(img/bg-bottom.svg) left bottom no-repeat #f2f2f2;
   background-size: 33vw auto; }
 
-/* line 142, ../css/sass/partials/hero.scss */
+/* line 154, ../css/sass/partials/hero.scss */
 .about-us {
   background: #f2f2f2;
   padding: 4.8rem 0; }
