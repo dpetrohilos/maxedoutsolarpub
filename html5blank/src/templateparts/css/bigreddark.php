@@ -23,7 +23,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Make The Switch</a><span>No upfront cost.</span>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Make The Switch</a><span>No upfront cost.</span>
 <!-- Calendly link widget end -->
     
         </p>   

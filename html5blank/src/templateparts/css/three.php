@@ -13,7 +13,7 @@
    <p class="btn-wrap">
     
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Sign up</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Sign up</a>
     
         </p>
 
