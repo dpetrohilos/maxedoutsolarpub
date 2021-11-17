@@ -1,6 +1,25 @@
-<!----Community Solar!---->
+<div class="wrapper-full hero bg-solar"><div class="wrapper">
+    <section class="row">
+        <div class="col-lg-12 col-sm-12"><span class="hero-container">
+<h1>Claim Your Clean <span>Energy Credit</span></h1></span>
+<p class="btn-wrap">
+    
+    <!-- Calendly link widget begin -->
 
-<div class="wrapper-full bgred bg-solar" id="talk"><div class="wrapper">
+<a title="Free Consultation Link" class="btn-beta" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
+            </a><!-- Calendly link widget end -->
+    <span>No cost. No risk.</span>        
+        </p>             
+            
+        </div></section>
+    
+    
+    
+</div>
+</div>
+
+
+<div class="wrapper-full bgred" id="talk"><div class="wrapper">
     <section class="row">
     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
 <a href="https://www.youtube.com/embed/NudelFOaDVI" class="glightbox3"> 
@@ -24,14 +43,7 @@
         
             
         
-<p class="btn-wrap">
-    
-    <!-- Calendly link widget begin -->
 
-<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find A Project Near You 
-            </a><!-- Calendly link widget end -->
-    <span>No cost. No risk.</span>        
-        </p> 
         
         </div>
     </section>
