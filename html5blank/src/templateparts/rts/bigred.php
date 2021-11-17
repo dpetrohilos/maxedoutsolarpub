@@ -1,7 +1,7 @@
 <div class="wrapper-full hero bg-solar"><div class="wrapper">
     <section class="row">
         <div class="col-lg-12 col-sm-12"><span class="hero-container">
-<h1>Start Your <span>Solar Investment</span></h1></span>
+<h1>Start Your <span>Solar Futures</span></h1></span>
 <p class="btn-wrap">
 
     
