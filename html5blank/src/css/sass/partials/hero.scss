@@ -128,7 +128,7 @@ padding: 6rem;
 
 .page > .bg-solar {
     
-    background: url(img/gradient-internal-bg.svg);
+    background: linear-gradient(90deg, rgba(255,230,88,1) 0%, rgba(240,75,51,1) 100%);
     background-repeat: no-repeat; 
     background-size: 100vw auto; 
     background-position: top center; 
@@ -140,6 +140,16 @@ padding: 6rem;
     padding-bottom: 14.4rem; 
 
 }
+
+
+.page > .bg-solar::after { 
+    position: absolute; 
+    height: 2.4rem; 
+    background: url(img/gradient-internal-bg.svg);
+
+
+}
+ 
 
 .page > .bgred {
     
