@@ -52,23 +52,24 @@
 .page > .bg-solar {
   background: -webkit-gradient(linear, left top, right top, from(#ffe658), to(#f04b33));
   background: linear-gradient(90deg, #ffe658 0%, #f04b33 100%);
-  padding-bottom: 14.4rem; }
+  padding-bottom: 7.2rem;
+  margin-bottom: 7.2rem; }
   /* line 133, ../css/sass/partials/hero.scss */
   .page > .bg-solar h1 {
     color: #fff; }
 
-/* line 142, ../css/sass/partials/hero.scss */
+/* line 143, ../css/sass/partials/hero.scss */
 .page > .bg-solar::after {
   height: 2.4rem;
   width: 100vw;
   background: url(img/gradient-internal-bg.svg);
   display: block; }
 
-/* line 152, ../css/sass/partials/hero.scss */
+/* line 153, ../css/sass/partials/hero.scss */
 .page > .bgred {
   padding-bottom: 7.2rem; }
 
-/* line 158, ../css/sass/partials/hero.scss */
+/* line 159, ../css/sass/partials/hero.scss */
 .home > .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
@@ -76,12 +77,12 @@
   background-attachment: fixed, fixed;
   background-position: bottom center, top right; }
 
-/* line 166, ../css/sass/partials/hero.scss */
+/* line 167, ../css/sass/partials/hero.scss */
 .three-across {
   background: #f2f2f2;
   background-size: 33vw auto; }
 
-/* line 172, ../css/sass/partials/hero.scss */
+/* line 173, ../css/sass/partials/hero.scss */
 .about-us {
   background: #f2f2f2;
   padding: 4.8rem 0; }
