@@ -1,7 +1,7 @@
 <div class="wrapper-full hero bg-solar"><div class="wrapper">
     <section class="row">
         <div class="col-lg-12 col-sm-12"><span class="hero-container">
-<h1>Solar Without<span>Pannels</span></h1></span>
+<h1>Solar Without <span>Panel</span></h1></span>
 <p class="btn-wrap">
     
     <!-- Calendly link widget begin -->
