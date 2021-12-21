@@ -6,7 +6,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Free Consultation Link" class="btn" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Find A Project Near You 
+<a title="Free Consultation Link" class="btn-alpha" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Find A Project Near You 
             </a><!-- Calendly link widget end -->
     <span>No cost. No risk.</span>        
         </p>             
