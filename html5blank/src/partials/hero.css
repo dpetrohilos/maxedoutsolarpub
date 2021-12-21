@@ -63,7 +63,7 @@
   /* line 147, ../css/sass/partials/hero.scss */
   .page > .bg-solar .btn-alpha:hover {
     color: #fff !important;
-    border: #fff !important; }
+    border-color: #fff !important; }
 
 /* line 160, ../css/sass/partials/hero.scss */
 .page > .bgred {
