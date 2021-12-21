@@ -57,19 +57,19 @@
   /* line 133, ../css/sass/partials/hero.scss */
   .page > .bg-solar h1 {
     color: #fff; }
+  /* line 140, ../css/sass/partials/hero.scss */
+  .page > .bg-solar .btn-wrapper {
+    padding-top: 3.6rem; }
+    /* line 144, ../css/sass/partials/hero.scss */
+    .page > .bg-solar .btn-wrapper a:hover {
+      color: #fff !important;
+      border: #fff !important; }
 
-/* line 143, ../css/sass/partials/hero.scss */
-.page > .bg-solar::after {
-  height: 2.4rem;
-  width: 100vw;
-  background: url(img/gradient-internal-bg.svg);
-  display: block; }
-
-/* line 153, ../css/sass/partials/hero.scss */
+/* line 157, ../css/sass/partials/hero.scss */
 .page > .bgred {
   padding-bottom: 7.2rem; }
 
-/* line 159, ../css/sass/partials/hero.scss */
+/* line 163, ../css/sass/partials/hero.scss */
 .home > .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
@@ -77,12 +77,12 @@
   background-attachment: fixed, fixed;
   background-position: bottom center, top right; }
 
-/* line 167, ../css/sass/partials/hero.scss */
+/* line 171, ../css/sass/partials/hero.scss */
 .three-across {
   background: #f2f2f2;
   background-size: 33vw auto; }
 
-/* line 173, ../css/sass/partials/hero.scss */
+/* line 177, ../css/sass/partials/hero.scss */
 .about-us {
   background: #f2f2f2;
   padding: 4.8rem 0; }

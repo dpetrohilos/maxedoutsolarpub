@@ -136,18 +136,22 @@ padding: 6rem;
     
     padding-bottom: 7.2rem;
     margin-bottom: 7.2rem;
+    
+    .btn-wrapper {
+        padding-top: 3.6rem; 
+        
+        a {
+            &:hover {
+                color: #fff !important; 
+                border: #fff !important; 
+                
+            }    
+            }
+    }
 
 }
 
 
-.page > .bg-solar::after { 
-    height: 2.4rem;
-    width: 100vw; 
-    background: url(img/gradient-internal-bg.svg);
-    display: block; 
-
-
-}
  
 
 .page > .bgred {
