@@ -140,9 +140,11 @@ padding: 6rem;
 
 
 .page > .bg-solar::after { 
-    height: 2.4rem; 
+    height: 2.4rem;
+    width: 100vw; 
     background: url(img/gradient-internal-bg.svg);
-content: ""; 
+    display: block; 
+
 
 }
  
