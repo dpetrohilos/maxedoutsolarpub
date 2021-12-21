@@ -140,13 +140,16 @@ padding: 6rem;
     .btn-wrapper {
         padding-top: 3.6rem; 
         
-        .btn-alpha {
+           
+            }
+    
+     .btn-alpha {
             &:hover {
                 color: #fff !important; 
                 border: #fff !important; 
                 
-            }    
             }
+    
     }
 
 }
