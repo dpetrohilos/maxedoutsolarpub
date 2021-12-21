@@ -84,5 +84,7 @@
 
 /* line 180, ../css/sass/partials/hero.scss */
 .about-us {
-  background: #f2f2f2;
-  padding: 4.8rem 0; }
+  background: #f2f2f2; }
+  /* line 184, ../css/sass/partials/hero.scss */
+  .about-us .row {
+    padding: 4.8rem 0; }

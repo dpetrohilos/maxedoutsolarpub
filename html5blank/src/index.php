@@ -23,19 +23,21 @@
     
 
 
-    <h2>A message from our founder</h2>
+    <h2>A Message From Maxed Out Solar’s Founder</h2>
     
-    <p>Our cooperative was founded in 2020 during the Great Resignation and the Covid-19 pandemic.</p>
+<p>Your energy bills are probably way too high. We can help you take on your expensive, monopolistic utility company and own your own solar panels, producing your own power instead of renting! Our hard work in the solar community makes entire neighborhoods stronger, healthier, and more vibrant. 
+</p>
     
-    <p>We're not just interested in putting solar on your roof, we're interested in building stronger vibrant communities.</p>
-    
-    <p>Everyone deserves cleaner air, water, and communities.</p>
+<p>Everyone deserves breathable air, clean drinking water, and healthier communities. Community solar and rooftop solar <strong>lower the overall cost of electricity</strong> for local communities, and are much better for the planet than fossil fuels.
+</p>
     
     <h2>We strive to give more than we take</h2>
     
-    <p>We do this by donating money from your purchase towards community projects. We're looking to not just green your roof but connect you towards supporting activists on the ground.</p>
+    <p>Our solar solutions provide maxed out value. Researching solar solutions should be easy. We pack our website with useful information to make the switch to solar a no-brainer. Every three households that switch will offset enough carbon emissions to save one life elsewhere in the world. 
+</p>
     
-    <p>When you get solar from us, we'll make sure it's good for your neighbors and community members</p>
+    <p>That’s a big deal. If you want to support your local climate movement, we can connect you. When we switch you to solar, we look out for your wallet and our planet and keep you informed every step of the way.    </p>
+    
     
     <p class="text-center">
     <img src="https://maxedoutsolar.com/wp-content/uploads/2021/04/Max-face-friendly.png" alt="Founder Of Maxed Out Solar" class="logo-img text-center">
