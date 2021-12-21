@@ -61,7 +61,7 @@
   .page > .bg-solar .btn-wrapper {
     padding-top: 3.6rem; }
     /* line 144, ../css/sass/partials/hero.scss */
-    .page > .bg-solar .btn-wrapper a:hover {
+    .page > .bg-solar .btn-wrapper .btn-alpha:hover {
       color: #fff !important;
       border: #fff !important; }
 
