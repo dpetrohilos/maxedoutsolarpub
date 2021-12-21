@@ -60,11 +60,11 @@
   .page > .bg-solar h1 {
     color: #fff; }
 
-/* line 146, ../css/sass/partials/hero.scss */
+/* line 144, ../css/sass/partials/hero.scss */
 .page > .bgred {
   padding-bottom: 7.2rem; }
 
-/* line 152, ../css/sass/partials/hero.scss */
+/* line 150, ../css/sass/partials/hero.scss */
 .home > .bg-solar {
   background: url(img/bg-bottom-var-3.svg), url(img/bg-top-var-2.svg);
   background-repeat: no-repeat, no-repeat;
@@ -72,12 +72,12 @@
   background-attachment: fixed, fixed;
   background-position: bottom center, top right; }
 
-/* line 160, ../css/sass/partials/hero.scss */
+/* line 158, ../css/sass/partials/hero.scss */
 .three-across {
   background: #f2f2f2;
   background-size: 33vw auto; }
 
-/* line 166, ../css/sass/partials/hero.scss */
+/* line 164, ../css/sass/partials/hero.scss */
 .about-us {
   background: #f2f2f2;
   padding: 4.8rem 0; }
