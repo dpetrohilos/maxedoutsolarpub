@@ -10,7 +10,7 @@
 		<link href="<?php echo esc_url( get_template_directory_uri() ); ?>/img/icons/touch.png" rel="apple-touch-icon">
 		<link rel="alternate" type="application/rss+xml" title="<?php bloginfo( 'name' ); ?>" href="<?php bloginfo( 'rss2_url' ); ?>" />
         <?php wp_head(); ?><!-- Facebook Pixel Code -->
-
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-WDHCPFX"></script>
 <!-- End Facebook Pixel Code -->
 	</head>
 	<body <?php body_class(); ?>>

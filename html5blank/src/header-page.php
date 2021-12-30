@@ -28,6 +28,8 @@ fbq('track', 'PageView');
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=882561502389151&ev=PageView&noscript=1"
 /></noscript>
+        
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-WDHCPFX"></script>        
 <!-- End Facebook Pixel Code -->
 
 		<?php wp_head(); ?>
