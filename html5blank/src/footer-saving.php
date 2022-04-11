@@ -75,7 +75,7 @@
 					);
 				?>
 
-                 <p>Designed By <a href="repeater.design" title="link to repeater design firm">Repeater.Design</a></p>
+                 <p>Designed By <a href="repeater.digital" title="link to repeater design firm">repeater.Dwigital</a></p>
 
                 
                 </div>
