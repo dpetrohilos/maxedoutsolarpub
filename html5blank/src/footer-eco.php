@@ -57,7 +57,7 @@
 					);
 				?>
 
-                 <p>Designed By <a href="repeater.digital" title="link to repeater design firm">Repeater.Digital</a></p>
+                 <p>Designed By <a href="https://www.repeater.digital" title="link to repeater design firm">Repeater.Digital</a></p>
 
                 
                 </div>
