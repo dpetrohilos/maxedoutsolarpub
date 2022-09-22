@@ -11,7 +11,7 @@
 <p class="btn-wrap">
     
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Find A Project Near You</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-local-community-solar-farm/">Find A Project Near You</a>
     
         </p>       </div>
        
@@ -24,7 +24,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/community-solarbg_idmaxedoutsolarbg_cidsolar-with-no-panelsbg_pidswnp-opt-infindaproject/">Lets Do It</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-local-community-solar-farm/">Lets Do It</a>
 <!-- Calendly link widget end -->
     
         </p>
