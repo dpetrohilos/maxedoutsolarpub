@@ -12,7 +12,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Community Solar" class="btn-alpha" href="https://maxedoutsolar.com/green-the-grid-with-community-solar/">Get Community Solar</a>
+<a title="Community Solar" class="btn-alpha" href="https://maxedoutsolar.com/find-a-local-community-solar-farm/">Get Community Solar</a>
 <!-- Calendly link widget end -->
     
         </p>       </div>
@@ -26,7 +26,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Rooftop Solar Page Link" class="btn-alpha" href="https://maxedoutsolar.com/rooftopsolar/">Get Rooftop Solar</a>
+<a title="Rooftop Solar Page Link" class="btn-alpha" href="https://maxedoutsolar.com/sign-up/">Get Rooftop Solar</a>
 <!-- Calendly link widget end -->
     
         </p>
