@@ -8,7 +8,7 @@
     
     <!-- Calendly link widget begin -->
 
-<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-community-solar-project-near-you/">Find Local Solar Projects</a>
+<a title="Find a project near you" class="btn-alpha" href="https://maxedoutsolar.com/find-a-local-community-solar-farm/">Find Local Solar Projects</a>
 <!-- Calendly link widget end -->
     <span>No risk. No upfront costs.</span>        
         </p> 
